@@ -5,10 +5,11 @@ set -e
 
 # source C:/Users/User/Desktop/MT/atmt311/Scripts/activate
 
-base=`dirname "$(readlink -f "$0")"`
+pwd=`dirname "$(readlink -f "$0")"`
 src=fr
 tgt=en
-data=$base/data/$1/$tgt-$src/
+data=$pwd/data/$1/
+base=$pwd/../..
 
 # change into base directory to ensure paths are valid
 cd $base
