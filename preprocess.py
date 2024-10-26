@@ -63,7 +63,7 @@ def main(args):
             logging.info('Loaded a source dictionary ({}) with {} words'.format(args.target_lang, len(src_dict)))
 
     if not args.vocab_trg:
-        tgt_dict = build_dictionary([args.train_prefix + '.' + args.target_lang])
+        tgt_dict = build_dictionary([args.train_prefix + '.' + args.target_lang]) 
 
         tgt_dict.finalize(threshold=args.threshold_tgt, num_words=args.num_words_tgt)
         tgt_dict.save(os.path.join(args.dest_dir, 'dict.' + args.target_lang))
