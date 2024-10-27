@@ -2706,7 +2706,7 @@ Vous pouvez prendre la route que vous voulez .
 You can take the road you want to take the road you want .
 Sally se souvint des jours où sa grand @-@ mère était robuste et en santé .
 In the days of the days where her @-@ room was a great of the United States and health .
-Pourquoi ne pas demander à M . White ?
+Pourquoi ne pas demander à M. White ?
 Why don&apos; t you ask Mr Mr in Mr ? Why don&apos; t you have Mr in Mr ?
 Efforcez @-@ vous d&apos; être plus ponctuelle , désormais .
 Try to be more punctual from being more , now .
@@ -4604,7 +4604,7 @@ Elle reçut un présent de son petit copain .
 She will be a few of his little being a little being a little car .
 Pouvez @-@ vous éteindre la lumière ?
 Can you put the light in the light ?
-M . White a fait quelques commentaires sur mon discours .
+M. White a fait quelques commentaires sur mon discours .
 Mr Mr Mr made a few @-@ must have a great of my speech .
 Il compte parmi les plus grands scientifiques mondiaux .
 He is always working on the most more careful in the sun .
@@ -5758,7 +5758,7 @@ Nous devons le refaire .
 We must do it again .
 Elle a fait un voyage en Amérique , en s&apos; arrêtant dans six grandes villes .
 She made a trip in the trip , please in six , in six is .
-M . Young aimerait que son fils travaille davantage .
+M. Young aimerait que son fils travaille davantage .
 Mr as Tom&apos; d have Mr thought his son would work his son .
 Je suis dépourvu de défauts .
 I&apos; m not a student I&apos; m still from the right .
@@ -6380,7 +6380,7 @@ Elle est vraiment intelligente .
 She&apos; s really smart to say it .
 Arrêter de fumer a été la chose la plus difficile que j&apos; ai entreprise dans ma vie .
 Stop smoking smoking was the most thing I was the most thing in my life .
-Un certain M . Jones est venu pendant votre absence .
+Un certain M. Jones est venu pendant votre absence .
 A Mr was the sure of a Mr with your class on your your car .
 Ce garçon travailleur ne peut qu&apos; avoir du succès .
 This boy was just not sure sure I can&apos; t be sure of the success of the success .
@@ -7616,7 +7616,7 @@ Cette perte et ses conséquences auront un impact non seulement sur les gens qui
 This and his two and his two is an only of that that and his two his languages , but we&apos; ll be these languages , but we all languages .
 Jouons à colin @-@ maillard .
 Let&apos; s play a little get out of a of course .
-L&apos; homme que nous avons vu ce matin était M . Green .
+L&apos; homme que nous avons vu ce matin était M. Green .
 The man we saw this morning was Mr was Mr .
 Ce qui est passé est mort .
 What happened the death death death .
@@ -8412,7 +8412,7 @@ Stephen Colbert est un type plutôt délirant .
 He&apos; s a bit guy @-@ a guy woman .
 Rendez @-@ le @-@ moi !
 Give him to me !
-M . Smith m&apos; apprend l&apos; anglais .
+M. Smith m&apos; apprend l&apos; anglais .
 Mr Mr me Mr me your English .
 L&apos; ascenseur semble être en panne .
 The old seems to be in the right of the right .
@@ -8494,7 +8494,7 @@ Ce n&apos; est pas vraiment une solution .
 It&apos; s not really a really mine .
 Il se cache .
 He is in love with it .
-M . Brown est notre conseiller financier .
+M. Brown est notre conseiller financier .
 Mr up is our favorite number of our family .
 Je suis un artiste .
 I&apos; m a friend of a teacher .
@@ -11730,7 +11730,7 @@ Je suis très en colère .
 I&apos; m very angry .
 Tom ! Apporte @-@ moi un sandwich .
 Tom ! Please me a sandwich .
-M . Ito est un homme très éduqué .
+M. Ito est un homme très éduqué .
 Mr Mr is a Mr Mr Tom is a very old man is a very man .
 Ce fut un énorme soulagement .
 This was a complete person a was a new person .
@@ -12628,7 +12628,7 @@ Je travaille dans le domaine de l&apos; art .
 I work in the the way of art .
 Vous devriez le voir comme une opportunité .
 You should see the like a cold .
-&quot; Puis @-@ je parler à M . Nakagawa ? &quot; &quot; C&apos; est moi &quot; .
+&quot; Puis @-@ je parler à M. Nakagawa ? &quot; &quot; C&apos; est moi &quot; .
 &quot; Can I speak Mr &quot; to Mr &quot; &quot; &quot; ? &quot; &quot; It&apos; s to rain ? &quot;
 Il n&apos; y a que peu de fautes , voire pas du tout .
 There is no little of you , don&apos; t have to make the all of all .
@@ -13260,7 +13260,7 @@ Je ne vous connaissais pas , alors .
 I don&apos; t know you , too .
 Je connais les statistiques .
 I know the of the will I know .
-Nous avons élu M . Jordan à la place de président .
+Nous avons élu M. Jordan à la place de président .
 We&apos; ve been Mr Mr people in the in the station .
 Elle se mît à apprécier le nouvel instituteur .
 She went to the new teacher in the new teacher .
@@ -13628,7 +13628,7 @@ Ne possèdes @-@ tu pas de vélo ?
 Do you have no bicycle ?
 Tu as beaucoup de courage .
 You have a lot of nerve .
-Laissez @-@ moi vous présenter M . Tanaka .
+Laissez @-@ moi vous présenter M. Tanaka .
 Let me buy you to ask me to Mr .
 On ne peut jamais projeter le futur à partir du passé .
 We can never do the future to go to the past of the past .
@@ -13746,7 +13746,7 @@ Je suis sienne et elle est mienne .
 I&apos; m glad and she is mine .
 Connais @-@ tu pour sûr le prix de cette voiture ?
 Do you know how to get the price of this car ?
-Je respecte mon professeur d&apos; anglais , M . Taniguchi .
+Je respecte mon professeur d&apos; anglais , M. Taniguchi .
 I&apos; ll get my teacher with English , but I&apos; m Mr English .
 Êtes @-@ vous sûre de ne pas vouloir manger quelque chose ?
 Are you sure you don&apos; t want to eat something ?
@@ -13760,7 +13760,7 @@ La dernière chose que je veuille faire est vous causer le moindre mal suppléme
 Last thing I want to do that . I want to do is you a new question .
 Pensais @-@ tu que tu avais raison ?
 Do you think you were right ?
-M . Ito a dénoué sa cravate parce qu&apos; il avait chaud dans son bureau .
+M. Ito a dénoué sa cravate parce qu&apos; il avait chaud dans son bureau .
 Mr the teacher has been in his tie because he was hot his office .
 Allez embrasser quelqu&apos; un d&apos; autre !
 Go to the other someone will be another another !
@@ -15820,7 +15820,7 @@ Cent dollars devraient couvrir tous les coûts du voyage .
 Let&apos; s play dollars by all the trip of the trip .
 J&apos; ai toujours payé le loyer .
 I&apos; ve always eaten to the same train .
-La chambre de M . Johnson était une grande chambre .
+La chambre de M. Johnson était une grande chambre .
 The room is Mr Mr the room was a large room .
 C&apos; est la raison pour laquelle nous sommes ici .
 This is the reason we&apos; re the reason we&apos; re here .
@@ -17571,7 +17571,7 @@ You look so pale .
 Je ne pense vraiment pas que ce soit une bonne idée .
 I really don&apos; t think this is really that that&apos; s a good idea .
 Ça y est . J&apos; ai fait tout ce que je peux .
-It&apos; s . I did all I can do everything I can .
+It&apos; s. I did all I can do everything I can .
 L&apos; oryctérope est un animal de taille moyenne .
 The one is a good of the animal of the animal .
 Les règles de l&apos; école exigent que les élèves portent des uniformes scolaires .

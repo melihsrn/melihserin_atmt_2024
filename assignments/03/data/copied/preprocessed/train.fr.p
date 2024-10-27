@@ -2706,7 +2706,7 @@ Vous pouvez prendre la route que vous voulez .
 You can take whichever road you like .
 Sally se souvint des jours où sa grand @-@ mère était robuste et en santé .
 Sally recalled the days when her grandma was strong and healthy .
-Pourquoi ne pas demander à M . White ?
+Pourquoi ne pas demander à M. White ?
 Why don&apos; t you ask Mr White ?
 Efforcez @-@ vous d&apos; être plus ponctuelle , désormais .
 Try to be more punctual from now on .
@@ -4604,7 +4604,7 @@ Elle reçut un présent de son petit copain .
 She got a present from her boyfriend .
 Pouvez @-@ vous éteindre la lumière ?
 Can you turn off the light ?
-M . White a fait quelques commentaires sur mon discours .
+M. White a fait quelques commentaires sur mon discours .
 Mr White made a few comments on my speech .
 Il compte parmi les plus grands scientifiques mondiaux .
 He is numbered among the greatest scientists in the world .
@@ -5758,7 +5758,7 @@ Nous devons le refaire .
 We must do it again .
 Elle a fait un voyage en Amérique , en s&apos; arrêtant dans six grandes villes .
 She made a tour of America , stopping in six cities .
-M . Young aimerait que son fils travaille davantage .
+M. Young aimerait que son fils travaille davantage .
 Mr . Young wishes his son would study harder .
 Je suis dépourvu de défauts .
 I have no faults .
@@ -6380,7 +6380,7 @@ Elle est vraiment intelligente .
 She is very intelligent .
 Arrêter de fumer a été la chose la plus difficile que j&apos; ai entreprise dans ma vie .
 To give up smoking was the hardest thing I&apos; ve done in my life .
-Un certain M . Jones est venu pendant votre absence .
+Un certain M. Jones est venu pendant votre absence .
 A Mr Jones came while you were out .
 Ce garçon travailleur ne peut qu&apos; avoir du succès .
 That hard working boy is bound to succeed .
@@ -7616,7 +7616,7 @@ Cette perte et ses conséquences auront un impact non seulement sur les gens qui
 This loss and its consequences will have an impact not only the people that speak these languages but upon us all .
 Jouons à colin @-@ maillard .
 Let&apos; s play a game of blind man&apos; s buff .
-L&apos; homme que nous avons vu ce matin était M . Green .
+L&apos; homme que nous avons vu ce matin était M. Green .
 The man we saw this morning was Mr Green .
 Ce qui est passé est mort .
 Let bygones be bygones .
@@ -8412,7 +8412,7 @@ Stephen Colbert est un type plutôt délirant .
 Stephen Colbert is a pretty crazy guy .
 Rendez @-@ le @-@ moi !
 Give it back to me .
-M . Smith m&apos; apprend l&apos; anglais .
+M. Smith m&apos; apprend l&apos; anglais .
 Mr Smith teaches me English .
 L&apos; ascenseur semble être en panne .
 The elevator seems to be out of order .
@@ -8494,7 +8494,7 @@ Ce n&apos; est pas vraiment une solution .
 That&apos; s not really a solution .
 Il se cache .
 He&apos; s gone into hiding .
-M . Brown est notre conseiller financier .
+M. Brown est notre conseiller financier .
 Mr Brown is our financial adviser .
 Je suis un artiste .
 I am an artist .
@@ -11730,7 +11730,7 @@ Je suis très en colère .
 I am very angry .
 Tom ! Apporte @-@ moi un sandwich .
 Tom ! Bring me a sandwich .
-M . Ito est un homme très éduqué .
+M. Ito est un homme très éduqué .
 Mr Ito is a highly educated man .
 Ce fut un énorme soulagement .
 It was a huge relief .
@@ -12628,7 +12628,7 @@ Je travaille dans le domaine de l&apos; art .
 I work in the field of art .
 Vous devriez le voir comme une opportunité .
 You should think of this as an opportunity .
-&quot; Puis @-@ je parler à M . Nakagawa ? &quot; &quot; C&apos; est moi &quot; .
+&quot; Puis @-@ je parler à M. Nakagawa ? &quot; &quot; C&apos; est moi &quot; .
 &quot; May I speak to Mr Nakagawa ? &quot; &quot; Speaking &quot; .
 Il n&apos; y a que peu de fautes , voire pas du tout .
 There are only a few mistakes , or perhaps none at all .
@@ -13260,7 +13260,7 @@ Je ne vous connaissais pas , alors .
 I didn&apos; t know you then .
 Je connais les statistiques .
 I know the statistics .
-Nous avons élu M . Jordan à la place de président .
+Nous avons élu M. Jordan à la place de président .
 We elected Mr Jordan chairperson .
 Elle se mît à apprécier le nouvel instituteur .
 She came to like the new teacher .
@@ -13628,7 +13628,7 @@ Ne possèdes @-@ tu pas de vélo ?
 Don&apos; t you have a bicycle ?
 Tu as beaucoup de courage .
 You have a lot of nerve .
-Laissez @-@ moi vous présenter M . Tanaka .
+Laissez @-@ moi vous présenter M. Tanaka .
 Let me introduce you to Mr Tanaka .
 On ne peut jamais projeter le futur à partir du passé .
 You can never plan the future by the past .
@@ -13746,7 +13746,7 @@ Je suis sienne et elle est mienne .
 I am hers and she is mine .
 Connais @-@ tu pour sûr le prix de cette voiture ?
 Are you sure about the cost of that car ?
-Je respecte mon professeur d&apos; anglais , M . Taniguchi .
+Je respecte mon professeur d&apos; anglais , M. Taniguchi .
 I respect my English teacher , Mr . Taniguchi .
 Êtes @-@ vous sûre de ne pas vouloir manger quelque chose ?
 Are you sure you don&apos; t want something to eat ?
@@ -13760,7 +13760,7 @@ La dernière chose que je veuille faire est vous causer le moindre mal suppléme
 The last thing I want to do is cause you any more pain .
 Pensais @-@ tu que tu avais raison ?
 Did you think you were right ?
-M . Ito a dénoué sa cravate parce qu&apos; il avait chaud dans son bureau .
+M. Ito a dénoué sa cravate parce qu&apos; il avait chaud dans son bureau .
 Mr Ito loosened his tie because he felt hot in his office .
 Allez embrasser quelqu&apos; un d&apos; autre !
 Go kiss someone else .
@@ -15820,7 +15820,7 @@ Cent dollars devraient couvrir tous les coûts du voyage .
 One hundred dollars will cover all your expenses for the trip .
 J&apos; ai toujours payé le loyer .
 I&apos; ve always paid the rent .
-La chambre de M . Johnson était une grande chambre .
+La chambre de M. Johnson était une grande chambre .
 Mr Johnson&apos; s was a large room .
 C&apos; est la raison pour laquelle nous sommes ici .
 That&apos; s the reason we&apos; re here .

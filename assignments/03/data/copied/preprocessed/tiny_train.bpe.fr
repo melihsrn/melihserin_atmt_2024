@@ -17,16 +17,16 @@ J@@ ust do your jo@@ b@@ .
 L@@ e train était sur le point de quitter la ga@@ re@@ .
 The train was about to leave the sta@@ tion@@ .
 Vo@@ ici une cen@@ tra@@ le nu@@ cl@@ é@@ ai@@ re@@ .
-H@@ ere is an atomic power plan@@ t@@ .
-L@@ or@@ s@@ que le ré@@ ve@@ il se décl@@ en@@ che@@ , je ne bou@@ ge pas@@ .
+H@@ ere is an atom@@ ic power plan@@ t@@ .
+L@@ or@@ s@@ que le ré@@ ve@@ il se dé@@ cl@@ en@@ che@@ , je ne bou@@ ge pas@@ .
 Wh@@ en the al@@ arm clock goes off@@ , I don@@ ’@@ t mo@@ ve@@ .
 Ç@@ a a le toucher de la soi@@ e@@ .
 This feels like sil@@ k@@ .
-I@@ l y a eu un accident de la route ici@@ .
+I@@ l y a eu un accident de la route i@@ ci@@ .
 A traffic accident happened the@@ re@@ .
 Tom ne le faisait pas sou@@ ven@@ t@@ .
 Tom did@@ n@@ '@@ t do that very mu@@ ch@@ .
-Tom n@@ '@@ avait plus qu@@ '@@ un mot à couper pour que de cette phra@@ se@@ , à ja@@ mais@@ , dis@@ para@@ isse notre Mar@@ y@@ .
+Tom n@@ '@@ avait plus qu@@ '@@ un mot à cou@@ per pour que de cette phra@@ se@@ , à ja@@ ma@@ is@@ , dis@@ para@@ isse notre Mar@@ y@@ .
 Tom had just one word to cut so that out of this senten@@ ce@@ , fore@@ ver@@ , disappeared our Mar@@ y@@ .
 N@@ ous impor@@ tons du café du B@@ ré@@ sil@@ .
 W@@ e impor@@ t coffee from Braz@@ il@@ .
@@ -36,12 +36,12 @@ P@@ our@@ quoi es@@ t@@ -@@ ce que je te crois ?
 Wh@@ y do I believe you@@ ?
 T@@ u é@@ par@@ pil@@ lais tes affai@@ res@@ .
 Y@@ ou spread your affairs too thin@@ .
-C@@ es en@@ ce@@ intes ont une bonne ré@@ ver@@ bé@@ ra@@ tion@@ .
+C@@ es en@@ ce@@ in@@ tes ont une bonne ré@@ ver@@ bé@@ ra@@ tion@@ .
 T@@ ho@@ se box spea@@ kers have a good re@@ ver@@ b@@ .
 I@@ ls étaient pend@@ us à ses lè@@ v@@ res@@ .
 T@@ h@@ ey were hanging on her wor@@ d@@ s@@ .
 A@@ u lieu de vous pla@@ ind@@ re@@ , vous devriez peu@@ t@@ -@@ être aider@@ .
-In@@ st@@ ead of compla@@ in@@ ing@@ , maybe you should hel@@ p@@ .
+In@@ st@@ ead of compla@@ in@@ in@@ g@@ , maybe you should hel@@ p@@ .
 J@@ e pense que nous pouvons gérer cel@@ a@@ .
 I think we can handle that@@ .
 J@@ e suis profon@@ dé@@ ment intéressé par l@@ '@@ ar@@ t@@ .
@@ -55,7 +55,7 @@ I@@ '@@ d like to hear you sing your new son@@ g@@ .
 L@@ es enfants vont à la plage au@@ jour@@ d@@ '@@ hu@@ i@@ .
 The children are going to the beach to@@ da@@ y@@ .
 P@@ ouv@@ e@@ z@@ -@@ vous croire que ce soit vraiment en train de se produire ?
-C@@ an you believe this is really happ@@ en@@ ing@@ ?
+C@@ an you believe this is really happ@@ en@@ in@@ g@@ ?
 I@@ l a rem@@ bour@@ sé le prêt avec intérê@@ ts@@ .
 H@@ e paid the loan with interest@@ .
 J@@ e sais que tu aimes le cho@@ co@@ la@@ t@@ .
@@ -66,18 +66,18 @@ L@@ e cer@@ f cou@@ rait seu@@ l@@ .
 The de@@ er was running by it@@ sel@@ f@@ .
 P@@ our lui le divorce est une bonne invention qui a le seul dé@@ sav@@ an@@ tage qu@@ '@@ il faut se marier avan@@ t@@ .
 F@@ or hi@@ m@@ , divorce is a good inven@@ tion@@ , with one so@@ le dis@@ advan@@ ta@@ ge@@ : you have to get married fir@@ st@@ .
-L@@ es recomman@@ da@@ tions de la commission bi@@ -@@ parti@@ s@@ ane furent igno@@ ré@@ es@@ .
+L@@ es recomman@@ da@@ tions de la com@@ mission bi@@ -@@ parti@@ s@@ ane furent igno@@ ré@@ es@@ .
 The bi@@ parti@@ san com@@ mis@@ sion@@ '@@ s re@@ commen@@ da@@ tions were igno@@ re@@ d@@ .
 J@@ e n@@ '@@ ai pas été infor@@ mé d@@ '@@ où nous al@@ li@@ on@@ s@@ .
-I was@@ n@@ '@@ t told where we were go@@ ing@@ .
-C@@ e n@@ '@@ est pas sû@@ r@@ .
+I was@@ n@@ '@@ t told where we were go@@ in@@ g@@ .
+C@@ e n@@ '@@ est pas sû@@ r.
 Tha@@ t@@ '@@ s doub@@ t@@ fu@@ l@@ .
 E@@ lle eut l@@ '@@ intention de devenir ac@@ tr@@ ic@@ e@@ .
 S@@ he intended to become an act@@ res@@ s@@ .
 I@@ l ne montre jamais d@@ '@@ expres@@ sion fa@@ ci@@ al@@ e@@ .
 H@@ e is always expres@@ sion@@ less@@ .
 I@@ l a voy@@ ag@@ é autour du monde en quat@@ re@@ -@@ ving@@ ts jours par ses propres mo@@ y@@ en@@ s@@ .
-H@@ e has traveled around the world in eighty days by hi@@ m@@ sel@@ f@@ .
+H@@ e has travel@@ ed around the world in eighty days by hi@@ m@@ sel@@ f@@ .
 R@@ en@@ de@@ z@@ -@@ en la mé@@ té@@ o responsable !
 B@@ la@@ me it on the wea@@ ther@@ .
 J@@ e peux vous l@@ '@@ expliquer mais je ne peux pas le comprendre à votre place !
@@ -86,7 +86,7 @@ Hon@@ te à toi à cause de ton dé@@ coura@@ gement !
 S@@ ha@@ me on you for your dis@@ coura@@ g@@ em@@ ent@@ !
 I@@ l est sor@@ ti de la pièce sans dire un mo@@ t@@ .
 H@@ e left the room without saying a wor@@ d@@ .
-J@@ e voudrais sou@@ scri@@ re une assurance mal@@ adi@@ e@@ .
+J@@ e voudrais sou@@ scri@@ re une as@@ surance mal@@ adi@@ e@@ .
 I@@ '@@ d like to get medi@@ cal in@@ sur@@ an@@ ce@@ .
 I@@ l desc@@ end@@ it de la col@@ l@@ ine@@ .
 H@@ e went down the h@@ ill@@ .
@@ -96,19 +96,19 @@ Qu@@ i@@ conque s@@ '@@ y trouv@@ e@@ -@@ t@@ -@@ il ?
 I@@ s anybody the@@ re@@ ?
 J@@ e n@@ '@@ ai pas peur des fem@@ mes@@ .
 I@@ '@@ m not scared of wom@@ en@@ .
-La foule en colère retour@@ na des voitures et br@@ isa des vit@@ rin@@ es@@ .
+La foule en colère retour@@ na des voitures et br@@ is@@ a des vit@@ r@@ in@@ es@@ .
 The angry mo@@ b over@@ turned cars and smashed sto@@ re@@ front windo@@ ws@@ .
 J@@ e dé@@ mis@@ sion@@ ne@@ .
 I re@@ sign@@ .
 J@@ e sais qu@@ '@@ il est occup@@ é@@ .
 I know he is bus@@ y@@ .
-L@@ '@@ homme et son cheval qui étaient tomb@@ és au bas de la fal@@ aise ont été rapidement se@@ cour@@ us@@ .
+L@@ '@@ homme et son chev@@ al qui étaient tomb@@ és au bas de la fal@@ aise ont été rapidement se@@ cour@@ us@@ .
 The man and his horse that fell off the cli@@ ff were soon rescu@@ ed@@ .
 E@@ lle est très rus@@ é@@ e@@ .
-S@@ he is very c@@ un@@ n@@ ing@@ .
+S@@ he is very c@@ un@@ n@@ in@@ g@@ .
 I@@ l s@@ '@@ ag@@ issait d@@ '@@ un com@@ prom@@ is@@ .
 I@@ t was a com@@ prom@@ is@@ e@@ .
-I@@ l a tendance à oubli@@ er@@ .
+I@@ l a tend@@ ance à oubli@@ er@@ .
 H@@ e is ap@@ t to for@@ get@@ .
 U@@ n tiens vaut mieux que deux tu l@@ '@@ au@@ ra@@ s@@ .
 A bird in the hand is better than two in the bus@@ h@@ .
@@ -122,7 +122,7 @@ E@@ l@@ les ont ri de leur erre@@ ur@@ .
 T@@ h@@ ey all laughed at their er@@ r@@ or@@ .
 Tom n@@ '@@ a pas mangé la pomme que vous lui avez don@@ né@@ e@@ .
 Tom did@@ n@@ '@@ t eat the apple you gave hi@@ m@@ .
-L@@ es oiseaux ont des ni@@ d@@ s@@ , les ar@@ aig@@ n@@ ées ont des toil@@ es et les êtres hu@@ mains ont l@@ '@@ am@@ iti@@ é@@ .
+L@@ es ois@@ eaux ont des ni@@ d@@ s@@ , les ar@@ ai@@ g@@ n@@ ées ont des toil@@ es et les êtres hu@@ mains ont l@@ '@@ am@@ iti@@ é@@ .
 B@@ ir@@ ds have nes@@ ts@@ , spi@@ ders have web@@ s@@ , and hum@@ ans have friend@@ shi@@ p@@ .
 D@@ ix ans se sont écou@@ lé@@ s@@ .
 T@@ en years have gone b@@ y@@ .
@@ -130,8 +130,8 @@ J@@ e suis pi@@ é@@ gé@@ e@@ .
 I@@ '@@ m tr@@ appe@@ d@@ .
 Marie hé@@ site à prendre encore un morceau de gâ@@ tea@@ u@@ .
 Marie re@@ lu@@ ct@@ an@@ tly takes another piece of ca@@ ke@@ .
-J@@ '@@ ai laissé certains documents impor@@ tants pour la société à mon dom@@ ic@@ il@@ e@@ . Dé@@ sol@@ é@@ , mais pour@@ ri@@ e@@ z@@ -@@ vou@@ s@@ , je vous pri@@ e@@ , aller me les chercher maintenant ?
-I left behind some important documents for the company at home@@ . S@@ or@@ r@@ y@@ , but could you please go and get them for me no@@ w@@ ?
+J@@ '@@ ai laissé certains docu@@ ments impor@@ t@@ ants pour la société à mon dom@@ ic@@ il@@ e@@ . Dé@@ sol@@ é@@ , mais pour@@ ri@@ e@@ z@@ -@@ vou@@ s@@ , je vous pri@@ e@@ , aller me les chercher maintenant ?
+I left behind some important docu@@ ments for the company at home@@ . S@@ or@@ r@@ y@@ , but could you please go and get them for me no@@ w@@ ?
 « É@@ cou@@ te@@ -@@ mo@@ i@@ , » dit le Dé@@ mon@@ , en pos@@ ant sa main sur ma t@@ ê@@ te@@ .
 "@@ L@@ is@@ ten to me@@ ,@@ " said the D@@ em@@ on@@ , pla@@ cing his hand upon my hea@@ d@@ .
 V@@ ous auriez dû arrê@@ ter@@ .
@@ -142,24 +142,24 @@ Tom semble plus â@@ gé qu@@ '@@ il ne l@@ '@@ est ré@@ el@@ lem@@ ent@@ .
 Tom looks older than he really is@@ .
 J@@ e regar@@ dais la sc@@ ène en re@@ ten@@ ant mon sou@@ ff@@ le@@ .
 I was watching the scene hol@@ ding my brea@@ th@@ .
-Marie a fait connaissance de son petit ami à Par@@ is@@ .
+Marie a fait connaiss@@ ance de son petit ami à Par@@ is@@ .
 Mary got to know her boyfriend in Par@@ is@@ .
-Rem@@ et@@ te@@ z@@ -@@ leur vos pa@@ pi@@ er@@ s@@ .
+R@@ em@@ et@@ te@@ z@@ -@@ leur vos pa@@ pi@@ er@@ s@@ .
 H@@ and in your pa@@ per@@ s@@ .
 Ê@@ tes@@ -@@ vous toujours mariés ?
 A@@ re you still mar@@ ri@@ ed@@ ?
-V@@ ous devez régl@@ er par avan@@ ce@@ .
+V@@ ous devez ré@@ gl@@ er par avan@@ ce@@ .
 Y@@ ou must pay in advan@@ ce@@ .
 E@@ n K@@ aby@@ lie on parle la langue k@@ aby@@ le@@ .
-I@@ n K@@ aby@@ li@@ a@@ , we speak the K@@ abyle langu@@ ag@@ e@@ .
+I@@ n K@@ aby@@ li@@ a@@ , we speak the K@@ aby@@ le langu@@ ag@@ e@@ .
 E@@ lle tour@@ na la page de son li@@ v@@ re@@ .
 S@@ he turned a page of her book@@ .
-Ou@@ i@@ , tu devrais porter du rouge à lè@@ vres pour la S@@ ain@@ t@@ -@@ V@@ alent@@ in@@ .
+O@@ u@@ i@@ , tu devrais porter du rouge à lè@@ vres pour la S@@ ain@@ t@@ -@@ V@@ alent@@ in@@ .
 Y@@ es@@ , you should wear red li@@ p@@ stick for V@@ alent@@ ine@@ '@@ s da@@ y@@ .
 Tom n@@ '@@ est pas souvent invité aux soi@@ ré@@ es@@ .
 Tom is@@ n@@ '@@ t invited to parties of@@ ten@@ .
 T@@ u vois les mots que j@@ '@@ ai ta@@ p@@ és sur l@@ '@@ écr@@ an@@ , mais tu ne vois pas les larmes que j@@ '@@ ai fait tomber sur le cla@@ vi@@ er@@ .
-Y@@ ou see the words that I ty@@ ped on the scre@@ en@@ , but you don@@ '@@ t see the tears that I shed over the key@@ bo@@ ard@@ .
+Y@@ ou see the words that I ty@@ ped on the scre@@ en@@ , but you don@@ '@@ t see the tears that I shed over the k@@ ey@@ bo@@ ard@@ .
 D@@ on@@ ne@@ -@@ m@@ '@@ en un b@@ out@@ .
 G@@ ive me a ti@@ p@@ .
 Q@@ ue vou@@ le@@ z@@ -@@ vous boire avec votre repas ?
@@ -168,7 +168,7 @@ E@@ lle vit près de la pla@@ ge@@ .
 S@@ he lives near the bea@@ ch@@ .
 J@@ e veux hab@@ iter dans un ch@@ â@@ tea@@ u@@ .
 I want to live in a cast@@ le@@ .
-N@@ e vois@@ -@@ tu pas le mo@@ dèle ?
+N@@ e vois@@ -@@ tu pas le mo@@ d@@ èle ?
 D@@ on@@ '@@ t you see the pa@@ tter@@ n@@ ?
 J@@ e ne sors pas avec des f@@ ill@@ es@@ .
 I don@@ '@@ t da@@ te@@ .
@@ -182,29 +182,29 @@ L@@ es fenêtres étaient ouver@@ tes@@ .
 The windows were op@@ en@@ .
 Tom voulait rentrer chez lui t@@ ô@@ t@@ .
 Tom wanted to go home ear@@ ly@@ .
-J@@ '@@ ai oublié ma carte de dé@@ bit à la mais@@ on@@ .
+J@@ '@@ ai oublié ma carte de dé@@ bit à la ma@@ is@@ on@@ .
 I forgot my de@@ bit card at home@@ .
 V@@ ous êtes fi@@ ab@@ les@@ .
 You@@ '@@ re tr@@ us@@ t@@ wor@@ th@@ y@@ .
 Mary a lan@@ cé une pomme de terre par la fen@@ ê@@ tre@@ .
 Mary threw a po@@ ta@@ to through the windo@@ w@@ .
-T@@ out le monde mérite une seconde chance@@ .
-E@@ ver@@ yone deserves a second chance@@ .
+T@@ out le monde mér@@ ite une secon@@ de chan@@ ce@@ .
+E@@ ver@@ yone deserves a second chan@@ ce@@ .
 J@@ e trouve que le mieux con@@ sis@@ te à trouver un équi@@ libre har@@ mon@@ i@@ eux entre l@@ '@@ origin@@ alité et la con@@ form@@ ité à un can@@ on ri@@ gou@@ reu@@ x@@ .
-I find that it@@ '@@ s best to find a happy bal@@ ance between origin@@ ality and sti@@ cking to a strict stand@@ ard@@ .
+I find that it@@ '@@ s best to find a happy bal@@ ance between origin@@ ality and sti@@ cking to a stri@@ ct stand@@ ard@@ .
 J@@ e me rappelle l@@ '@@ avoir rencontrée quelque part@@ .
 I remember meeting her some@@ where@@ .
-J@@ e ram@@ ène une pizza chez mo@@ i@@ .
+J@@ e ra@@ m@@ ène une pizza chez mo@@ i@@ .
 I@@ '@@ m br@@ inging home a pizz@@ a@@ .
 C@@ '@@ est ici que tout s@@ '@@ est produ@@ it@@ .
 H@@ ere is where it all happ@@ en@@ s@@ .
-B@@ i@@ entôt vos efforts seront ré@@ compen@@ sé@@ s@@ .
+B@@ i@@ entôt vos efforts seront ré@@ com@@ pen@@ sé@@ s@@ .
 S@@ o@@ on your efforts will be rewar@@ de@@ d@@ .
 E@@ st@@ -@@ ce que le café est chaud ?
 I@@ s the coffee ho@@ t@@ ?
-Mer@@ ci de te jo@@ indre à n@@ ous@@ .
+M@@ er@@ ci de te jo@@ indre à n@@ ous@@ .
 T@@ han@@ ks for jo@@ ining us@@ .
-I@@ l est dommage que vous ne puissiez voyager avec n@@ ous@@ .
+I@@ l est dom@@ mage que vous ne puis@@ siez voyager avec n@@ ous@@ .
 I@@ t@@ '@@ s a p@@ ity that you can@@ '@@ t travel with us@@ .
 J@@ e me demande ce qui est arrivé à Pau@@ l@@ .
 I wonder what happened to Pau@@ l@@ .
@@ -216,7 +216,7 @@ J@@ e vois dans votre jeu@@ .
 I@@ '@@ m on to you@@ .
 L@@ e vent sou@@ ffle très for@@ t@@ .
 I@@ t@@ '@@ s blowing very hard@@ .
-J@@ e ne savais pas que vous étiez encore ici@@ .
+J@@ e ne savais pas que vous étiez encore i@@ ci@@ .
 I did@@ n@@ '@@ t know you were still here@@ .
 N@@ ous avons parlé de tout ce qui nous pas@@ sait par la t@@ ê@@ te@@ .
 W@@ e talked about everything we could think ab@@ out@@ .
@@ -228,33 +228,33 @@ L@@ e téléphone de Tom peut prendre des photo@@ s@@ .
 T@@ om@@ '@@ s phone can take pic@@ tu@@ res@@ .
 Q@@ ue veu@@ x@@ -@@ tu que le message soit ?
 W@@ hat do you want the message to be@@ ?
-M@@ am@@ an a dit que je suis tombé malade car je suis sor@@ ti dehors en ayant les cheveux mou@@ ill@@ é@@ s@@ .
+M@@ am@@ an a dit que je suis tombé malade car je suis sor@@ ti dehors en ay@@ ant les cheveux mou@@ ill@@ é@@ s@@ .
 M@@ om said I caught a cold because I went out with wet hair@@ .
 D@@ e combien de four@@ ch@@ ettes as@@ -@@ tu besoin ?
 Ho@@ w many more for@@ ks do you need@@ ?
 J@@ '@@ ai rarement vu un dans@@ eur aussi gra@@ ci@@ eu@@ x@@ .
 R@@ a@@ rely have I met such a gra@@ ceful dan@@ cer@@ .
-J@@ '@@ ai lou@@ pé une autre chance@@ .
-I@@ '@@ ve missed another chance@@ .
+J@@ '@@ ai lou@@ p@@ é une autre chan@@ ce@@ .
+I@@ '@@ ve missed another chan@@ ce@@ .
 J@@ e ne sais pas comment prendre contact avec vou@@ s@@ .
 I don@@ '@@ t know how to contact you@@ .
 V@@ ou@@ le@@ z@@ -@@ vous vous jo@@ indre à moi pour déjeuner ?
 D@@ o you want to join me for lun@@ ch@@ ?
 T@@ ou@@ tes ces lettres vous sont adres@@ sé@@ es@@ .
-All of these letters are addressed to you@@ .
+A@@ ll of these letters are addressed to you@@ .
 Tom savait où il avait mis ses cl@@ é@@ s@@ .
-Tom knew where he had put his key@@ s@@ .
+Tom knew where he had put his k@@ ey@@ s@@ .
 V@@ ous pou@@ viez compter jus@@ qu@@ '@@ à dix lorsque vous étiez d@@ eu@@ x@@ .
 Y@@ ou could count to ten when you were tw@@ o@@ .
 J@@ e viens de le trouver@@ .
 I just found it@@ .
 Tom ri@@ go@@ le@@ .
-Tom is laugh@@ ing@@ .
+Tom is laugh@@ in@@ g@@ .
 S@@ ave@@ z@@ -@@ vous le quanti@@ ème est au@@ jour@@ d@@ '@@ hui ?
 D@@ o you know what day it is to@@ da@@ y@@ ?
-L@@ e pauvre chat a été écra@@ sé par un cami@@ on@@ .
+L@@ e pauvre chat a été écra@@ sé par un ca@@ mi@@ on@@ .
 The poor cat was run over by a tru@@ ck@@ .
-J@@ e ne veux pas être impliqué dans cette affai@@ re@@ .
+J@@ e ne veux pas être impli@@ qué dans cette affai@@ re@@ .
 I don@@ '@@ t want to get involved in that bus@@ in@@ ess@@ .
 I@@ l n@@ '@@ y a absolument aucun problè@@ me@@ .
 T@@ here is@@ n@@ '@@ t any problem at all@@ .
@@ -265,8 +265,8 @@ The boy was clever enough to solve the puzz@@ le@@ .
 J@@ e vis avec un por@@ c@@ -@@ é@@ pic@@ .
 I live with a por@@ cu@@ p@@ ine@@ .
 J@@ e te suis reconnaiss@@ ant pour ton travail@@ .
-I appreciate your work@@ .
-L@@ e système est tru@@ qu@@ é@@ .
+I appreciate your wor@@ k@@ .
+L@@ e sy@@ st@@ ème est tru@@ qu@@ é@@ .
 The system is ri@@ g@@ ge@@ d@@ .
 U@@ n arti@@ ste doit avoir le sens des cou@@ le@@ ur@@ s@@ .
 A@@ n artist must have an eye for col@@ our@@ .
@@ -276,13 +276,13 @@ V@@ ous para@@ issez fatigu@@ é@@ e@@ .
 Y@@ ou sound ti@@ re@@ d@@ .
 Tom est peu@@ t@@ -@@ être amou@@ reu@@ x@@ .
 M@@ ay@@ be Tom is in lo@@ ve@@ .
-Re@@ gar@@ dez le comp@@ t@@ eur@@ .
+Re@@ gar@@ dez le comp@@ t@@ eu@@ r.
 L@@ o@@ ok at the me@@ ter@@ .
 Thomas enf@@ il@@ a des vêtements pro@@ pres@@ .
 Thomas changed into proper clo@@ thin@@ g@@ .
 M@@ a mère a acheté deux boute@@ illes de j@@ us d@@ ’@@ or@@ ang@@ e@@ .
 M@@ y mother bought two bottles of orange ju@@ ic@@ e@@ .
-T@@ ou@@ tes choses ég@@ ales par ail@@ le@@ ur@@ s@@ , le résul@@ t@@ at est meilleur que je ne l@@ '@@ es@@ pé@@ rais@@ .
+T@@ ou@@ tes choses ég@@ ales par a@@ il@@ le@@ ur@@ s@@ , le résul@@ t@@ at est meilleur que je ne l@@ '@@ es@@ pé@@ rais@@ .
 Ta@@ king everything into consi@@ der@@ a@@ tion@@ , the result is better than I expe@@ c@@ te@@ d@@ .
 J@@ e dev@@ ine juste neuf fois sur di@@ x@@ .
 I guess right nine times out of ten@@ .
@@ -290,14 +290,14 @@ C@@ '@@ est une belle pa@@ ire de jam@@ bes@@ .
 Tha@@ t@@ '@@ s a nice pair of leg@@ s@@ .
 C@@ '@@ est pour cette raison qu@@ '@@ il a quitté l@@ '@@ éco@@ le@@ .
 I@@ t is by this reason that he left scho@@ ol@@ .
-"@@ As@@ -@@ tu fin@@ i@@ ?@@ " "@@ A@@ u contr@@ ai@@ re@@ . J@@ e n@@ '@@ ai même pas commen@@ cé@@ .@@ "
+"@@ A@@ s@@ -@@ tu fin@@ i@@ ?@@ " "@@ A@@ u contr@@ ai@@ re@@ . J@@ e n@@ '@@ ai même pas commen@@ cé@@ .@@ "
 "@@ H@@ a@@ ve you fin@@ is@@ he@@ d@@ ?@@ " "@@ O@@ n the contr@@ ar@@ y@@ . I ha@@ ven@@ '@@ t even star@@ te@@ d@@ .@@ "
 I@@ l n@@ '@@ aime pas le b@@ œu@@ f@@ , moi non pl@@ us@@ .
 H@@ e does@@ n@@ '@@ t like be@@ ef@@ . N@@ either do I@@ .
 O@@ ù es@@ -@@ tu allé à l@@ '@@ école ?
 W@@ here did you go to scho@@ ol@@ ?
 N@@ e me dis@@ tr@@ ais pas de mon travail@@ , je te pri@@ e@@ .
-P@@ lea@@ se don@@ '@@ t dis@@ tr@@ act me from my work@@ .
+P@@ lea@@ se don@@ '@@ t dis@@ tr@@ act me from my wor@@ k@@ .
 En@@ seig@@ ner nous ap@@ prend@@ .
 B@@ y tea@@ chin@@ g@@ , we lear@@ n@@ .
 J@@ e vais te dire un petit secre@@ t@@ .
@@ -308,16 +308,16 @@ I@@ l était ac@@ compag@@ né de sa petite ami@@ e@@ .
 H@@ e was ac@@ comp@@ ani@@ ed by his gir@@ l@@ friend@@ .
 S@@ on bureau se trouve près de la ga@@ re@@ .
 H@@ is office is near the train sta@@ tion@@ .
-Tom était assis sous un ar@@ bre@@ , bu@@ v@@ ant du vin@@ .
+Tom était as@@ sis sous un ar@@ bre@@ , bu@@ v@@ ant du vin@@ .
 Tom was sitting under a tre@@ e@@ , drinking win@@ e@@ .
-J@@ '@@ es@@ pé@@ rais vous ren@@ con@@ tre@@ r@@ .
+J@@ '@@ es@@ pé@@ rais vous ren@@ con@@ tre@@ r.
 I@@ '@@ ve been hoping to meet you@@ .
 N@@ e travaille pas trop dur !
 D@@ on@@ '@@ t work too hard@@ !
 P@@ ouv@@ e@@ z@@ -@@ vous laver mon jean ?
 C@@ an you wash my je@@ ans@@ ?
 Par@@ les@@ -@@ tu le mal@@ tais ?
-D@@ o you speak Mal@@ tes@@ e@@ ?
+D@@ o you speak M@@ al@@ tes@@ e@@ ?
 J@@ e suis aussi curi@@ eux que to@@ i@@ .
 I@@ '@@ m as curious as you are@@ .
 O@@ h@@ , comme nous avons ri !
@@ -326,7 +326,7 @@ Qu@@ el est votre emploi ?
 W@@ ha@@ t@@ '@@ s your occu@@ pati@@ on@@ ?
 C@@ ette photo ne lui rend pas jus@@ ti@@ ce@@ .
 T@@ hat picture does not do justice to hi@@ m@@ .
-N@@ '@@ interrom@@ pe@@ z pas quand nous sommes en discus@@ sion@@ .
+N@@ '@@ inter@@ rom@@ pe@@ z pas quand nous sommes en discus@@ sion@@ .
 D@@ on@@ '@@ t cut in while we@@ '@@ re tal@@ kin@@ g@@ .
 C@@ '@@ est parce qu@@ '@@ on m@@ '@@ a demandé de venir que je suis l@@ à@@ .
 I@@ t@@ '@@ s because I was asked to come that I@@ '@@ m here@@ .
@@ -334,31 +334,31 @@ J@@ '@@ aurais vraiment voulu pouvoir venir avec to@@ i@@ , mais je ne peux pas@
 I really wish I could go with you@@ , but I can@@ '@@ t@@ .
 I@@ l est sage de ne mettre ni cra@@ inte@@ , ni espér@@ ance dans l@@ ’@@ avenir in@@ certa@@ in@@ .
 H@@ e is wise who neither ho@@ pes nor f@@ ears anything from the un@@ certain fu@@ tu@@ re@@ .
-N@@ ot@@ re classe compte 25 garçons et 20 f@@ ill@@ es@@ .
+N@@ ot@@ re classe compte 2@@ 5 garçons et 2@@ 0 f@@ ill@@ es@@ .
 O@@ ur class has tw@@ ent@@ y@@ -@@ five boys and twenty gir@@ l@@ s@@ .
-C@@ asse@@ -@@ toi avant qu@@ '@@ ils ne te vo@@ ient ici@@ .
+C@@ asse@@ -@@ toi avant qu@@ '@@ ils ne te vo@@ ient i@@ ci@@ .
 G@@ o away before they see you here@@ .
 J@@ e me trouve actu@@ ellement avec eu@@ x@@ .
 I@@ '@@ m with them no@@ w@@ .
-U@@ ne fois que j@@ '@@ aurai pris ma re@@ trait@@ e@@ , je con@@ sa@@ cre@@ rai tout mon temps à Ta@@ to@@ e@@ ba@@ .
+U@@ ne fois que j@@ '@@ au@@ rai pris ma re@@ tra@@ it@@ e@@ , je con@@ sa@@ cre@@ rai tout mon temps à Ta@@ to@@ e@@ ba@@ .
 O@@ n@@ ce I reti@@ re@@ , I will de@@ di@@ cate my whole time to Ta@@ to@@ e@@ ba@@ .
 C@@ e n@@ '@@ est qu@@ '@@ une plais@@ an@@ ter@@ i@@ e@@ .
 I@@ t@@ '@@ s me@@ rely a jo@@ ke@@ .
 J@@ e n@@ '@@ ai pas de s@@ œ@@ ur@@ .
 I do not have a sis@@ ter@@ .
-Sam est plus jeune que Tom de deux ans@@ .
-Sam is two years younger than T@@ om@@ .
-P@@ u@@ is@@ -@@ je emprunter votre vélo ?
+S@@ am est plus jeune que Tom de deux ans@@ .
+S@@ am is two years younger than T@@ om@@ .
+P@@ u@@ is@@ -@@ je emprun@@ ter votre vélo ?
 May I borrow your bi@@ ke@@ ?
 Qu@@ '@@ es@@ t@@ -@@ ce qu@@ '@@ il aim@@ e@@ , ton père ?
 W@@ hat does your father li@@ ke@@ ?
 Qu@@ elle ca@@ ta@@ str@@ op@@ he !
 W@@ hat a ca@@ ta@@ str@@ op@@ he@@ !
-C@@ ar les requ@@ ins@@ , nous les v@@ îmes non pas à l@@ '@@ un@@ it@@ é@@ , ni par di@@ z@@ ain@@ es@@ , ni par cen@@ ta@@ in@@ es@@ , mais par milli@@ ers et my@@ ri@@ ad@@ es@@ . Cro@@ y@@ e@@ z@@ -@@ mo@@ i@@ , il y a davantage de requ@@ ins dans la mer que de mor@@ tel@@ s sur ter@@ re@@ .
+C@@ ar les requ@@ in@@ s@@ , nous les v@@ î@@ mes non pas à l@@ '@@ un@@ it@@ é@@ , ni par di@@ z@@ ain@@ es@@ , ni par cen@@ ta@@ in@@ es@@ , mais par milli@@ ers et my@@ ri@@ ad@@ es@@ . Cro@@ y@@ e@@ z@@ -@@ mo@@ i@@ , il y a davantage de requ@@ ins dans la mer que de mor@@ tel@@ s sur ter@@ re@@ .
 F@@ or the shar@@ k@@ s@@ , we saw them@@ , not by un@@ it@@ s@@ , nor by ten@@ s@@ , nor by hund@@ re@@ d@@ s@@ ; but by thousands and by my@@ ri@@ ad@@ s@@ . T@@ r@@ ust me@@ , there are more shar@@ ks in the sea than mor@@ tal@@ s on land@@ .
 T@@ u devrais te lever t@@ ô@@ t@@ .
 Y@@ ou should get up ear@@ ly@@ .
-L@@ ’@@ amour a horreur de tout ce qui n@@ ’@@ est pas lu@@ i@@ -@@ mê@@ me@@ .
+L@@ ’@@ amour a hor@@ reur de tout ce qui n@@ ’@@ est pas lu@@ i@@ -@@ mê@@ me@@ .
 L@@ o@@ ve is terri@@ fied of everything that is not it@@ sel@@ f@@ .
 I@@ l sera de retour dans dix minu@@ tes@@ .
 H@@ e@@ '@@ ll be back in ten@@ .
@@ -370,7 +370,7 @@ J@@ e connais un bon restaurant qui est bon mar@@ ch@@ é@@ .
 I know a good restaurant that@@ '@@ s in@@ expen@@ si@@ ve@@ .
 Q@@ ui est le responsable ?
 Wh@@ o is the person in char@@ ge@@ ?
-Es@@ sa@@ yer de trouver le bonheur ne fait que vous rendre mal@@ heu@@ reu@@ x@@ .
+Es@@ sa@@ yer de trouver le bon@@ heur ne fait que vous rendre mal@@ heu@@ reu@@ x@@ .
 T@@ rying to find happiness only makes you un@@ happ@@ y@@ .
 J@@ e dési@@ re parler à une avo@@ ca@@ te@@ .
 I want to speak to a la@@ w@@ y@@ er@@ .
@@ -386,7 +386,7 @@ Ar@@ rê@@ te de fri@@ mer !
 S@@ top sho@@ wing off@@ !
 L@@ e temps est très froid à I@@ stam@@ bou@@ l@@ .
 The weather is very cold in I@@ stan@@ bul@@ .
-J@@ e te fais une fav@@ eur@@ .
+J@@ e te fais une fav@@ eu@@ r.
 I@@ '@@ m doing you a favor@@ .
 V@@ ous étiez effra@@ y@@ é@@ es@@ , n@@ '@@ es@@ t@@ -@@ ce pas ?
 Y@@ ou were af@@ ra@@ i@@ d@@ , wer@@ en@@ '@@ t you@@ ?
@@ -396,9 +396,9 @@ J@@ a@@ mais ils ne retour@@ n@@ èrent dans leur pay@@ s@@ .
 T@@ h@@ ey never returned to their coun@@ tr@@ y@@ .
 Qu@@ and ave@@ z@@ -@@ vous l@@ '@@ intention de commencer ?
 Wh@@ en do you mean to star@@ t@@ ?
-P@@ our@@ quoi les étoiles scin@@ till@@ ent@@ -@@ elles ?
+P@@ our@@ quoi les étoiles s@@ cin@@ till@@ ent@@ -@@ elles ?
 Wh@@ y do the stars tw@@ in@@ k@@ le@@ ?
-Qu@@ and je suis arrivé à la mais@@ on@@ , il regar@@ dait la télé@@ visi@@ on@@ .
+Qu@@ and je suis arrivé à la ma@@ is@@ on@@ , il regar@@ dait la télé@@ visi@@ on@@ .
 Wh@@ en I came home@@ , he was watching T@@ V@@ .
 E@@ lle l@@ '@@ a appelé Char@@ les@@ .
 S@@ he nam@@ ed him Char@@ les@@ .
@@ -408,9 +408,9 @@ J@@ '@@ ai fait une propos@@ i@@ tion@@ .
 I made a propos@@ al@@ .
 Q@@ ue pré@@ voy@@ e@@ z@@ -@@ vous de faire ce soir ?
 W@@ hat do you plan on doing ton@@ igh@@ t@@ ?
-J@@ e cra@@ ins que vous ne puissiez pas faire cel@@ a@@ .
+J@@ e cra@@ ins que vous ne puis@@ siez pas faire cel@@ a@@ .
 I@@ '@@ m afraid you can@@ '@@ t do that@@ .
-I@@ l y a du lait dans le ré@@ fri@@ gé@@ ra@@ t@@ eur@@ .
+I@@ l y a du lait dans le ré@@ fri@@ gé@@ ra@@ t@@ eu@@ r.
 T@@ here is milk in the re@@ fri@@ ger@@ at@@ or@@ .
 J@@ '@@ ignore son adres@@ se@@ .
 I don@@ '@@ t know her ad@@ dres@@ s@@ .
@@ -418,17 +418,17 @@ J@@ e ne vous re@@ proche pas de le fai@@ re@@ .
 I don@@ '@@ t blame you for doing that@@ .
 J@@ '@@ ai une amie qui vit à K@@ yo@@ to@@ .
 I have a friend who lives in K@@ yo@@ to@@ .
-J@@ e pense que tu es trop difficil@@ e@@ .
+J@@ e pense que tu es trop diffi@@ cil@@ e@@ .
 I think you@@ '@@ re too pick@@ y@@ .
 J@@ '@@ ouv@@ ris la fen@@ ê@@ tre@@ , afin de laisser entrer de l@@ '@@ air f@@ rais@@ .
 I opened the window to let in some fresh air@@ .
 J@@ e ne pus m@@ '@@ empêcher de ri@@ go@@ l@@ er@@ .
-I could not stop laugh@@ ing@@ .
-App@@ u@@ yez sur n@@ '@@ importe quelle touche pour continu@@ er@@ .
+I could not stop laugh@@ in@@ g@@ .
+A@@ pp@@ u@@ yez sur n@@ '@@ importe quelle touche pour continu@@ er@@ .
 P@@ res@@ s any key to continu@@ e@@ .
 J@@ e ne suis pas ra@@ cis@@ te@@ .
 I@@ '@@ m not ra@@ cis@@ t@@ .
-L@@ e feu@@ , pous@@ sé par un vent d@@ '@@ es@@ t@@ , a détruit le centre de la vil@@ le@@ .
+L@@ e feu@@ , pous@@ sé par un vent d@@ '@@ es@@ t@@ , a détru@@ it le centre de la vil@@ le@@ .
 The fi@@ re@@ , dri@@ ven by an ea@@ st win@@ d@@ , destro@@ yed the center of the cit@@ y@@ .
 T@@ u as l@@ '@@ air terri@@ ble@@ .
 Y@@ ou look terri@@ fi@@ c@@ .
@@ -438,21 +438,21 @@ B@@ i@@ en sûr que j@@ '@@ i@@ ra@@ i@@ .
 O@@ f course I@@ '@@ ll go@@ .
 C@@ ette montagne est difficile à es@@ cal@@ ad@@ er@@ .
 This mountain is difficult to clim@@ b@@ .
-N@@ ous avions besoin de ç@@ a@@ .
+N@@ ous av@@ ions besoin de ç@@ a@@ .
 W@@ e needed th@@ is@@ .
 P@@ ouv@@ e@@ z@@ -@@ vous son@@ ger à meilleure manière ?
 C@@ an you think of a better wa@@ y@@ ?
 T@@ u es à court de bo@@ is@@ son@@ s@@ .
 You@@ '@@ ve run out of things to drin@@ k@@ .
-App@@ el@@ le@@ -@@ moi si vous voulez que nous fa@@ s@@ sions quelque chose en@@ sem@@ ble@@ , de@@ ma@@ in@@ .
+A@@ pp@@ el@@ le@@ -@@ moi si vous voulez que nous fa@@ s@@ sions quelque chose en@@ sem@@ ble@@ , de@@ ma@@ in@@ .
 C@@ all me if you want to do something together tom@@ or@@ ro@@ w@@ .
 E@@ t à quelle heure va@@ -@@ t@@ -@@ on be@@ c@@ que@@ ter@@ , avec tout ça ?
 A@@ t what time are we going to get a bite to ea@@ t@@ , with all that@@ ?
 Qu@@ el est celui de tes amis le plus intéressant ?
 W@@ ho@@ '@@ s your most interesting friend@@ ?
-S@@ o@@ yez plus genti@@ l@@ les avec votre frère !
+S@@ o@@ yez plus gen@@ ti@@ l@@ les avec votre frère !
 B@@ e ni@@ cer to your bro@@ ther@@ .
-F@@ ous le camp d@@ '@@ ici !
+F@@ ous le ca@@ mp d@@ '@@ ici !
 G@@ et the hell out of here@@ !
 O@@ n ne m@@ '@@ a pas dit ç@@ a@@ .
 I was@@ n@@ '@@ t told that@@ .
@@ -473,12 +473,12 @@ I@@ '@@ m starting to feel des@@ per@@ at@@ e@@ .
 L@@ e concert fut un succ@@ è@@ s@@ .
 The concert was a success@@ .
 Re@@ pren@@ ons là où nous en sommes rest@@ és hi@@ er@@ .
-L@@ et@@ '@@ s continue where we left off yester@@ da@@ y@@ .
+L@@ et@@ '@@ s contin@@ ue where we left off yester@@ da@@ y@@ .
 S@@ el@@ on mo@@ i@@ , ce n@@ '@@ est pas une bonne idé@@ e@@ .
 I believe that this is not a good i@@ dea@@ .
 T@@ u étais terri@@ fi@@ é@@ , n@@ '@@ es@@ t@@ -@@ ce pas ?
 Y@@ ou were terri@@ fi@@ ed@@ , wer@@ en@@ '@@ t you@@ ?
-F@@ in@@ alement il les invit@@ a tous à parta@@ ger le gâ@@ tea@@ u@@ .
+F@@ in@@ alement il les invit@@ a tous à par@@ ta@@ ger le gâ@@ tea@@ u@@ .
 F@@ in@@ ally he invited all and sun@@ dry to par@@ take of the cake and all@@ .
 E@@ st@@ -@@ ce que ce lac est profon@@ d ?
 I@@ s this lake dee@@ p@@ ?
@@ -498,11 +498,11 @@ I@@ l n@@ '@@ y a pas de cadeau plus préci@@ eux que la confi@@ an@@ ce@@ .
 N@@ o gift is more precious than tr@@ us@@ t@@ .
 V@@ ous n@@ '@@ êtes pas for@@ c@@ ées de répon@@ d@@ re@@ .
 Y@@ ou don@@ '@@ t have to answ@@ er@@ .
-Trang m@@ '@@ a demandé si elle pouvait parta@@ ger mon lit@@ .
-Trang asked if she could share my bed@@ .
+T@@ rang m@@ '@@ a demandé si elle pouvait par@@ ta@@ ger mon lit@@ .
+T@@ rang asked if she could share my bed@@ .
 M@@ a montre s@@ '@@ était arrê@@ tée et je ne savais pas quelle heure il éta@@ it@@ .
 M@@ y watch ran down and I did@@ n@@ '@@ t know the ti@@ me@@ .
-I@@ ls m@@ '@@ ont souha@@ ité la bien@@ ven@@ u@@ e@@ .
+I@@ ls m@@ '@@ ont souha@@ ité la bi@@ en@@ ven@@ u@@ e@@ .
 T@@ h@@ ey gre@@ e@@ ted me@@ .
 J@@ e voudrais t@@ '@@ embra@@ s@@ ser@@ .
 I would like to kiss you@@ .
@@ -520,10 +520,10 @@ D@@ e qui es@@ t@@ -@@ il l@@ '@@ ami ?
 W@@ ho@@ se friend is he@@ ?
 C@@ e matin j@@ '@@ ai ra@@ té de cinq minutes le train de 8@@ h@@ 3@@ 0@@ .
 This morning I missed the 8@@ :@@ 30 train by five minu@@ tes@@ .
-C@@ e couver@@ cle est trop ser@@ ré pour que je puisse l@@ '@@ ouv@@ ri@@ r@@ .
+C@@ e couver@@ cle est trop ser@@ ré pour que je puisse l@@ '@@ ouv@@ ri@@ r.
 This li@@ d is too tight for me to op@@ en@@ .
 I@@ l me faut retourner au travail@@ .
-I have to go back to work@@ .
+I have to go back to wor@@ k@@ .
 Mike et Ken sont am@@ is@@ .
 Mike and Ken are friend@@ s@@ .
 À t@@ '@@ entend@@ re@@ , tu n@@ '@@ es pas très sû@@ re@@ .
@@ -536,13 +536,13 @@ Qu@@ '@@ as@@ -@@ tu dit@@ , exactement ?
 W@@ hat exactly did you sa@@ y@@ ?
 I@@ l par@@ tit pour Par@@ is@@ .
 H@@ e set off to Par@@ is@@ .
-L@@ e messa@@ ger par@@ tit pour Londres en secre@@ t@@ .
+L@@ e messa@@ ger par@@ tit pour Lon@@ d@@ res en secre@@ t@@ .
 The mes@@ sen@@ ger left for London in secre@@ t@@ .
 J@@ e ne travaill@@ erai en aucune manière di@@ man@@ che@@ .
 T@@ here@@ '@@ s no way I@@ '@@ m going to work on Sun@@ da@@ y@@ .
 C@@ '@@ est difficile pour un vieil homme de changer sa manière de viv@@ re@@ .
 I@@ t@@ '@@ s hard for an old man to change his way of li@@ ving@@ .
-L@@ '@@ air est un mé@@ lang@@ e de différents gaz@@ .
+L@@ '@@ air est un mé@@ lang@@ e de différen@@ ts gaz@@ .
 A@@ ir is a mi@@ x@@ ture of various g@@ as@@ es@@ .
 L@@ es mal@@ entend@@ us@@ , ça arri@@ ve@@ .
 Mis@@ under@@ stand@@ ings do occur@@ .
@@ -554,21 +554,21 @@ T@@ u ne connais rien d@@ '@@ I@@ stan@@ bul@@ .
 Y@@ ou don@@ '@@ t know anything about I@@ stan@@ bul@@ .
 E@@ lle ne travail@@ lait que pour l@@ '@@ ar@@ gent@@ .
 S@@ he only worked for the sake of mon@@ ey@@ .
-J@@ e ne veux plus en parl@@ er@@ .
+J@@ e ne veux plus en par@@ l@@ er@@ .
 I don@@ '@@ t want to talk about this any@@ mo@@ re@@ .
 C@@ ha@@ ton@@ ne la cha@@ tte entre dans la voiture pour aller faire un tour@@ .
 K@@ it@@ ty the cat gets in the car to go for a ri@@ de@@ .
 C@@ ette histoire ti@@ ent@@ -@@ elle la route ?
-D@@ oes this story hold water@@ ?
-Michael Jackson est mor@@ t@@ .
-Michael Jackson di@@ ed@@ .
+D@@ oes this story hold wa@@ ter@@ ?
+Mi@@ cha@@ el Jack@@ son est mor@@ t@@ .
+Mi@@ cha@@ el Jack@@ son di@@ ed@@ .
 V@@ ou@@ dra@@ is@@ -@@ tu venir à ma fête ?
 W@@ ould you like to come to my par@@ ty@@ ?
 L@@ '@@ hôtel est en feu@@ .
 The hotel is on fi@@ re@@ .
 N@@ ous pen@@ sions qu@@ '@@ il allait nous sou@@ ten@@ ir@@ .
 W@@ e expected him to support us@@ .
-S@@ on comportement n@@ '@@ est pas normal pour une jeune fil@@ le@@ .
+S@@ on compor@@ tement n@@ '@@ est pas normal pour une jeune fil@@ le@@ .
 H@@ er behavior is@@ n@@ '@@ t normal for a young gir@@ l@@ .
 T@@ u n@@ '@@ as rien v@@ u@@ .
 Y@@ ou did@@ n@@ '@@ t see no@@ thin@@ g@@ .
@@ -576,9 +576,9 @@ C@@ ette pièce est trop gran@@ de@@ .
 This room is too bi@@ g@@ .
 C@@ es problèmes seront ré@@ sol@@ us dans un proche aven@@ ir@@ .
 T@@ h@@ ese problems will be solved in the near fu@@ tu@@ re@@ .
-L@@ '@@ avion de Sami s@@ '@@ est écra@@ sé dans le cha@@ mp@@ .
+L@@ '@@ av@@ ion de Sami s@@ '@@ est écra@@ sé dans le cha@@ mp@@ .
 S@@ ami@@ '@@ s plane crashed in the fiel@@ d@@ .
-I@@ l ne veut pas en parl@@ er@@ .
+I@@ l ne veut pas en par@@ l@@ er@@ .
 H@@ e does@@ n@@ '@@ t want to talk about it@@ .
 J@@ e suis tout à fait prê@@ te@@ .
 I@@ '@@ m all set@@ .
@@ -588,29 +588,29 @@ J@@ e suis à Boston depuis moins d@@ '@@ un mo@@ is@@ .
 I@@ '@@ ve been in Boston for less than a mon@@ th@@ .
 Tom ne m@@ '@@ a pas dit qu@@ '@@ il ne pouvait pas parler fran@@ ç@@ a@@ is@@ .
 Tom did@@ n@@ '@@ t tell me he cou@@ ld@@ n@@ '@@ t speak Fren@@ ch@@ .
-T@@ u as découvert la différence entre ces deux photos ?
+T@@ u as découvert la différen@@ ce entre ces deux photos ?
 D@@ id you find the difference between these two photo@@ s@@ ?
 I@@ l semble que la sa@@ ison des plu@@ ies ait commen@@ cé@@ .
 I@@ t seems that the rain@@ y sea@@ son has set in@@ .
 J@@ e t@@ '@@ ai dit que c@@ '@@ était ridicu@@ le@@ .
 I told you that was ridi@@ cul@@ ous@@ .
-D@@ e quelle couleur était la pomme qu@@ '@@ il t@@ '@@ a donnée ?
+D@@ e quelle cou@@ leur était la pomme qu@@ '@@ il t@@ '@@ a don@@ née ?
 W@@ hat was the color of the apple he gave you@@ ?
 I@@ ls sur@@ vé@@ cur@@ ent@@ , même si l@@ '@@ im@@ meu@@ ble fut détru@@ it@@ .
 T@@ h@@ ey survi@@ ve@@ d@@ , even though the building was destro@@ y@@ ed@@ .
 Q@@ ui veut aller faire les cour@@ ses ?
-Wh@@ o wants to go sho@@ pp@@ ing@@ ?
-I@@ l devait être fou pour dire une chose pare@@ il@@ le@@ .
+Wh@@ o wants to go sho@@ pp@@ in@@ g@@ ?
+I@@ l dev@@ ait être fou pour dire une chose pare@@ il@@ le@@ .
 H@@ e must have been crazy to say such a thin@@ g@@ .
 M@@ on cœur bat@@ tait plus fort à l@@ '@@ appro@@ che de mon tour@@ .
-M@@ y heart was poun@@ ding as my turn got nea@@ re@@ r@@ .
-C@@ e n@@ '@@ est pas du jeu ! V@@ ous avez vu mes cartes dans la gla@@ ce !
+M@@ y heart was poun@@ ding as my turn got nea@@ re@@ r.
+C@@ e n@@ '@@ est pas du jeu ! V@@ ous avez vu mes car@@ tes dans la gla@@ ce !
 Tha@@ t@@ '@@ s not fa@@ ir@@ ! Y@@ ou saw my cards in the mi@@ r@@ r@@ or@@ !
 E@@ lle était si belle que le fils du mar@@ ch@@ and ne put s@@ '@@ empêcher de s@@ '@@ ag@@ en@@ ou@@ iller pour lui baiser la ma@@ in@@ .
 S@@ he was so beautiful that the mer@@ chan@@ t@@ '@@ s son could not help k@@ ne@@ el@@ ing down to kiss her hand@@ .
 J@@ e ris pour que tu sois heu@@ reu@@ x@@ .
 I am laughing so that you will be happ@@ y@@ .
-S@@ i je vous connaissais mi@@ eu@@ x@@ , peu@@ t@@ -@@ être vous au@@ rais@@ -@@ je laissé entre@@ r@@ .
+S@@ i je vous conna@@ is@@ sais mi@@ eu@@ x@@ , peu@@ t@@ -@@ être vous au@@ rais@@ -@@ je laissé entre@@ r.
 I@@ f I knew you bet@@ ter@@ , perhaps I would have let you in@@ .
 J@@ e veux aller l@@ à@@ -@@ bas encore une fo@@ is@@ .
 I want to go there once ag@@ ain@@ .
@@ -630,43 +630,43 @@ J@@ e suis sûr que tu me racon@@ ter@@ as ce que je veux sa@@ vo@@ ir@@ .
 I@@ '@@ m sure you@@ '@@ ll tell me what I want to kno@@ w@@ .
 Com@@ ment est le temps l@@ à@@ -@@ bas ?
 Ho@@ w is the weather the@@ re@@ ?
-U@@ ne vérité mathé@@ matique n@@ '@@ est ni simple ni compli@@ qu@@ é@@ e@@ , elle es@@ t@@ .
+U@@ ne vérité mathé@@ mati@@ que n@@ '@@ est ni simple ni compli@@ qu@@ é@@ e@@ , elle es@@ t@@ .
 A ma@@ themati@@ cal truth is neither simple nor compli@@ ca@@ te@@ d@@ ; it is@@ .
-I@@ l étudie l@@ '@@ histoire à l@@ '@@ univer@@ sit@@ é@@ .
-H@@ e is studying history at the univer@@ sit@@ y@@ .
+I@@ l étudie l@@ '@@ histoire à l@@ '@@ univer@@ s@@ it@@ é@@ .
+H@@ e is studying history at the univer@@ s@@ it@@ y@@ .
 C@@ '@@ est un tel fri@@ m@@ eur !
 H@@ e is such a show off@@ .
 P@@ u@@ is@@ -@@ je y réfléchir ?
 C@@ an I think about it@@ ?
 C@@ '@@ est la lu@@ tte fin@@ al@@ e@@ .
-This is the final stru@@ gg@@ le@@ .
-E@@ l@@ les sont très intelligen@@ tes@@ .
+This is the fin@@ al stru@@ gg@@ le@@ .
+E@@ l@@ les sont très intelli@@ gen@@ tes@@ .
 T@@ he@@ y@@ '@@ re very smar@@ t@@ .
-V@@ ous l@@ '@@ avez accusé d@@ '@@ avoir volé le vé@@ lo@@ .
+V@@ ous l@@ '@@ avez accusé d@@ '@@ avoir vol@@ é le vé@@ lo@@ .
 Y@@ ou accused him of having stolen the bi@@ ke@@ .
 P@@ our@@ quoi ne discu@@ ter@@ i@@ on@@ s@@ -@@ nous pas un moment ?
 Wh@@ y don@@ '@@ t we talk for a wh@@ il@@ e@@ ?
 J@@ '@@ ai ai@@ dé mes parents pour les t@@ â@@ ches mé@@ nag@@ è@@ res@@ .
-I helped my parents with the hou@@ se@@ work@@ .
-I@@ l connaît bien M@@ . D@@ av@@ i@@ d@@ son@@ .
-H@@ e knows M@@ r@@ . D@@ av@@ i@@ d@@ son wel@@ l@@ .
+I helped my parents with the hou@@ se@@ wor@@ k@@ .
+I@@ l connaît bien M. D@@ av@@ i@@ d@@ son@@ .
+H@@ e knows Mr. D@@ av@@ i@@ d@@ son wel@@ l@@ .
 R@@ et@@ our@@ ne là où tu as commen@@ cé@@ .
 G@@ et back to where you star@@ te@@ d@@ .
 Ç@@ a ne m@@ '@@ est d@@ '@@ aucune uti@@ lit@@ é@@ .
 T@@ hat is of no use to me@@ .
-R@@ ap@@ por@@ te@@ -@@ moi toutes les infor@@ mations que tu peux sur cette affai@@ re@@ .
+R@@ ap@@ por@@ te@@ -@@ moi toutes les infor@@ ma@@ tions que tu peux sur cette affai@@ re@@ .
 G@@ et me all the information you can on this mat@@ ter@@ .
 J@@ e suis allé à Boston en tra@@ in@@ .
 I went to Boston by tra@@ in@@ .
 Tom devrait peu@@ t@@ -@@ être faire plus attention en cla@@ s@@ se@@ .
 M@@ ay@@ be Tom should pay more attention in class@@ .
-T@@ u dor@@ mais@@ , n@@ '@@ es@@ t@@ -@@ ce pas ?
-Y@@ ou were slee@@ p@@ ing@@ , wer@@ en@@ '@@ t you@@ ?
-I@@ l n@@ '@@ y a pas de dro@@ gues@@ , ici@@ .
+T@@ u dor@@ ma@@ is@@ , n@@ '@@ es@@ t@@ -@@ ce pas ?
+Y@@ ou were slee@@ p@@ in@@ g@@ , wer@@ en@@ '@@ t you@@ ?
+I@@ l n@@ '@@ y a pas de dro@@ gues@@ , i@@ ci@@ .
 T@@ here are no dr@@ u@@ gs here@@ .
 C@@ '@@ est ce qui comp@@ te@@ .
 Tha@@ t@@ '@@ s what coun@@ ts@@ .
-I@@ ls ont traver@@ sé la fronti@@ è@@ re@@ .
+I@@ ls ont traver@@ sé la fron@@ ti@@ è@@ re@@ .
 T@@ he@@ y@@ '@@ ve crossed the bor@@ der@@ .
 D@@ on@@ ne@@ z@@ -@@ moi le mi@@ cr@@ o !
 G@@ ive me the micro@@ ph@@ one@@ .
@@ -698,8 +698,8 @@ V@@ ois@@ -@@ tu un bateau à l@@ '@@ hor@@ i@@ z@@ on ?
 D@@ o you see a boat on the hor@@ i@@ z@@ on@@ ?
 Dé@@ ci@@ d@@ ons ensemble où aller en premi@@ er@@ .
 L@@ et@@ '@@ s decide together where to go fir@@ st@@ .
-S@@ '@@ il vous pla@@ î@@ t@@ , rempl@@ issez ce questionnaire et en@@ voy@@ e@@ z@@ -@@ le@@ -@@ n@@ ous@@ .
-P@@ lea@@ se f@@ ill out this questionnaire and send it to us@@ .
+S@@ '@@ il vous pla@@ î@@ t@@ , rempl@@ issez ce question@@ naire et en@@ voy@@ e@@ z@@ -@@ le@@ -@@ n@@ ous@@ .
+P@@ lea@@ se f@@ ill out this question@@ naire and send it to us@@ .
 J@@ e veux être seul un mom@@ ent@@ .
 I want to be alone for a wh@@ il@@ e@@ .
 C@@ ette ju@@ pe est bon mar@@ ch@@ é@@ .
@@ -707,13 +707,13 @@ This skirt is chea@@ p@@ .
 J@@ e suis en train de jouer avec mes am@@ is@@ .
 I@@ '@@ m playing with my friend@@ s@@ .
 J@@ e pense que vous avez rais@@ on@@ .
-I think you@@ '@@ re righ@@ t@@ .
+I think you@@ '@@ re ri@@ gh@@ t@@ .
 N@@ e tr@@ ic@@ he pas@@ .
 D@@ on@@ '@@ t chea@@ t@@ .
-P@@ u@@ is@@ -@@ je prendre votre commande ?
+P@@ u@@ is@@ -@@ je prendre votre comman@@ de ?
 May I take your or@@ der@@ ?
-J@@ e ne comprends pas et je ne suis pas habitué à ne pas com@@ prend@@ re@@ . Ex@@ pli@@ que@@ -@@ le à nouv@@ ea@@ u@@ , s@@ '@@ il te pla@@ it@@ .
-I don@@ '@@ t understand and I@@ '@@ m not used to not under@@ stand@@ ing@@ . P@@ lea@@ se explain it once mo@@ re@@ .
+J@@ e ne comprends pas et je ne suis pas habitu@@ é à ne pas com@@ prend@@ re@@ . Ex@@ pli@@ que@@ -@@ le à nouv@@ ea@@ u@@ , s@@ '@@ il te pla@@ it@@ .
+I don@@ '@@ t understand and I@@ '@@ m not used to not under@@ stand@@ in@@ g@@ . P@@ lea@@ se explain it once mo@@ re@@ .
 Tom a bu à la boute@@ il@@ le@@ .
 Tom drank straight from the bot@@ t@@ le@@ .
 Par@@ tez tout de suit@@ e@@ , ou vous serez en ret@@ ard@@ .
@@ -724,19 +724,19 @@ I@@ ls sont part@@ is très lo@@ in@@ .
 T@@ h@@ ey have gone far a@@ wa@@ y@@ .
 I@@ ls n@@ '@@ ont probablement pas fait l@@ '@@ am@@ our@@ .
 H@@ e probably did@@ n@@ '@@ t have sex with her@@ .
-T@@ élé@@ ph@@ one@@ -@@ lu@@ i@@ .
+T@@ é@@ lé@@ ph@@ one@@ -@@ lu@@ i@@ .
 P@@ lea@@ se call him up@@ .
 H@@ é@@ , ton chien vient de me mor@@ d@@ re@@ .
 H@@ ey@@ , your dog just bit me@@ .
 J@@ '@@ aime particu@@ lièrement votre gâteau au cho@@ co@@ la@@ t@@ .
 I especially like your chocolate ca@@ ke@@ .
-Tom est l@@ '@@ homme le plus grand que j@@ '@@ aie jamais v@@ u@@ .
+Tom est l@@ '@@ homme le plus grand que j@@ '@@ ai@@ e jamais v@@ u@@ .
 Tom is the tallest guy I@@ '@@ ve ever se@@ en@@ .
 V@@ ous ne devriez pas y aller seu@@ les@@ .
 Y@@ ou should not go al@@ one@@ .
 I@@ l en va de votre dev@@ o@@ ir@@ .
 Tha@@ t@@ '@@ s your du@@ ty@@ .
-L@@ e médecin lui a pres@@ crit de prendre des vac@@ an@@ ces@@ .
+L@@ e médecin lui a pres@@ cr@@ it de prendre des vac@@ an@@ ces@@ .
 The doctor advised that she take a holi@@ da@@ y@@ .
 J@@ e suis so@@ bre depuis trois ans@@ .
 I@@ '@@ ve been so@@ ber for three y@@ ear@@ s@@ .
@@ -748,7 +748,7 @@ T@@ en@@ ez ceci !
 H@@ old th@@ is@@ .
 C@@ '@@ est mon chev@@ al@@ .
 The horse is min@@ e@@ .
-I@@ l était capable de nager à travers la rivière quand il était adoles@@ c@@ ent@@ .
+I@@ l était capable de nager à travers la rivière quand il était a@@ dol@@ es@@ c@@ ent@@ .
 H@@ e could swim across the river when he was in his teen@@ s@@ .
 Com@@ bien de go@@ sses ave@@ z@@ -@@ vous ?
 Ho@@ w many kids do you ha@@ ve@@ ?
@@ -758,7 +758,7 @@ T@@ u es le che@@ f@@ .
 You@@ '@@ re the lea@@ der@@ .
 J@@ e porte peu d@@ '@@ intérêt à l@@ '@@ H@@ is@@ to@@ i@@ re@@ .
 I have little interest in histor@@ y@@ .
-I@@ l étudie en moyenne dix heures par jour@@ .
+I@@ l étudie en mo@@ yenne dix heures par jour@@ .
 H@@ e studies ten hours a day on aver@@ ag@@ e@@ .
 J@@ e t@@ '@@ aime de plus en plus chaque jour@@ .
 I love you more and more each da@@ y@@ .
@@ -772,13 +772,13 @@ N@@ e t@@ '@@ im@@ mis@@ ce pas l@@ à@@ -@@ de@@ dans !
 D@@ o not inter@@ fe@@ re@@ !
 I@@ l la prit dans ses bra@@ s@@ .
 H@@ e took her in his ar@@ m@@ s@@ .
-T@@ u es en train de menti@@ r@@ .
-Y@@ ou are ly@@ ing@@ .
+T@@ u es en train de menti@@ r.
+Y@@ ou are ly@@ in@@ g@@ .
 Ê@@ tes@@ -@@ vous certaine que c@@ '@@ est ce que vous voulez ?
 A@@ re you certain that@@ '@@ s what you wan@@ t@@ ?
 J@@ e ne pense pas arriver à faire encore ç@@ a@@ .
 I don@@ '@@ t think I can do this any@@ mo@@ re@@ .
-E@@ l@@ les ont lou@@ pé la date li@@ m@@ it@@ e@@ .
+E@@ l@@ les ont lou@@ p@@ é la date li@@ m@@ it@@ e@@ .
 T@@ h@@ ey missed the dea@@ d@@ l@@ ine@@ .
 I@@ l jet@@ a la lettre dans le feu@@ .
 H@@ e threw the letter into the fi@@ re@@ .
@@ -794,9 +794,9 @@ J@@ e suis au courant depuis des an@@ né@@ es@@ .
 I@@ '@@ ve known about this for y@@ ear@@ s@@ .
 Tom a re@@ bon@@ di juste à temp@@ s@@ .
 Tom jumped back just in ti@@ me@@ .
-E@@ lle achet@@ a une pa@@ ire de bot@@ tes@@ .
+E@@ lle ach@@ et@@ a une pa@@ ire de bot@@ tes@@ .
 S@@ he bought a couple of bo@@ ot@@ s@@ .
-J@@ '@@ enseig@@ ne ici@@ .
+J@@ '@@ enseig@@ ne i@@ ci@@ .
 I teach here@@ .
 É@@ ti@@ e@@ z@@ -@@ vous vraiment éner@@ v@@ ée ?
 W@@ ere you really ang@@ r@@ y@@ ?
@@ -808,7 +808,7 @@ J@@ '@@ aimerais y aller mais je n@@ '@@ ai pas de voitu@@ re@@ .
 I would like to go@@ , but I don@@ '@@ t have a car@@ .
 I@@ l la du@@ pa@@ .
 H@@ e fo@@ ol@@ ed her@@ .
-S@@ o@@ yez genti@@ l@@ les !
+S@@ o@@ yez gen@@ ti@@ l@@ les !
 B@@ e ni@@ ce@@ .
 J@@ '@@ attends mon ami@@ e@@ .
 I@@ '@@ m waiting for my friend@@ .
@@ -818,17 +818,17 @@ J@@ e pense qu@@ '@@ il faut que j@@ '@@ y réfléch@@ is@@ se@@ .
 I guess I@@ '@@ ll have to think it over@@ .
 C@@ '@@ est quoi cette photo dans ton ca@@ si@@ er ?
 W@@ ha@@ t@@ '@@ s that picture inside your lo@@ ck@@ er@@ ?
-Q@@ ui commande ici ?
+Q@@ ui comman@@ de ici ?
 W@@ ho@@ '@@ s in command here@@ ?
 L@@ e cour@@ rier est distribu@@ é chaque jour@@ .
 L@@ et@@ ters are deli@@ vered every da@@ y@@ .
 N@@ '@@ ave@@ z@@ -@@ vous rien appris de vos erreurs ?
-H@@ a@@ ve you learned nothing from your mis@@ ta@@ kes@@ ?
+H@@ a@@ ve you learned nothing from your mis@@ ta@@ k@@ es@@ ?
 T@@ u vas le comprendre tout de suit@@ e@@ .
 You@@ '@@ ll understand it right a@@ wa@@ y@@ .
-A@@ près dix ans comme par@@ ten@@ aires en affai@@ res@@ , ils ont décidé de se sé@@ pare@@ r@@ .
+A@@ près dix ans comme par@@ ten@@ ai@@ res en affai@@ res@@ , ils ont décidé de se sé@@ pare@@ r.
 A@@ f@@ ter ten years as business part@@ ner@@ s@@ , they decided to part wa@@ y@@ s@@ .
-L@@ isez autant que possible !
+L@@ is@@ ez autant que possible !
 R@@ ead as much as possi@@ ble@@ .
 J@@ '@@ ai bâ@@ ill@@ é@@ .
 I have y@@ aw@@ ne@@ d@@ .
@@ -837,14 +837,14 @@ I can@@ '@@ t p@@ in@@ point the proble@@ m@@ .
 I@@ l por@@ ta la main à son fron@@ t@@ .
 H@@ e put his hand to his fore@@ hea@@ d@@ .
 J@@ e ne veux pas te mettre dans la mer@@ de@@ .
-I don@@ '@@ t want to get you into trouble@@ .
-C@@ '@@ est un expert de la pê@@ che@@ .
-H@@ e is an expert at fis@@ h@@ ing@@ .
+I don@@ '@@ t want to get you into trou@@ ble@@ .
+C@@ '@@ est un exper@@ t de la pê@@ che@@ .
+H@@ e is an exper@@ t at fis@@ h@@ in@@ g@@ .
 J@@ '@@ ai eu cette machine à écrire à prix cass@@ é@@ .
 I got this ty@@ pe@@ writer at a bar@@ g@@ ain pri@@ ce@@ .
-N@@ ous dres@@ s@@ âmes notre tente à l@@ '@@ om@@ bre d@@ '@@ un grand ar@@ bre@@ .
+N@@ ous dres@@ s@@ âmes notre ten@@ te à l@@ '@@ om@@ bre d@@ '@@ un grand ar@@ bre@@ .
 W@@ e p@@ it@@ ched our tent under the sha@@ de of a large tre@@ e@@ .
-E@@ lle fut en@@ terr@@ ée vi@@ van@@ te@@ .
+E@@ lle fut en@@ ter@@ r@@ ée vi@@ van@@ te@@ .
 S@@ he was bu@@ ried ali@@ ve@@ .
 Tatoeba : Par@@ ce qu@@ '@@ une langue est bien davantage que la som@@ me de ses mo@@ ts@@ .
 Ta@@ to@@ e@@ ba@@ : Be@@ cause a language is more than the su@@ m of its wor@@ d@@ s@@ .
@@ -852,8 +852,8 @@ N@@ ot@@ re école est de l@@ '@@ autre côté de la ga@@ re@@ .
 O@@ ur school is on the other side of the sta@@ tion@@ .
 V@@ ous avez un bon avo@@ ca@@ t@@ .
 Y@@ ou have a good la@@ w@@ y@@ er@@ .
-L@@ '@@ h@@ éli@@ cop@@ t@@ ère est si utile qu@@ '@@ un jour il pourrait rem@@ pla@@ cer les voitures et les tra@@ ins@@ .
-The hel@@ i@@ cop@@ ter is so useful that someday it may take the place of cars and tra@@ ins@@ .
+L@@ '@@ h@@ éli@@ cop@@ t@@ ère est si utile qu@@ '@@ un jour il pourrait rem@@ pla@@ cer les voitures et les tra@@ in@@ s@@ .
+The hel@@ i@@ cop@@ ter is so useful that someday it may take the place of cars and tra@@ in@@ s@@ .
 Tom a envoyé beaucoup de lettres à Mar@@ i@@ e@@ .
 Tom sent Mary a lot of let@@ ter@@ s@@ .
 T@@ '@@ amus@@ es@@ -@@ tu ?
@@ -863,26 +863,26 @@ S@@ he had fun with hi@@ m@@ .
 Tom manque de confiance en lu@@ i@@ .
 Tom la@@ cks confidence in hi@@ m@@ sel@@ f@@ .
 T@@ ous les hommes sont ég@@ aux devant la lo@@ i@@ .
-All men are equal under the la@@ w@@ .
+A@@ ll men are equal under the la@@ w@@ .
 C@@ '@@ est plutôt ir@@ on@@ i@@ que@@ .
 I@@ t@@ '@@ s rather ir@@ on@@ ic@@ .
-J@@ '@@ ai certainement eu beaucoup de chance@@ .
+J@@ '@@ ai certa@@ inement eu beaucoup de chan@@ ce@@ .
 I certainly have had great lu@@ ck@@ .
 I@@ l se ré@@ veil@@ la au mili@@ eu de la nu@@ it@@ .
-H@@ e woke up in the middle of the nigh@@ t@@ .
+H@@ e wo@@ ke up in the middle of the ni@@ gh@@ t@@ .
 T@@ u as envoyé le pa@@ qu@@ et par av@@ i@@ on@@ .
 Y@@ ou sent the pa@@ ck@@ age by plan@@ e@@ .
-La viande est du@@ re@@ .
+La vi@@ ande est du@@ re@@ .
 The meat is tou@@ gh@@ .
 Es@@ -@@ tu oubli@@ eux ?
 A@@ re you for@@ get@@ fu@@ l@@ ?
 J@@ '@@ avais un terrible mal d@@ '@@ es@@ tom@@ ac@@ .
 I had a bad st@@ om@@ ach@@ -@@ a@@ che@@ .
-J@@ e lui donner@@ ai votre message quand il viend@@ ra@@ .
+J@@ e lui don@@ ner@@ ai votre message quand il viend@@ ra@@ .
 I@@ '@@ ll give him your message when he com@@ es@@ .
-Tom n@@ '@@ avait aucun al@@ li@@ é@@ , mais il se faisait différents ennem@@ is@@ .
+Tom n@@ '@@ avait aucun al@@ li@@ é@@ , mais il se faisait différen@@ ts ennem@@ is@@ .
 Tom had no all@@ y@@ , but he himself was making different en@@ em@@ i@@ es@@ .
-L@@ eurs vies d@@ '@@ épo@@ ux fut un bonheur absolu@@ .
+L@@ eurs vies d@@ '@@ épo@@ ux fut un bon@@ heur absolu@@ .
 T@@ he@@ ir married life was full blis@@ s@@ .
 J@@ '@@ ai été beaucoup ai@@ dé@@ e@@ .
 I had a lot of hel@@ p@@ .
@@ -896,12 +896,12 @@ J@@ '@@ essaie de con@@ qu@@ éri@@ r son c@@ œ@@ ur@@ .
 I am trying to con@@ quer his heart@@ .
 J@@ e pense que le train va bientôt arriver@@ .
 I think the train will come so@@ on@@ .
-V@@ ous avez fait ce que vous devi@@ e@@ z@@ .
+V@@ ous avez fait ce que vous dev@@ i@@ e@@ z@@ .
 Y@@ ou did what you had to do@@ .
 Hon@@ n@@ ê@@ tem@@ ent@@ ...
 Hon@@ es@@ t@@ ly@@ ...
-E@@ st@@ -@@ ce que tu connais quel@@ qu@@ '@@ un qui s@@ '@@ y connaît en cli@@ mati@@ sation ?
-D@@ o you know someone who knows about air condition@@ ing@@ ?
+E@@ st@@ -@@ ce que tu connais quel@@ qu@@ '@@ un qui s@@ '@@ y connaît en cli@@ mati@@ sa@@ tion ?
+D@@ o you know someone who knows about air condition@@ in@@ g@@ ?
 T@@ u as toujours été bonne cuisin@@ i@@ è@@ re@@ .
 Y@@ ou always were a good cook@@ .
 Mary se la@@ ve les chev@@ eu@@ x@@ .
@@ -914,8 +914,8 @@ C@@ e programme vous a été of@@ fer@@ t par les s@@ pon@@ sors qui ap@@ para@@
 This progra@@ m is brought to you by the s@@ pon@@ sors now app@@ earing on your scre@@ en@@ .
 Q@@ ue vend@@ ent@@ -@@ elles ?
 W@@ hat do they sel@@ l@@ ?
-P@@ réf@@ è@@ res@@ -@@ tu les blondes ou les br@@ unes ?
-D@@ o you prefer blondes or bru@@ net@@ tes@@ ?
+P@@ réf@@ è@@ res@@ -@@ tu les blon@@ des ou les br@@ un@@ es ?
+D@@ o you prefer blon@@ des or bru@@ net@@ tes@@ ?
 V@@ ous n@@ '@@ avez pas de vie@@ .
 Y@@ ou have no life@@ .
 E@@ lle lui a écrit une lon@@ gue lettre mais ne l@@ '@@ a pas pos@@ té@@ e@@ .
@@ -942,15 +942,15 @@ J@@ e déteste les femmes qui disent que tous les hommes sont les mê@@ mes@@ .
 I hate women who say that all men are the sa@@ me@@ .
 J@@ '@@ ignore pourquoi vous êtes toutes tellement en col@@ è@@ re@@ .
 I don@@ '@@ t know why you@@ '@@ re all so ang@@ r@@ y@@ .
-E@@ lle parlait d@@ '@@ une voix fai@@ ble@@ .
+E@@ lle parlait d@@ '@@ une vo@@ ix fai@@ ble@@ .
 S@@ he spoke in a weak vo@@ ic@@ e@@ .
 E@@ lle a une grande chambre rien que pour el@@ le@@ .
 S@@ he has a large room all to her@@ sel@@ f@@ .
-I@@ l fait déjà sombre de@@ hor@@ s@@ .
+I@@ l fait déjà som@@ bre de@@ hor@@ s@@ .
 I@@ t@@ '@@ s already dark out@@ si@@ de@@ .
 M@@ ets les car@@ ot@@ tes dans le po@@ t@@ .
 P@@ ut the car@@ ro@@ ts in the po@@ t@@ .
-J@@ e possède cet endro@@ it@@ .
+J@@ e poss@@ ède cet endro@@ it@@ .
 I own this pla@@ ce@@ .
 M@@ on père est mort il y a cinq ans@@ .
 M@@ y father died five years a@@ go@@ .
@@ -959,23 +959,23 @@ I@@ t@@ '@@ s on me@@ .
 J@@ e m@@ '@@ y rend@@ rai si tu le fais@@ .
 I will go if you go@@ .
 J@@ e t@@ '@@ ai ap@@ porté de l@@ '@@ ea@@ u@@ .
-I brought you some water@@ .
+I brought you some wa@@ ter@@ .
 I@@ l n@@ '@@ aime pas les cha@@ ts@@ .
 H@@ e does not like ca@@ ts@@ .
 A@@ u@@ c@@ un d@@ '@@ entre eux n@@ '@@ a l@@ '@@ air occup@@ é@@ .
 N@@ either of them looks bus@@ y@@ .
-I@@ l a dispar@@ u sans laisser de trac@@ e@@ .
+I@@ l a dis@@ par@@ u sans laisser de trac@@ e@@ .
 H@@ e disappeared without a trac@@ e@@ .
 Qu@@ ’@@ es@@ t@@ -@@ ce que tu en penses de ta nouvelle école ?
 Ho@@ w do you like your new scho@@ ol@@ ?
 I@@ l netto@@ ie une voitu@@ re@@ .
 H@@ e is washing a car@@ .
-L@@ '@@ animal en haut à gauche est censé être un dra@@ gon@@ .
+L@@ '@@ animal en haut à gauche est cen@@ sé être un dra@@ gon@@ .
 The animal in the top lef@@ t@@ -@@ hand corner is meant to be a dra@@ gon@@ .
-Tom a répondu aux questions du profes@@ seu@@ r@@ .
+Tom a répondu aux questions du profes@@ seu@@ r.
 Tom answered the tea@@ cher@@ '@@ s question@@ s@@ .
-V@@ ous avez rais@@ on@@ , aucun doute à ce su@@ jet@@ .
-You@@ '@@ re righ@@ t@@ , no doubt about it@@ .
+V@@ ous avez rais@@ on@@ , aucun dou@@ te à ce su@@ jet@@ .
+You@@ '@@ re ri@@ gh@@ t@@ , no doubt about it@@ .
 V@@ ous êtes fort ra@@ f@@ fin@@ é@@ e@@ .
 You@@ '@@ re very so@@ ph@@ is@@ ti@@ ca@@ te@@ d@@ .
 J@@ e suis oppos@@ é à tout type de gu@@ erre@@ .
@@ -984,30 +984,30 @@ I@@ l a fait le travail lu@@ i@@ -@@ mê@@ me@@ .
 H@@ e did the work on his ow@@ n@@ .
 J@@ ette un coup d@@ '@@ œil à cette car@@ te@@ .
 Ta@@ ke a look at this ma@@ p@@ .
-N@@ ous devons sérieusement penser à ce@@ ci@@ .
+N@@ ous devons séri@@ eusement penser à ce@@ ci@@ .
 W@@ e have to seriously think about th@@ is@@ .
-I@@ l nia m@@ '@@ avoir écr@@ it@@ .
+I@@ l ni@@ a m@@ '@@ avoir écr@@ it@@ .
 H@@ e denied having written to me@@ .
-As@@ -@@ tu eu assez de sommeil ?
+A@@ s@@ -@@ tu eu assez de sommeil ?
 D@@ id you get enough slee@@ p@@ ?
 P@@ l@@ usieurs personnes g@@ is@@ aient bless@@ é@@ es@@ .
 S@@ ever@@ al people lay w@@ oun@@ de@@ d@@ .
-M@@ on père conduit une très vieille voitu@@ re@@ .
+M@@ on père condu@@ it une très vieille voitu@@ re@@ .
 M@@ y father dri@@ ves a very old car@@ .
 L@@ e livre est pour mo@@ i@@ ; les fleurs sont pour n@@ ous@@ .
 The book is for me@@ ; the flowers are for us@@ .
-V@@ eu@@ illez ne pas oubli@@ er de tim@@ br@@ er les lettres que je vous ai données à pos@@ ter@@ .
+V@@ eu@@ illez ne pas oubli@@ er de tim@@ br@@ er les lettres que je vous ai donn@@ ées à pos@@ ter@@ .
 P@@ lea@@ se don@@ '@@ t forget to put stam@@ ps on the letters I gave you to post@@ .
 D@@ eux femmes chan@@ ten@@ t@@ .
-T@@ w@@ o women are sing@@ ing@@ .
+T@@ w@@ o women are sing@@ in@@ g@@ .
 O@@ n nous a dit de ne pas faire cel@@ a@@ .
 W@@ e@@ '@@ ve been told not to do that@@ .
-I@@ l s@@ '@@ av@@ ère que tu savais tout mais rest@@ ais silenci@@ eu@@ x@@ .
+I@@ l s@@ '@@ av@@ ère que tu savais tout mais rest@@ ais silen@@ ci@@ eu@@ x@@ .
 I@@ t turns out that you knew everything but kept qui@@ et@@ .
 Qu@@ el@@ qu@@ '@@ un a@@ -@@ t@@ -@@ il pris des notes ?
 D@@ id anybody take no@@ tes@@ ?
-Mer@@ de@@ , où es@@ t@@ -@@ ce que j@@ '@@ ai mis les clés de chez mo@@ i@@ , nom de Dieu ?
-Bo@@ l@@ lo@@ ck@@ s@@ , where in G@@ od@@ '@@ s name did I put my house key@@ s@@ ?
+M@@ er@@ de@@ , où es@@ t@@ -@@ ce que j@@ '@@ ai mis les clés de chez mo@@ i@@ , nom de Dieu ?
+Bo@@ l@@ lo@@ ck@@ s@@ , where in G@@ od@@ '@@ s name did I put my house k@@ ey@@ s@@ ?
 L@@ '@@ accident est sur@@ venu à cette inter@@ se@@ ction@@ .
 The accident happened at this j@@ un@@ ction@@ .
 À moins de commencer mainten@@ an@@ t@@ , vous serez en ret@@ ard@@ .
@@ -1020,13 +1020,13 @@ J@@ '@@ aimerais me rendre uti@@ le@@ .
 I@@ '@@ d like to make myself use@@ fu@@ l@@ .
 I@@ l est 8 h 3@@ 0@@ .
 I@@ t@@ '@@ s 8@@ :@@ 3@@ 0@@ .
-U@@ ne temp@@ ête les a contr@@ ain@@ tes à rester à la mais@@ on@@ .
+U@@ ne temp@@ ête les a contr@@ ain@@ tes à rester à la ma@@ is@@ on@@ .
 A storm con@@ fin@@ ed them to the hou@@ se@@ .
 Su@@ bit@@ em@@ ent@@ , le super@@ vis@@ eur a perdu son s@@ ang@@ -@@ fro@@ i@@ d@@ .
 Su@@ dd@@ en@@ ly@@ , the super@@ vis@@ or lost his compos@@ u@@ re@@ .
 C@@ '@@ était une très bonne expérience pour lu@@ i@@ .
 I@@ t was a very good experience for hi@@ m@@ .
-J@@ '@@ ai étudié l@@ '@@ anglais pendant que j@@ '@@ y éta@@ is@@ .
+J@@ '@@ ai étudi@@ é l@@ '@@ anglais pendant que j@@ '@@ y éta@@ is@@ .
 I studied English when I was the@@ re@@ .
 J@@ '@@ aurais aimé entendre ç@@ a@@ .
 I@@ '@@ d like to hear that@@ .
@@ -1038,22 +1038,22 @@ J@@ '@@ ai trouvé ceci sous votre lit@@ .
 I found this under your bed@@ .
 R@@ evi@@ ens à la maison avant six heu@@ res@@ .
 C@@ ome home before si@@ x@@ .
-J@@ '@@ aurai peu@@ t@@ -@@ être quelques minutes de ret@@ ard@@ .
+J@@ '@@ au@@ rai peu@@ t@@ -@@ être quelques minutes de ret@@ ard@@ .
 I might be a few minutes la@@ te@@ .
 J@@ e ne suis pas sur le point de lui deman@@ der@@ .
 I@@ '@@ m not about to ask hi@@ m@@ .
-T@@ out le monde a ado@@ p@@ té une attitude ho@@ sti@@ le en@@ vers les im@@ mig@@ rés cl@@ and@@ estin@@ s@@ .
+T@@ out le monde a ado@@ p@@ té une attitude ho@@ sti@@ le en@@ vers les im@@ mig@@ rés cl@@ and@@ es@@ tin@@ s@@ .
 E@@ ver@@ y@@ body took a ho@@ sti@@ le attitude toward illegal ali@@ en@@ s@@ .
-J@@ e n@@ '@@ aime pas voir de la nourriture gasp@@ ill@@ é@@ e@@ .
+J@@ e n@@ '@@ aime pas voir de la nourriture ga@@ sp@@ ill@@ é@@ e@@ .
 I don@@ '@@ t like to see food go to wa@@ ste@@ .
 É@@ lo@@ ig@@ ne@@ -@@ toi de moi !
 G@@ et away from me@@ !
 S@@ ois pruden@@ te@@ , je te pri@@ e@@ .
 P@@ lea@@ se be care@@ fu@@ l@@ .
-I@@ l était impliqué dans l@@ '@@ affai@@ re@@ .
-H@@ e was involved in the trouble@@ .
-L@@ e goû@@ t de la princesse pour les plais@@ irs était en plein ess@@ or ; et l@@ '@@ on ne son@@ g@@ ea@@ it qu@@ '@@ à leur donner de nouv@@ eaux assa@@ is@@ onn@@ ements qui p@@ us@@ sent les rendre plus pi@@ qu@@ an@@ ts@@ .
-The prin@@ c@@ ess@@ '@@ s taste for pleasures was exp@@ and@@ ing@@ ; and we thought only about how to sprin@@ k@@ le on them new sea@@ son@@ ing@@ s@@ , so as to give them more sp@@ ic@@ e@@ .
+I@@ l était impli@@ qué dans l@@ '@@ affai@@ re@@ .
+H@@ e was involved in the trou@@ ble@@ .
+L@@ e goû@@ t de la prin@@ cesse pour les plais@@ irs était en plein ess@@ or ; et l@@ '@@ on ne son@@ g@@ ea@@ it qu@@ '@@ à leur donner de nouv@@ eaux assa@@ is@@ on@@ n@@ ements qui p@@ us@@ sent les rendre plus pi@@ qu@@ an@@ ts@@ .
+The prin@@ c@@ ess@@ '@@ s taste for pleasures was exp@@ and@@ in@@ g@@ ; and we thought only about how to sprin@@ k@@ le on them new sea@@ son@@ in@@ g@@ s@@ , so as to give them more sp@@ ic@@ e@@ .
 J@@ '@@ ai oublié de faire quelque cho@@ se@@ .
 I forgot to do some@@ thin@@ g@@ .
 Tom et Mary ont tous les deux très fa@@ im@@ .
@@ -1073,43 +1073,43 @@ G@@ o warm up@@ .
 J@@ e suppose qu@@ '@@ il s@@ '@@ agit de ton p@@ è@@ re@@ .
 I@@ '@@ m assu@@ ming this is your fa@@ ther@@ .
 I@@ l se dé@@ coura@@ g@@ ea@@ .
-H@@ e became dis@@ pir@@ it@@ ed@@ .
+H@@ e became dis@@ pi@@ r@@ it@@ ed@@ .
 I@@ l est tombé de chev@@ al@@ .
 H@@ e fell off the hor@@ se@@ .
-L@@ es act@@ eur@@ s@@ , les arti@@ st@@ es@@ , les musici@@ ens et les écri@@ va@@ ins peuvent utiliser différen@@ tes for@@ mes y compris les mots parl@@ és et écr@@ it@@ s@@ , les ac@@ tion@@ s@@ , les cou@@ leurs et les son@@ s@@ .
-A@@ ctor@@ s@@ , arti@@ st@@ s@@ , musici@@ ans@@ , and writers may use many forms inclu@@ ding spoken and written wor@@ d@@ s@@ , ac@@ tion@@ s@@ , col@@ ors and soun@@ d@@ s@@ .
+L@@ es act@@ eur@@ s@@ , les arti@@ st@@ es@@ , les musici@@ ens et les écri@@ va@@ ins peuvent utiliser différen@@ tes for@@ mes y compris les mots par@@ l@@ és et écr@@ it@@ s@@ , les ac@@ tion@@ s@@ , les cou@@ leurs et les son@@ s@@ .
+A@@ ctor@@ s@@ , arti@@ st@@ s@@ , musici@@ ans@@ , and writ@@ ers may use many forms inclu@@ ding spoken and written wor@@ d@@ s@@ , ac@@ tion@@ s@@ , col@@ ors and soun@@ d@@ s@@ .
 Tom et ses enfants ont passé tout l@@ '@@ a@@ pr@@ è@@ s@@ -@@ midi à chercher le parfait sa@@ pin de No@@ ë@@ l@@ .
 Tom and his children spent all afternoon looking for the perfect Christmas tre@@ e@@ .
 T@@ u es probablement fatigu@@ é@@ e@@ .
 You@@ '@@ re probably ti@@ re@@ d@@ .
 L@@ es trois quar@@ ts de la super@@ fici@@ e de la Terre sont re@@ couver@@ ts d@@ '@@ ea@@ u@@ .
-T@@ h@@ ree four@@ ths of the ear@@ th@@ '@@ s surface is covered with water@@ .
+T@@ h@@ ree four@@ ths of the ear@@ th@@ '@@ s surface is covered with wa@@ ter@@ .
 I@@ l n@@ '@@ y avait pas même un livre dans la piè@@ ce@@ .
 T@@ here was@@ n@@ '@@ t even one book in the ro@@ om@@ .
-T@@ u as été jal@@ ou@@ x@@ .
+T@@ u as été j@@ al@@ ou@@ x@@ .
 Y@@ ou were jeal@@ ous@@ .
 I@@ ls l@@ '@@ ont sauv@@ é du danger@@ .
 T@@ h@@ ey rescued him from danger@@ .
 La@@ isse ton parapluie dans le v@@ esti@@ bu@@ le@@ .
 L@@ ea@@ ve your umbrella in the hal@@ l@@ .
-J@@ e suis cé@@ liba@@ ta@@ i@@ re@@ .
+J@@ e suis cé@@ li@@ ba@@ ta@@ i@@ re@@ .
 I am sing@@ le@@ .
 J@@ e vous rend@@ rai heu@@ reu@@ x@@ .
 I will make you happ@@ y@@ .
 N@@ ous travaill@@ er@@ ons en@@ sem@@ ble@@ .
 W@@ e@@ '@@ ll work toge@@ ther@@ .
 Sami est serv@@ eur dans un bar ga@@ y@@ .
-S@@ ami@@ '@@ s a waiter at a gay bar@@ .
-J@@ e connais le garçon qui est en train de cou@@ ri@@ r@@ .
-I know that boy who is run@@ n@@ ing@@ .
+S@@ ami@@ '@@ s a wa@@ iter at a gay bar@@ .
+J@@ e connais le garçon qui est en train de cou@@ ri@@ r.
+I know that boy who is run@@ n@@ in@@ g@@ .
 U@@ ne p@@ el@@ li@@ cu@@ le de film cou@@ le@@ ur@@ , s@@ '@@ il vous pla@@ it@@ .
 O@@ ne ro@@ ll of color fil@@ m@@ , plea@@ se@@ .
-P@@ l@@ us la différence entre l@@ '@@ hypo@@ th@@ èse nulle et un résul@@ t@@ at est gran@@ de@@ , et plus la taille de l@@ '@@ é@@ chan@@ till@@ on est gran@@ de@@ , plus on peut être sûr que le résul@@ t@@ at est signifi@@ ca@@ ti@@ f@@ .
-The grea@@ ter the difference between the nu@@ ll hypothesis and an out@@ com@@ e@@ , and the larger the sa@@ mp@@ le si@@ z@@ e@@ , the more confi@@ dent one can be that the out@@ come is mean@@ ing@@ fu@@ l@@ .
-Vo@@ yons qui peut finir ceci en premi@@ er@@ .
+P@@ l@@ us la différen@@ ce entre l@@ '@@ hypo@@ th@@ èse nulle et un résul@@ t@@ at est gran@@ de@@ , et plus la taille de l@@ '@@ é@@ chan@@ till@@ on est gran@@ de@@ , plus on peut être sûr que le résul@@ t@@ at est signifi@@ ca@@ ti@@ f@@ .
+The grea@@ ter the difference between the nu@@ ll hypothesis and an out@@ com@@ e@@ , and the larger the sa@@ mp@@ le si@@ z@@ e@@ , the more confi@@ dent one can be that the out@@ come is mean@@ in@@ g@@ fu@@ l@@ .
+Vo@@ yons qui peut fin@@ ir ceci en premi@@ er@@ .
 L@@ et@@ '@@ s see who can finish doing this fir@@ st@@ .
 J@@ e pense qu@@ '@@ il se pourrait que vous dra@@ mati@@ si@@ e@@ z@@ .
-I think you might be over@@ rea@@ ct@@ ing@@ .
+I think you might be over@@ rea@@ ct@@ in@@ g@@ .
 O@@ ù vou@@ le@@ z@@ -@@ vous manger ?
 W@@ here do you want to ea@@ t@@ ?
 S@@ i je savais me serv@@ ir d@@ '@@ un ordinat@@ eur@@ , peu@@ t@@ -@@ être me pa@@ i@@ er@@ ai@@ ent@@ -@@ ils d@@ avan@@ ta@@ ge@@ .
@@ -1130,11 +1130,11 @@ I@@ l vous faut boire quelque cho@@ se@@ .
 Y@@ ou need a drin@@ k@@ .
 J@@ e n@@ '@@ aime pas le silen@@ ce@@ .
 I don@@ '@@ t like silen@@ ce@@ .
-O@@ n m@@ '@@ a pri@@ é d@@ '@@ attendre ici@@ .
+O@@ n m@@ '@@ a pri@@ é d@@ '@@ attendre i@@ ci@@ .
 I was asked to wait here@@ .
 J@@ e veux écrire un arti@@ cle@@ .
 I want to write an arti@@ cle@@ .
-Tom est un jou@@ eur@@ .
+Tom est un jou@@ eu@@ r.
 Tom is a play@@ er@@ .
 P@@ our@@ quoi es@@ -@@ tu si mor@@ o@@ se@@ ?
 Wh@@ y so g@@ lum@@ ?
@@ -1142,7 +1142,7 @@ U@@ n rhume l@@ '@@ a clou@@ é au lit@@ .
 A cold kept him in bed@@ .
 Q@@ ue vou@@ le@@ z@@ -@@ vous que je fasse ?
 W@@ hat would you like me to do@@ ?
-Tom a dit que Mary avait l@@ '@@ air ex@@ ténu@@ é@@ e@@ .
+Tom a dit que Mary avait l@@ '@@ air ex@@ té@@ nu@@ é@@ e@@ .
 Tom said that Mary looked exha@@ us@@ te@@ d@@ .
 E@@ lle a peu@@ t@@ -@@ être ra@@ té le tra@@ in@@ .
 S@@ he may have missed the tra@@ in@@ .
@@ -1154,21 +1154,21 @@ I@@ ll@@ ness can often occur at a very incon@@ ven@@ ient ti@@ me@@ .
 A@@ re you with the F@@ B@@ I@@ ?
 J@@ e me fais du souci au sujet de votre san@@ té@@ .
 I worry about your heal@@ th@@ .
-J@@ '@@ aurais dû devin@@ er@@ .
+J@@ '@@ aurais dû dev@@ in@@ er@@ .
 I should have gues@@ se@@ d@@ .
 J@@ e suis do@@ té d@@ '@@ une très bonne v@@ u@@ e@@ .
 I have very good ey@@ es@@ igh@@ t@@ .
 Tom a dit qu@@ '@@ il ne pleuv@@ rait probablement pas jus@@ qu@@ '@@ à ce soir@@ .
-Tom said that it probably wou@@ ld@@ n@@ '@@ t rain until even@@ ing@@ .
+Tom said that it probably wou@@ ld@@ n@@ '@@ t rain until even@@ in@@ g@@ .
 Res@@ tez concentr@@ és sur votre travail !
-K@@ eep fo@@ c@@ used on your work@@ .
+K@@ eep fo@@ c@@ used on your wor@@ k@@ .
 J@@ e ne peux être vu avec vou@@ s@@ .
 I can@@ '@@ t be seen with you@@ .
 L@@ e sol doit être con@@ serv@@ é pro@@ pre@@ .
 The floor must be kept clean@@ .
-C@@ '@@ est le bâtiment qui s@@ '@@ est ef@@ fon@@ dr@@ é lors du tremblement de ter@@ re@@ .
+C@@ '@@ est le bâtiment qui s@@ '@@ est ef@@ fon@@ dr@@ é lors du trem@@ blement de ter@@ re@@ .
 The building col@@ lap@@ sed in the earthqua@@ ke@@ .
-L@@ eurs per@@ tes ont atteint un milli@@ on de y@@ en@@ s@@ .
+L@@ eurs per@@ tes ont atte@@ int un milli@@ on de y@@ en@@ s@@ .
 T@@ he@@ ir lo@@ sses reached one milli@@ on y@@ en@@ .
 L@@ es vieux tra@@ ins ont leur char@@ me@@ .
 O@@ ld tra@@ ins have their char@@ m@@ .
@@ -1178,25 +1178,25 @@ C@@ '@@ est n@@ '@@ importe quoi !
 R@@ u@@ bb@@ is@@ h@@ !
 O@@ n s@@ '@@ en bat les cou@@ ill@@ es@@ .
 W@@ e don@@ '@@ t give a fu@@ ck@@ .
-Ç@@ a a dû être extr@@ êmement dou@@ lou@@ reu@@ x@@ .
+Ç@@ a a dû être ex@@ tr@@ ê@@ m@@ ement dou@@ lou@@ reu@@ x@@ .
 I@@ t mus@@ t@@ '@@ ve been extremely pain@@ fu@@ l@@ .
-J@@ ill dit qu@@ '@@ elle est heureuse en mariage mais@@ , par@@ fo@@ is@@ , on ne s@@ '@@ en dou@@ ter@@ ait pas@@ .
+J@@ ill dit qu@@ '@@ elle est heureuse en mariage ma@@ is@@ , par@@ fo@@ is@@ , on ne s@@ '@@ en dou@@ ter@@ ait pas@@ .
 J@@ ill says that she@@ '@@ s happ@@ ily mar@@ ri@@ ed@@ , but at times you@@ '@@ d never know it@@ .
-J@@ e suis am@@ érica@@ ine@@ .
+J@@ e suis am@@ éri@@ ca@@ ine@@ .
 I am Amer@@ i@@ can@@ .
 M@@ on temps coûte très cher@@ .
 M@@ y time is very expen@@ si@@ ve@@ .
-J@@ '@@ ai été const@@ er@@ né de ces nouv@@ el@@ les@@ .
+J@@ '@@ ai été con@@ st@@ er@@ né de ces nouv@@ el@@ les@@ .
 I was dis@@ ma@@ yed at the ne@@ ws@@ .
 V@@ ous êtes très ouver@@ tes@@ .
 You@@ '@@ re very op@@ en@@ .
 E@@ lle essay@@ a de le persuad@@ er de lui acheter un col@@ lier de per@@ les@@ .
 S@@ he tried to persuade him to buy her a pe@@ ar@@ l ne@@ ck@@ la@@ ce@@ .
-J@@ '@@ ai actu@@ ellement quat@@ re@@ -@@ vingt un ans@@ . M@@ ais si je dé@@ du@@ is le temps que j@@ '@@ ai passé à re@@ trouver mes bag@@ ages dans les a@@ éro@@ por@@ ts@@ , je n@@ '@@ en ai que quar@@ an@@ te@@ -@@ tro@@ is@@ .
+J@@ '@@ ai actu@@ ellement quat@@ re@@ -@@ vingt un ans@@ . M@@ ais si je dé@@ du@@ is le temps que j@@ '@@ ai passé à re@@ trouver mes bag@@ ages dans les a@@ é@@ ro@@ por@@ ts@@ , je n@@ '@@ en ai que quar@@ an@@ te@@ -@@ tro@@ is@@ .
 I actually am 8@@ 1 years old but if I sub@@ tr@@ act the time I@@ '@@ ve waited to get my bags at the air@@ por@@ t@@ , I@@ '@@ m only 4@@ 3@@ .
 I@@ ls ne me prê@@ tent pas atten@@ tion@@ .
 T@@ he@@ y@@ '@@ re igno@@ ring me@@ .
-J@@ e veux que vous resti@@ ez ici avec el@@ le@@ .
+J@@ e veux que vous res@@ ti@@ ez ici avec el@@ le@@ .
 I want you to stay here with her@@ .
 Sami n@@ '@@ a vraiment pas de chance quand il s@@ '@@ agit des fem@@ mes@@ .
 Sami is really un@@ lucky when it comes to wom@@ en@@ .
@@ -1221,7 +1221,7 @@ Sami is a compu@@ l@@ sive li@@ ar@@ .
 I@@ l veut me tu@@ er@@ .
 H@@ e wants to kill me@@ .
 L@@ e bébé dor@@ t@@ .
-The baby is slee@@ p@@ ing@@ .
+The baby is slee@@ p@@ in@@ g@@ .
 Qu@@ '@@ es@@ t@@ -@@ ce que vous aimez chez elle ?
 W@@ hat do you like about her@@ ?
 J@@ e ne suis pas ici pour acheter des chaus@@ su@@ res@@ .
@@ -1238,13 +1238,13 @@ L@@ es étudiants étaient mal à l@@ '@@ aise avant l@@ '@@ exam@@ en@@ .
 The students were ill at ease before the exam@@ .
 En@@ f@@ once la porte !
 P@@ ush the door op@@ en@@ .
-Q@@ ui écoute Tom ?
+Q@@ ui écou@@ te Tom ?
 Wh@@ o listen@@ s to T@@ om@@ ?
-Con@@ na@@ is@@ -@@ tu quel@@ qu@@ '@@ un qui n@@ '@@ est pas sur Facebook ?
+Con@@ na@@ is@@ -@@ tu quel@@ qu@@ '@@ un qui n@@ '@@ est pas sur F@@ ac@@ e@@ book ?
 D@@ o you know anyone who@@ '@@ s not on F@@ ac@@ e@@ book@@ ?
 Com@@ bien coûte un œuf ?
 Ho@@ w much does an egg co@@ st@@ ?
-C@@ '@@ est pourquoi je suis ici@@ .
+C@@ '@@ est pourquoi je suis i@@ ci@@ .
 Tha@@ t@@ '@@ s why I@@ '@@ m here@@ .
 Per@@ son@@ ne ne répon@@ dit à la por@@ te@@ .
 No@@ body answered the do@@ or@@ .
@@ -1256,7 +1256,7 @@ C@@ es mo@@ to@@ s sont du même ty@@ pe@@ .
 T@@ h@@ ese mo@@ tor@@ cy@@ cles are the same ty@@ pe@@ .
 D@@ '@@ après le journ@@ al@@ , il y a eu un grand in@@ cen@@ die à Bo@@ st@@ on@@ .
 A@@ c@@ cor@@ ding to the pa@@ per@@ , there was a big fire in Bo@@ st@@ on@@ .
-T@@ out le monde a eu l@@ '@@ air soula@@ gé@@ .
+T@@ out le monde a eu l@@ '@@ air sou@@ la@@ gé@@ .
 E@@ ver@@ yone looked reliev@@ ed@@ .
 É@@ tends tes bra@@ s@@ .
 S@@ t@@ ret@@ ch your arms strai@@ gh@@ t@@ .
@@ -1284,43 +1284,43 @@ P@@ u@@ is@@ -@@ je avoir quelque chose à manger ?
 C@@ an I get something to ea@@ t@@ ?
 T@@ u ne peux pas te pla@@ ind@@ re@@ .
 Y@@ ou can@@ '@@ t compla@@ in@@ .
-S@@ i je te connaissais mi@@ eu@@ x@@ , peu@@ t@@ -@@ être t@@ '@@ au@@ rais@@ -@@ je laiss@@ ée entre@@ r@@ .
+S@@ i je te conna@@ is@@ sais mi@@ eu@@ x@@ , peu@@ t@@ -@@ être t@@ '@@ au@@ rais@@ -@@ je laiss@@ ée entre@@ r.
 I@@ f I knew you bet@@ ter@@ , perhaps I would have let you in@@ .
 S@@ i tu veux ç@@ a@@ , tu peux l@@ '@@ avo@@ ir@@ .
 I@@ f you want that@@ , you can have it@@ .
-N@@ ot@@ re part dans cette entreprise s@@ '@@ élève à soixante pour c@@ ent@@ .
-O@@ ur ow@@ ner@@ ship in the company is 60@@ %@@ .
+N@@ ot@@ re part dans cette entreprise s@@ '@@ é@@ lève à soixante pour c@@ ent@@ .
+O@@ ur ow@@ ner@@ ship in the company is 6@@ 0@@ %@@ .
 N@@ ous ne faisons pas ça assez sou@@ ven@@ t@@ .
 W@@ e don@@ '@@ t do this often en@@ ou@@ gh@@ .
 N@@ ous ne sommes pas pauv@@ res@@ .
 W@@ e@@ '@@ re not poor@@ .
 J@@ e suis assez occup@@ é@@ , T@@ om@@ .
 I@@ '@@ m kind of busy right no@@ w@@ , T@@ om@@ .
-J@@ e suis né ici@@ .
+J@@ e suis né i@@ ci@@ .
 I was born here@@ .
 J@@ '@@ ai les mains li@@ é@@ es@@ .
 M@@ y hands are ti@@ ed@@ .
 É@@ cou@@ te atten@@ tiv@@ em@@ ent@@ .
 L@@ is@@ ten care@@ fu@@ ll@@ y@@ .
-Pen@@ se@@ z@@ -@@ vous que je l@@ '@@ aie fait ?
+Pen@@ se@@ z@@ -@@ vous que je l@@ '@@ ai@@ e fait ?
 D@@ o you think I did it@@ ?
 E@@ t vous ?
 And you@@ ?
 S@@ ois là cette nu@@ it@@ .
 B@@ e there ton@@ igh@@ t@@ .
 Com@@ pr@@ ene@@ z@@ -@@ vous ce que je dis ?
-D@@ o you understand what I am sa@@ y@@ ing@@ ?
-V@@ ous feriez mieux de sortir de l@@ à@@ -@@ bas@@ .
+D@@ o you understand what I am sa@@ y@@ in@@ g@@ ?
+V@@ ous fer@@ iez mieux de sortir de l@@ à@@ -@@ bas@@ .
 You@@ '@@ d better get out of the@@ re@@ .
 J@@ e ne me pla@@ ins pas@@ .
-I@@ '@@ m not compla@@ in@@ ing@@ .
+I@@ '@@ m not compla@@ in@@ in@@ g@@ .
 J@@ '@@ ai écris cette chan@@ son@@ , juste pour to@@ i@@ .
 I wrote this song just for you@@ .
 T@@ u as perdu la ba@@ ta@@ il@@ le@@ .
 Y@@ ou lost the bat@@ t@@ le@@ .
 Tom a dit à Mary qu@@ '@@ il pen@@ sait que John était inno@@ c@@ ent@@ .
 Tom told Mary that he thought John was inno@@ c@@ ent@@ .
-La forêt est ple@@ ine d@@ '@@ ar@@ b@@ res@@ .
+La for@@ ê@@ t est ple@@ ine d@@ '@@ ar@@ b@@ res@@ .
 The forest is full of tre@@ es@@ .
 U@@ ne question est une répon@@ se@@ .
 A question is an answ@@ er@@ .
@@ -1332,9 +1332,9 @@ L@@ eur fai@@ re@@ -@@ part de mariage est char@@ man@@ t@@ .
 T@@ he@@ ir wedding announ@@ cement is ex@@ qu@@ is@@ it@@ e@@ .
 E@@ l@@ les veulent que vous dé@@ mis@@ sion@@ ni@@ e@@ z@@ .
 T@@ h@@ ey want you to re@@ sign@@ .
-À quoi res@@ sembla@@ is@@ -@@ tu quand tu avais quinze ans ?
+À quoi res@@ sem@@ bla@@ is@@ -@@ tu quand tu avais qu@@ in@@ ze ans ?
 W@@ hat were you like when you were fif@@ teen@@ ?
-J@@ e veux d@@ '@@ abord manger du gâ@@ tea@@ u@@ .
+J@@ e veux d@@ '@@ ab@@ or@@ d manger du gâ@@ tea@@ u@@ .
 I want to eat some cake fir@@ st@@ .
 J@@ e viens d@@ '@@ avoir une des pi@@ res journ@@ ées de ma vie@@ .
 I have just had one of the worst days of my life@@ .
@@ -1347,12 +1347,12 @@ The ti@@ ling was cold under her bare fee@@ t@@ .
 J@@ e pense souvent à ma mère mor@@ te@@ .
 I often think of my dead mo@@ ther@@ .
 L@@ es règles sont val@@ ables pour tou@@ s@@ .
-R@@ u@@ les are important for ever@@ yone@@ .
+R@@ u@@ les are important for ever@@ yo@@ ne@@ .
 P@@ our@@ quoi ê@@ tes@@ -@@ vous ag@@ ac@@ ées ?
 Wh@@ y are you up@@ set@@ ?
-U@@ n in@@ cen@@ die éclata pendant cette nu@@ it@@ .
-A fire broke out during that nigh@@ t@@ .
-As@@ -@@ tu reçu les fleurs ?
+U@@ n in@@ cen@@ die écla@@ ta pendant cette nu@@ it@@ .
+A fire broke out during that ni@@ gh@@ t@@ .
+A@@ s@@ -@@ tu reçu les fleurs ?
 D@@ id you get the flow@@ er@@ s@@ ?
 P@@ rends celui qui te chan@@ te@@ .
 Ta@@ ke whichever one you li@@ ke@@ .
@@ -1360,11 +1360,11 @@ C@@ e bi@@ f@@ te@@ ck sent bon@@ .
 This be@@ ef@@ steak smells go@@ od@@ .
 Tom est sa@@ oul comme un P@@ o@@ lon@@ a@@ is@@ .
 Tom is drunk as a sk@@ un@@ k@@ .
-Ri@@ en que de penser aux ser@@ pen@@ ts le terror@@ is@@ e@@ .
+Ri@@ en que de penser aux ser@@ pen@@ ts le ter@@ r@@ or@@ is@@ e@@ .
 The very thought of sna@@ kes makes him turn p@@ al@@ e@@ .
 J@@ '@@ aime sa musi@@ que@@ .
-I like his music@@ .
-I@@ l ne veut pas être en@@ com@@ br@@ é par la responsa@@ bilité de s@@ '@@ occuper d@@ '@@ enf@@ an@@ ts@@ .
+I like his mus@@ ic@@ .
+I@@ l ne veut pas être en@@ com@@ br@@ é par la responsa@@ bil@@ ité de s@@ '@@ occuper d@@ '@@ enf@@ an@@ ts@@ .
 H@@ e does@@ n@@ '@@ t want to be en@@ cu@@ m@@ be@@ red with the responsibility of car@@ ing for child@@ ren@@ .
 Sami était clairement amou@@ reu@@ x@@ .
 Sami was clearly in lo@@ ve@@ .
@@ -1376,19 +1376,19 @@ T@@ hat rarely happ@@ en@@ s@@ .
 A@@ re you a crimin@@ al@@ ?
 Com@@ bien d@@ '@@ entre nous sont là ?
 Ho@@ w many of us are the@@ re@@ ?
-Mer@@ ci d@@ '@@ avan@@ ce@@ .
+M@@ er@@ ci d@@ '@@ avan@@ ce@@ .
 T@@ han@@ ks in advan@@ ce@@ .
 J@@ e savais exactement ce que c@@ '@@ éta@@ it@@ .
 I knew exactly what it was@@ .
-Rem@@ ettez vos devoirs !
-Tur@@ n in your home@@ work@@ .
+R@@ em@@ et@@ tez vos devoirs !
+Tur@@ n in your home@@ wor@@ k@@ .
 M@@ ê@@ me les sing@@ es tomb@@ ent des ar@@ b@@ res@@ .
 E@@ ven mon@@ keys fall from tre@@ es@@ .
-I@@ l était coupable de meu@@ r@@ tre@@ .
+I@@ l était cou@@ pa@@ ble de meu@@ r@@ tre@@ .
 H@@ e was guilty of mur@@ der@@ .
 Ç@@ a l@@ '@@ expli@@ que@@ .
 T@@ hat expla@@ ins it@@ .
-T@@ u cherches quel@@ qu@@ '@@ un ?
+T@@ u cher@@ ches quel@@ qu@@ '@@ un ?
 A@@ re you looking for some@@ one@@ ?
 Per@@ son@@ ne n@@ '@@ avait jamais pensé à vendre de la gla@@ ce au@@ par@@ avan@@ t@@ .
 N@@ o one had ever thought of selling ice be@@ fore@@ .
@@ -1406,7 +1406,7 @@ J@@ '@@ ai reçu une lettre écr@@ ite en ang@@ lais@@ .
 I received a letter written in Engl@@ is@@ h@@ .
 E@@ lle était par@@ al@@ y@@ sé@@ e@@ .
 S@@ he was st@@ un@@ ne@@ d@@ .
-I@@ l exig@@ e@@ a une augmen@@ ta@@ tion@@ .
+I@@ l ex@@ ig@@ e@@ a une augmen@@ ta@@ tion@@ .
 H@@ e demanded better pay@@ .
 C@@ '@@ est une voiture de lo@@ ca@@ tion@@ .
 This is a ren@@ tal car@@ .
@@ -1414,8 +1414,8 @@ C@@ '@@ est un très petit li@@ v@@ re@@ .
 This is a very small book@@ .
 I@@ ls ar@@ bor@@ aient tous des uni@@ for@@ mes@@ .
 T@@ h@@ ey were all dressed in uni@@ form@@ s@@ .
-Qu@@ el@@ qu@@ '@@ un peu@@ t@@ -@@ il me dire où se trouve le cla@@ vier ?
-C@@ an someone tell me where the key@@ board is@@ ?
+Qu@@ el@@ qu@@ '@@ un peu@@ t@@ -@@ il me dire où se trouve le cla@@ vi@@ er ?
+C@@ an someone tell me where the k@@ ey@@ board is@@ ?
 M@@ on cœur a sur@@ sau@@ té lorsque ma femme m@@ '@@ a dit qu@@ '@@ elle était en@@ ce@@ inte@@ .
 M@@ y heart skipped a beat when my wife told me she was preg@@ n@@ an@@ t@@ .
 I@@ l devient ra@@ mo@@ ll@@ o avec l@@ '@@ â@@ ge@@ .
@@ -1435,17 +1435,17 @@ Tha@@ t@@ '@@ s how I see it@@ .
 O@@ n m@@ '@@ a prom@@ u@@ .
 I@@ '@@ m being prom@@ ot@@ ed@@ .
 S@@ i vous igno@@ rez le pass@@ é@@ , vous mettez l@@ '@@ avenir en p@@ ér@@ il@@ .
-I@@ f you ignore the past@@ , you je@@ o@@ par@@ di@@ ze the fu@@ tu@@ re@@ .
-A@@ u@@ c@@ un de mes ca@@ mar@@ a@@ des de classe ne vit près d@@ '@@ ici@@ .
+I@@ f you ignore the pa@@ st@@ , you je@@ o@@ par@@ di@@ ze the fu@@ tu@@ re@@ .
+A@@ u@@ c@@ un de mes ca@@ mar@@ a@@ des de classe ne vit près d@@ '@@ i@@ ci@@ .
 N@@ one of my class@@ ma@@ tes live near here@@ .
 C@@ '@@ est un pharma@@ ci@@ en@@ .
 H@@ e is a pharma@@ cis@@ t@@ .
 S@@ i seulement j@@ '@@ avais s@@ u ça plus t@@ ô@@ t@@ .
 I@@ f only I had known this ear@@ li@@ er@@ .
-Q@@ ui es@@ -@@ tu pour en décider ?
+Q@@ ui es@@ -@@ tu pour en déci@@ der ?
 Wh@@ o are you to deci@@ de@@ ?
 M@@ on fils fera le travail@@ .
-M@@ y son shall do the work@@ .
+M@@ y son shall do the wor@@ k@@ .
 J@@ e ne vais pas au cinéma aussi souvent que je le vou@@ dra@@ is@@ .
 I don@@ '@@ t go to the movies as often as I@@ '@@ d li@@ ke@@ .
 Tom a aussi un fr@@ è@@ re@@ .
@@ -1460,25 +1460,25 @@ J@@ e ne peux pas croire que je sois d@@ '@@ accord avec ç@@ a@@ .
 I can@@ '@@ t believe I@@ '@@ m agre@@ e@@ ing to th@@ is@@ .
 T@@ u peux aller où tu veu@@ x@@ .
 Y@@ ou can go wherever you wan@@ t@@ .
-E@@ lle m@@ '@@ a ro@@ ssé avec une bat@@ te de ba@@ se@@ -@@ ball@@ .
+E@@ lle m@@ '@@ a ro@@ ss@@ é avec une bat@@ te de ba@@ se@@ -@@ ball@@ .
 S@@ he beat the shit out of me with a baseball bat@@ .
 Sou@@ vi@@ en@@ s@@ -@@ toi que nous sommes tous dans le même bat@@ ea@@ u@@ .
-Rem@@ ember that we@@ '@@ re all in the same bo@@ at@@ .
+R@@ em@@ ember that we@@ '@@ re all in the same bo@@ at@@ .
 J@@ '@@ ai un ami@@ .
 I have a friend@@ .
-Qu@@ '@@ es@@ t@@ -@@ ce que je suis censé dire à Tom maintenant ?
+Qu@@ '@@ es@@ t@@ -@@ ce que je suis cen@@ sé dire à Tom maintenant ?
 W@@ hat am I supposed to tell Tom no@@ w@@ ?
 J@@ e suppose que je sau@@ rais changer un p@@ ne@@ u s@@ '@@ il me le fal@@ la@@ it@@ .
 I suppose I could change a tire if I had to@@ .
 T@@ u ne devrais pas avoir une confiance av@@ eu@@ gle en T@@ om@@ .
 Y@@ ou shou@@ ld@@ n@@ '@@ t believe everything Tom tells you@@ .
-Tom et Mary fir@@ ent la vaiss@@ elle en@@ sem@@ ble@@ .
+Tom et Mary fir@@ ent la va@@ iss@@ elle en@@ sem@@ ble@@ .
 Tom and Mary washed the dishes toge@@ ther@@ .
 M@@ on frère travaille dans une station servi@@ ce@@ .
 M@@ y brother is working at a gas sta@@ tion@@ .
 A@@ c@@ cro@@ che@@ -@@ toi fer@@ mem@@ ent@@ , aut@@ rement tu vas tom@@ ber@@ .
 H@@ old on ti@@ gh@@ t@@ , oth@@ er@@ wise you will fall off@@ .
-C@@ e n@@ '@@ était qu@@ '@@ une façon de parl@@ er@@ .
+C@@ e n@@ '@@ était qu@@ '@@ une façon de par@@ l@@ er@@ .
 T@@ hat was only a figure of spee@@ ch@@ .
 M@@ a femme et moi avons fait nos ac@@ ha@@ ts de Noël en oc@@ to@@ bre@@ .
 M@@ y wife and I did our Christmas shopping in Oc@@ to@@ ber@@ .
@@ -1486,7 +1486,7 @@ E@@ lle a refus@@ é son ai@@ de@@ .
 S@@ he re@@ je@@ cted his offer of hel@@ p@@ .
 Tom voulait que Mary appr@@ enne le fran@@ ç@@ a@@ is@@ .
 Tom wanted Mary to learn Fren@@ ch@@ .
-A@@ ve@@ z@@ -@@ vous jamais souf@@ fer@@ t d@@ '@@ une maladie séri@@ euse ?
+A@@ ve@@ z@@ -@@ vous jamais sou@@ f@@ fer@@ t d@@ '@@ une maladie séri@@ euse ?
 H@@ a@@ ve you ever had a serious ill@@ n@@ ess@@ ?
 J@@ e ne sup@@ porte pas de per@@ d@@ re@@ .
 I can@@ '@@ t stand getting bea@@ ten@@ .
@@ -1500,13 +1500,13 @@ V@@ ous dites que vous voudriez aller voir Tom ? P@@ our quelle raison fer@@ i@@
 Y@@ ou say you want to visit T@@ om@@ ? Wh@@ y in the world would you want to do that@@ ?
 N@@ ous ac@@ qu@@ ér@@ ons chaque jour davantage de connaiss@@ an@@ ces@@ .
 W@@ e g@@ ain more knowledge every da@@ y@@ .
-I@@ l ne cra@@ int pas de mou@@ ri@@ r@@ .
+I@@ l ne cra@@ int pas de mou@@ ri@@ r.
 H@@ e is@@ n@@ '@@ t afraid to di@@ e@@ .
 I@@ l lui a acheté des cho@@ co@@ la@@ ts@@ .
 H@@ e bought her some cho@@ co@@ la@@ tes@@ .
 E@@ lle t@@ '@@ a tra@@ hi@@ .
 S@@ he betrayed you@@ .
-J@@ e veux que vous re@@ veniez ici@@ .
+J@@ e veux que vous re@@ ven@@ iez i@@ ci@@ .
 I want you back here@@ .
 Qu@@ '@@ es@@ t@@ -@@ ce que tu regar@@ des comme ça ?
 W@@ hat are you ga@@ w@@ king at@@ ?
@@ -1518,15 +1518,15 @@ Tom commença à battre sa fil@@ le@@ .
 Tom began to beat his daugh@@ ter@@ .
 Q@@ ue souha@@ it@@ e@@ z@@ -@@ vous en retour ?
 W@@ hat do you want in re@@ tur@@ n@@ ?
-J@@ '@@ abandon@@ ne@@ . Qu@@ '@@ ont en commun un pr@@ être ir@@ lan@@ dais et un sor@@ cier af@@ ri@@ ca@@ in ?
-I give up@@ . W@@ hat do an Ir@@ ish pri@@ est and Con@@ go@@ l@@ ese wit@@ ch doctor have in com@@ mon@@ ?
+J@@ '@@ abandon@@ ne@@ . Qu@@ '@@ ont en comm@@ un un pr@@ être ir@@ lan@@ dais et un sor@@ cier af@@ ri@@ ca@@ in ?
+I give up@@ . W@@ hat do an I@@ r@@ ish pri@@ est and Con@@ go@@ l@@ ese wit@@ ch doctor have in com@@ mon@@ ?
 Tom a netto@@ yé le sol de la cuisine avec une ser@@ p@@ ill@@ è@@ re@@ .
 Tom mo@@ pped the kitchen flo@@ or@@ .
-V@@ ous feriez mieux de lui demander à l@@ '@@ avance combien cela va coû@@ ter@@ .
+V@@ ous fer@@ iez mieux de lui demander à l@@ '@@ avance combien cela va coû@@ ter@@ .
 Y@@ ou had better ask him in advance how much it will co@@ st@@ .
-V@@ ous avez toujours dit que vous vouliez devenir scientifi@@ que@@ . P@@ our@@ quoi ne l@@ '@@ ê@@ tes@@ -@@ vous pas deven@@ ue ?
+V@@ ous avez toujours dit que vous vou@@ liez devenir scientifi@@ que@@ . P@@ our@@ quoi ne l@@ '@@ ê@@ tes@@ -@@ vous pas deven@@ ue ?
 Y@@ ou always said you wanted to become a scienti@@ st@@ . Wh@@ y did@@ n@@ '@@ t you@@ ?
-J@@ '@@ ai été éton@@ né@@ .
+J@@ '@@ ai été é@@ ton@@ né@@ .
 I was a@@ st@@ on@@ is@@ he@@ d@@ .
 P@@ eu@@ x@@ -@@ tu attendre la fin de l@@ '@@ his@@ to@@ i@@ re@@ , un moment ?
 Can@@ '@@ t you sit the story out for a wh@@ il@@ e@@ ?
@@ -1556,10 +1556,10 @@ T@@ u es vraiment bon@@ .
 Y@@ ou really are go@@ od@@ .
 T@@ u ne devrais pas te mo@@ quer de son erre@@ ur@@ .
 Y@@ ou should not laugh at his mis@@ ta@@ ke@@ .
-Tom verrou@@ illa la por@@ te@@ .
+Tom ver@@ rou@@ illa la por@@ te@@ .
 Tom bo@@ l@@ ted the do@@ or@@ .
 J@@ e parie que vous vous deman@@ dez comment ça fonction@@ ne@@ .
-I bet you@@ '@@ re wondering how this work@@ s@@ .
+I bet you@@ '@@ re wondering how this wor@@ k@@ s@@ .
 L@@ e lait tour@@ ne facil@@ em@@ ent@@ .
 Mil@@ k easily turns sour@@ .
 E@@ lle est pol@@ y@@ glo@@ t@@ te@@ .
@@ -1568,25 +1568,25 @@ J@@ e n@@ '@@ arrive pas à croire que tu penses que je sois insis@@ tan@@ t@@ .
 I can@@ '@@ t believe you think I@@ '@@ m p@@ us@@ hy@@ .
 Tom m@@ '@@ a attend@@ u@@ e@@ .
 Tom waited for me@@ .
-Tom n@@ '@@ habite pas ici@@ .
+Tom n@@ '@@ habite pas i@@ ci@@ .
 Tom does@@ n@@ '@@ t live here@@ .
 Cro@@ is@@ -@@ mo@@ i@@ , s@@ '@@ il te pla@@ î@@ t@@ .
 P@@ lea@@ se trust me@@ .
 V@@ eu@@ x@@ -@@ tu perdre du poids ?
 D@@ o you want to lose weigh@@ t@@ ?
-Mer@@ ci@@ .
+M@@ er@@ ci@@ .
 T@@ h@@ ank you@@ .
-L@@ es jeunes devraient respecter les vi@@ eu@@ x@@ .
+L@@ es jeunes dev@@ raient respecter les vi@@ eu@@ x@@ .
 The young should respect the old@@ .
 J@@ e m@@ '@@ aime davantage et je per@@ mets aux autres de m@@ '@@ aim@@ er@@ .
 I love myself more and al@@ low other people to love me@@ .
-J@@ e veux savoir pourquoi nous sommes ici@@ .
+J@@ e veux savoir pourquoi nous sommes i@@ ci@@ .
 I want to know what we@@ '@@ re here for@@ .
 P@@ res@@ que tout le monde était en ret@@ ard@@ .
 Al@@ most everyone was la@@ te@@ .
-Fa@@ ites attention à vos pen@@ sé@@ es@@ ; elles devi@@ ennent vos par@@ ol@@ es@@ . Fa@@ ites attention à vos par@@ ol@@ es@@ ; elles devi@@ ennent vos ac@@ tion@@ s@@ . Fa@@ ites attention à vos ac@@ tion@@ s@@ ; elles devi@@ ennent vos habitu@@ des@@ . Fa@@ ites attention à vos habitu@@ des ; elles devi@@ ennent votre caract@@ è@@ re@@ . Fa@@ ites attention à votre caract@@ è@@ re@@ ; il devient votre destin@@ .
-B@@ e careful of your thou@@ gh@@ ts@@ , for your thou@@ ghts become your wor@@ d@@ s@@ . B@@ e careful of your wor@@ d@@ s@@ , for your words become your ac@@ tion@@ s@@ . B@@ e careful of your ac@@ tion@@ s@@ , for your ac@@ tions become your habit@@ s@@ . B@@ e careful of your habit@@ s@@ , for your habits become your charac@@ ter@@ . B@@ e careful of your charac@@ ter@@ , for your character becomes your destin@@ y@@ .
-L@@ es trois femmes souri@@ ren@@ t@@ .
+Fa@@ ites attention à vos pen@@ sé@@ es@@ ; elles dev@@ i@@ ennent vos par@@ ol@@ es@@ . Fa@@ ites attention à vos par@@ ol@@ es@@ ; elles dev@@ i@@ ennent vos ac@@ tion@@ s@@ . Fa@@ ites attention à vos ac@@ tion@@ s@@ ; elles dev@@ i@@ ennent vos habitu@@ des@@ . Fa@@ ites attention à vos habitu@@ des ; elles dev@@ i@@ ennent votre car@@ act@@ è@@ re@@ . Fa@@ ites attention à votre car@@ act@@ è@@ re@@ ; il devient votre destin@@ .
+B@@ e careful of your th@@ ou@@ gh@@ ts@@ , for your th@@ ou@@ ghts become your wor@@ d@@ s@@ . B@@ e careful of your wor@@ d@@ s@@ , for your words become your ac@@ tion@@ s@@ . B@@ e careful of your ac@@ tion@@ s@@ , for your ac@@ tions become your habit@@ s@@ . B@@ e careful of your habit@@ s@@ , for your habits become your charac@@ ter@@ . B@@ e careful of your charac@@ ter@@ , for your character becomes your destin@@ y@@ .
+L@@ es trois femmes sou@@ ri@@ ren@@ t@@ .
 The three women smil@@ ed@@ .
 Tom est beau@@ , n@@ '@@ es@@ t@@ -@@ ce pas ?
 Tom is beauti@@ fu@@ l@@ , is@@ n@@ '@@ t he@@ ?
@@ -1597,7 +1597,7 @@ P@@ lea@@ se let me take your pic@@ tu@@ re@@ .
 J@@ e n@@ ’@@ ai pas l@@ ’@@ intention de me mê@@ ler de votre affai@@ re@@ .
 I don@@ '@@ t intend to get mi@@ x@@ ed up in your bus@@ in@@ ess@@ .
 N@@ ous ne faisons que commen@@ cer@@ .
-W@@ e@@ '@@ re just begin@@ n@@ ing@@ .
+W@@ e@@ '@@ re just begin@@ n@@ in@@ g@@ .
 J@@ e por@@ tais un im@@ per@@ mé@@ ab@@ le@@ , donc je ne me suis pas tellement mou@@ ill@@ é@@ .
 I had a rain@@ coat on so I did@@ n@@ '@@ t get so w@@ et@@ .
 I@@ l n@@ '@@ existe aucun moyen de dire à quel point la science aur@@ a progres@@ sé d@@ '@@ ici la fin du ving@@ ti@@ ème siè@@ cle@@ .
@@ -1606,17 +1606,17 @@ J@@ e ne vois pas ton nom sur la lis@@ te@@ .
 I don@@ '@@ t see your name on the lis@@ t@@ .
 I@@ l a man@@ qué la cla@@ s@@ se@@ .
 H@@ e missed class@@ .
-Ou@@ bli@@ e ce ty@@ pe@@ . I@@ l y a plein d@@ '@@ hommes meil@@ leurs que lui en ce mon@@ de@@ .
-F@@ or@@ get about this gu@@ y@@ . T@@ here are a lot of men better than him in this world@@ .
+O@@ u@@ bli@@ e ce ty@@ pe@@ . I@@ l y a plein d@@ '@@ hommes meil@@ leurs que lui en ce mon@@ de@@ .
+F@@ or@@ get about this gu@@ y@@ . T@@ here are a lot of men better than him in this wor@@ ld@@ .
 C@@ e n@@ '@@ est pas une mauvaise cho@@ se@@ .
 Tha@@ t@@ '@@ s not a bad thin@@ g@@ .
-I@@ l n@@ '@@ y a jamais eu une nation qui n@@ '@@ a pas été détru@@ ite par la suit@@ e@@ .
-T@@ here has never been a nation that was not eventually destro@@ y@@ ed@@ .
+I@@ l n@@ '@@ y a jamais eu une na@@ tion qui n@@ '@@ a pas été détru@@ ite par la suit@@ e@@ .
+T@@ here has never been a na@@ tion that was not eventually destro@@ y@@ ed@@ .
 N@@ ous y travaill@@ er@@ ons cette sema@@ ine@@ .
 W@@ e@@ '@@ ll be working on that this week@@ .
 J@@ e ne suis pas très occup@@ é@@ e@@ .
 I@@ '@@ m not very bus@@ y@@ .
-O@@ ù puis@@ -@@ je changer des dev@@ ises étrang@@ ères ?
+O@@ ù puis@@ -@@ je changer des dev@@ ises étr@@ ang@@ ères ?
 W@@ here can I exchange foreign curren@@ cy@@ ?
 P@@ u@@ is@@ -@@ je être utile ?
 May I be of servi@@ ce@@ ?
@@ -1628,7 +1628,7 @@ T@@ u vas trop lo@@ in@@ .
 Y@@ ou are going too far@@ .
 L@@ es rê@@ ves sor@@ tent toujours diff@@ é@@ rem@@ ment@@ .
 D@@ rea@@ ms always come out differ@@ ent@@ ly@@ .
-C@@ ela n@@ '@@ a pas toujours été facile pour E@@ dis@@ on de faire de nouvelles inven@@ tion@@ s@@ .
+C@@ el@@ a n@@ '@@ a pas toujours été facile pour E@@ dis@@ on de faire de nouvelles inven@@ tion@@ s@@ .
 I@@ t was@@ n@@ '@@ t always easy for E@@ dis@@ on to inv@@ ent new thin@@ g@@ s@@ .
 T@@ u as l@@ '@@ air gro@@ s@@ .
 Y@@ ou look fa@@ t@@ .
@@ -1638,9 +1638,9 @@ Qu@@ el est le mon@@ tant total d@@ '@@ argent que tu as dé@@ pensé ?
 W@@ hat is the total amount of money you sp@@ ent@@ ?
 S@@ '@@ il neige de@@ ma@@ in@@ , je ferai un bon@@ homme de ne@@ ig@@ e@@ .
 I@@ f it sno@@ ws tom@@ or@@ ro@@ w@@ , I will buil@@ d a sno@@ w@@ man@@ .
-C@@ e fruit a une od@@ eur dé@@ sag@@ ré@@ ab@@ le@@ .
-This fruit has an unpleasant sm@@ el@@ l@@ .
-S@@ i je ne pars pas immédiat@@ em@@ ent@@ , je vais être en retard à mon ren@@ de@@ z@@ -@@ vou@@ s@@ .
+C@@ e fruit a une od@@ eur dé@@ sa@@ g@@ ré@@ ab@@ le@@ .
+This fruit has an un@@ pleasant sm@@ el@@ l@@ .
+S@@ i je ne par@@ s pas immédiat@@ em@@ ent@@ , je vais être en retard à mon ren@@ de@@ z@@ -@@ vou@@ s@@ .
 Un@@ less I leave right a@@ wa@@ y@@ , I@@ '@@ ll be late for my appoin@@ t@@ ment@@ .
 C@@ '@@ est ce que tu atten@@ da@@ is@@ .
 This is what you@@ '@@ ve been waiting for@@ .
@@ -1651,10 +1651,10 @@ I can@@ '@@ t help but feel par@@ tly respon@@ si@@ ble@@ .
 I@@ l n@@ '@@ y a rien à sign@@ al@@ er@@ .
 T@@ here@@ '@@ s nothing to repor@@ t@@ .
 I@@ ls sont tous bon@@ s@@ , alors cho@@ isis trois li@@ v@@ res@@ .
-All of them are go@@ od@@ , so choose three book@@ s@@ .
-La fu@@ mée de ci@@ ga@@ ret@@ te m@@ '@@ incom@@ mo@@ de beau@@ coup@@ .
+A@@ ll of them are go@@ od@@ , so choose three book@@ s@@ .
+La fu@@ mée de ci@@ ga@@ ret@@ te m@@ '@@ in@@ com@@ mo@@ de beau@@ coup@@ .
 C@@ i@@ ga@@ ret@@ te smoke bo@@ thers me a lo@@ t@@ .
-N@@ e vous en faites pas@@ . J@@ e t@@ '@@ ai dit que tout irait bien@@ .
+N@@ e vous en faites pas@@ . J@@ e t@@ '@@ ai dit que tout i@@ rait bi@@ en@@ .
 D@@ on@@ '@@ t wor@@ r@@ y@@ . I told you everything would be O@@ K@@ .
 C@@ e n@@ '@@ est pas un cré@@ a@@ tif et il se contente d@@ '@@ im@@ iter ce que les autres ont déjà dit ou fa@@ it@@ .
 H@@ e@@ '@@ s no original thin@@ ker@@ , but simp@@ ly im@@ it@@ ates what others have already said and don@@ e@@ .
@@ -1662,13 +1662,13 @@ Dé@@ cem@@ bre a 3@@ 1 jour@@ s@@ .
 De@@ c@@ ember has thir@@ ty@@ -@@ one da@@ y@@ s@@ .
 J@@ e ne peux pas le pr@@ ouver@@ , vous dev@@ rez me croire sur paro@@ le@@ .
 I can@@ '@@ t prove it@@ , you@@ '@@ ll have to take my word for it@@ .
-E@@ st@@ -@@ il difficile d@@ '@@ apprendre le chinois ?
+E@@ st@@ -@@ il difficile d@@ '@@ apprendre le chin@@ ois ?
 I@@ s it difficult to learn Chin@@ es@@ e@@ ?
-J@@ e suis une in@@ condition@@ n@@ elle de l@@ '@@ op@@ éra al@@ lem@@ and@@ .
+J@@ e suis une in@@ condition@@ n@@ elle de l@@ '@@ op@@ ér@@ a al@@ lem@@ and@@ .
 I@@ '@@ m a f@@ an of German oper@@ a@@ .
-J@@ '@@ ai rencontré un ami t@@ and@@ is que j@@ '@@ attendais un bus@@ .
+J@@ '@@ ai rencontré un ami t@@ and@@ is que j@@ '@@ atten@@ dais un bus@@ .
 I met a friend while I was waiting for a bus@@ .
-C@@ ette porte refuse de s@@ '@@ ouv@@ ri@@ r@@ .
+C@@ ette porte refuse de s@@ '@@ ouv@@ ri@@ r.
 T@@ hat door won@@ '@@ t op@@ en@@ .
 N@@ ous ne sommes pas des im@@ bé@@ cil@@ es@@ .
 W@@ e@@ '@@ re not fo@@ ol@@ s@@ .
@@ -1678,9 +1678,9 @@ C@@ '@@ est une proposition intéres@@ san@@ te@@ . J@@ '@@ ai besoin d@@ '@@ y 
 A@@ n interesting propos@@ al@@ . Ne@@ ed to think it over@@ .
 C@@ '@@ est une sorte de politi@@ ci@@ en@@ .
 H@@ e is a sort of politi@@ ci@@ an@@ .
-La bis@@ sexu@@ alité de Ber@@ t trou@@ bla@@ it Tom et exc@@ it@@ ait Mar@@ y@@ .
+La bis@@ sex@@ u@@ alité de Ber@@ t trou@@ bla@@ it Tom et exc@@ it@@ ait Mar@@ y@@ .
 Ber@@ t@@ '@@ s bis@@ ex@@ u@@ ality was trou@@ bling Tom and excited Mar@@ y@@ .
-B@@ ea@@ u@@ coup d@@ '@@ étrangers parlent bien ja@@ po@@ na@@ is@@ .
+B@@ ea@@ u@@ coup d@@ '@@ étr@@ angers parlent bien ja@@ po@@ na@@ is@@ .
 M@@ any foreig@@ ners speak good Jap@@ an@@ es@@ e@@ .
 Sami a ag@@ i seu@@ l@@ .
 Sami acted al@@ one@@ .
@@ -1688,7 +1688,7 @@ Com@@ ment l@@ '@@ ave@@ z@@ -@@ vous effe@@ ctu@@ é ?
 Ho@@ w did you pull it off@@ ?
 L@@ e cou@@ v@@ re@@ -@@ feu est à ving@@ t@@ -@@ deux heu@@ res@@ .
 The cur@@ few is at 10 p@@ m@@ .
-I@@ l n@@ '@@ est pas à la mais@@ on@@ .
+I@@ l n@@ '@@ est pas à la ma@@ is@@ on@@ .
 H@@ e is not at home@@ .
 Com@@ ment se porte votre fille ?
 Ho@@ w is your daugh@@ ter@@ ?
@@ -1701,12 +1701,12 @@ Y@@ ou should be happy for me@@ .
 J@@ e me suis hab@@ illé préci@@ p@@ it@@ am@@ ment@@ .
 I hurried my clothes on@@ .
 P@@ u@@ is@@ -@@ je faire une remar@@ que ?
-C@@ an I make one ob@@ serva@@ tion@@ ?
+C@@ an I make one ob@@ ser@@ va@@ tion@@ ?
 V@@ ous devriez mettre des vêtem@@ ent@@ s@@ .
 Y@@ ou should put on some clo@@ thes@@ .
 N@@ e laisse pas tom@@ ber@@ .
 D@@ on@@ '@@ t give up@@ .
-J@@ e vais vous faire une fav@@ eur@@ .
+J@@ e vais vous faire une fav@@ eu@@ r.
 I@@ '@@ m going to do you a favor@@ .
 E@@ lle l@@ '@@ attend@@ it pati@@ em@@ ment@@ .
 S@@ he pati@@ ently waited for hi@@ m@@ .
@@ -1715,10 +1715,10 @@ L@@ et me introduce my@@ sel@@ f@@ .
 C@@ '@@ était une bonne idé@@ e@@ .
 T@@ hat was a good i@@ dea@@ .
 A@@ u J@@ a@@ pon@@ , on peut toujours prendre un tax@@ i@@ , le jour comme la nu@@ it@@ .
-I@@ n Japan you can always catch a ca@@ b@@ , day or nigh@@ t@@ .
+I@@ n Japan you can always catch a ca@@ b@@ , day or ni@@ gh@@ t@@ .
 P@@ our@@ quoi attend@@ s@@ -@@ tu ici ?
 Wh@@ y are you waiting here@@ ?
-I@@ l y a un risque que l@@ '@@ eau du rob@@ in@@ et puisse conten@@ ir des sub@@ stances no@@ ci@@ ves comme du ch@@ lo@@ re et du pl@@ om@@ b@@ .
+I@@ l y a un ris@@ que que l@@ '@@ eau du rob@@ in@@ et puisse conten@@ ir des sub@@ stances no@@ ci@@ ves comme du ch@@ lo@@ re et du pl@@ om@@ b@@ .
 T@@ here@@ '@@ s a chance that ta@@ p water may contain har@@ m@@ ful sub@@ stances like ch@@ lor@@ ine and lea@@ d@@ .
 I@@ l est s@@ cé@@ nar@@ is@@ te@@ .
 H@@ e@@ '@@ s a scre@@ en@@ writ@@ er@@ .
@@ -1726,7 +1726,7 @@ Con@@ tin@@ ue à rou@@ ler !
 D@@ ri@@ ve on@@ .
 L@@ es affaires sont les affaires !
 B@@ us@@ iness is bus@@ in@@ ess@@ !
-C@@ ela a dû être extr@@ êmement dou@@ lou@@ reu@@ x@@ .
+C@@ el@@ a a dû être ex@@ tr@@ ê@@ m@@ ement dou@@ lou@@ reu@@ x@@ .
 I@@ t mus@@ t@@ '@@ ve been extremely pain@@ fu@@ l@@ .
 E@@ n regar@@ dant ce gra@@ phi@@ que@@ , on peut très facilement en dé@@ du@@ ire que nous suiv@@ ons une cro@@ issance ex@@ pon@@ enti@@ el@@ le@@ .
 L@@ o@@ oking at that gra@@ phi@@ c@@ , one can tell extremely easily that we are following an ex@@ pon@@ enti@@ al grow@@ th@@ .
@@ -1738,14 +1738,14 @@ I@@ l ignore même que j@@ '@@ exis@@ te@@ .
 H@@ e does@@ n@@ '@@ t even know that I exis@@ t@@ .
 C@@ '@@ est dé@@ gra@@ dant pour el@@ le@@ .
 I@@ t is de@@ gra@@ ding for her@@ .
-U@@ ne série d@@ '@@ explo@@ sions mis le labor@@ a@@ toire en ru@@ ine@@ .
-A series of bla@@ sts reduced the labor@@ at@@ ory to ru@@ ins@@ .
+U@@ ne séri@@ e d@@ '@@ explo@@ sions mis le labor@@ a@@ toire en ru@@ ine@@ .
+A series of bla@@ sts reduced the labor@@ at@@ ory to ru@@ in@@ s@@ .
 J@@ e voulais quelque chose à mang@@ er@@ .
 I wanted something to ea@@ t@@ .
 T@@ u es sur@@ men@@ é@@ .
 You@@ '@@ re over@@ wor@@ ke@@ d@@ .
 L@@ or@@ s@@ que je me suis rendu compte qu@@ '@@ il pleuv@@ a@@ it@@ , j@@ '@@ ai sor@@ ti mon para@@ plu@@ i@@ e@@ .
-Wh@@ en I realized it was rain@@ ing@@ , I took my umbrel@@ la@@ .
+Wh@@ en I realized it was rain@@ in@@ g@@ , I took my umbrel@@ la@@ .
 E@@ lle se rend@@ it au musée en tax@@ i@@ .
 S@@ he went to the museum by tax@@ i@@ .
 M@@ ais l@@ '@@ affaire est né@@ an@@ moins que ces choses prennent leur orig@@ ine dans le paro@@ x@@ y@@ s@@ me de la cru@@ ci@@ fix@@ ion et de la théorie qui en est dé@@ du@@ it@@ e@@ , qui était qu@@ '@@ une personne pouvait prendre la place d@@ '@@ une autre et pouvait lui rendre des services mér@@ it@@ o@@ i@@ res@@ .
@@ -1755,13 +1755,13 @@ The future is no longer what it used to be@@ .
 U@@ n père ne devrait pas se dé@@ ro@@ ber à ses responsa@@ bil@@ ités vis@@ -@@ à@@ -@@ vis de ses enf@@ an@@ ts@@ .
 A father shou@@ ld@@ n@@ '@@ t shir@@ k his respon@@ si@@ bi@@ lities to his child@@ ren@@ .
 Com@@ ment cela fonction@@ ne@@ -@@ t@@ -@@ il ?
-Ho@@ w does it work@@ ?
+Ho@@ w does it wor@@ k@@ ?
 John a deux ans de plus que mo@@ i@@ .
-John@@ '@@ s two years older than me@@ .
+Joh@@ n@@ '@@ s two years older than me@@ .
 I@@ l est responsable du dé@@ par@@ tement des ven@@ tes@@ .
 H@@ e@@ '@@ s in charge of the sal@@ es de@@ part@@ ment@@ .
 U@@ n accord de se@@ pti@@ ème est compos@@ é de quatre no@@ tes@@ .
-A s@@ even@@ th ch@@ ord is composed of four no@@ tes@@ .
+A s@@ even@@ th ch@@ or@@ d is composed of four no@@ tes@@ .
 Tom savait que Mary ne le lais@@ serait pas l@@ '@@ embra@@ s@@ ser@@ .
 Tom knew Mary wou@@ ld@@ n@@ '@@ t let him kiss her@@ .
 N@@ ous avons des fa@@ çons de penser différen@@ tes@@ .
@@ -1772,7 +1772,7 @@ O@@ n a rien à cra@@ indre sauf la peur el@@ le@@ -@@ mê@@ me@@ .
 W@@ e have nothing to fear but fear it@@ sel@@ f@@ .
 Marie regar@@ der@@ a T@@ om@@ .
 Mary will watch T@@ om@@ .
-J@@ e ne veux pas ré@@ ve@@ iller mes vois@@ ins@@ .
+J@@ e ne veux pas ré@@ ve@@ iller mes vois@@ in@@ s@@ .
 I don@@ '@@ t want to wake my neighbor@@ s@@ .
 Com@@ bien de temps y as@@ -@@ tu été ?
 Ho@@ w long were you the@@ re@@ ?
@@ -1780,19 +1780,19 @@ L@@ e T@@ it@@ an@@ ic a rem@@ porté un ic@@ eb@@ er@@ g@@ .
 The T@@ it@@ an@@ ic hit an ic@@ eb@@ er@@ g@@ .
 C@@ '@@ est pourquoi j@@ '@@ ai besoin d@@ '@@ un avo@@ ca@@ t@@ .
 Tha@@ t@@ '@@ s why I need a la@@ w@@ y@@ er@@ .
-C@@ ette sc@@ ène m@@ '@@ envo@@ ie des fr@@ issons de plaisir dans la colon@@ ne ver@@ té@@ br@@ al@@ e@@ .
+C@@ ette sc@@ ène m@@ '@@ envo@@ ie des fr@@ issons de plaisir dans la col@@ on@@ ne ver@@ té@@ br@@ al@@ e@@ .
 The sight sent ch@@ ills of deli@@ ght up my sp@@ ine@@ .
-«@@ les scientifiques son@@ t@@ -@@ ils sur le point de rép@@ li@@ quer un être hu@@ main ?@@ » «@@ L@@ oin de l@@ à@@ .@@ »
-"@@ A@@ re scientists close to c@@ lon@@ ing a human be@@ ing@@ ?@@ " "@@ N@@ ot by a long sho@@ t@@ .@@ "
-A@@ c@@ cé@@ der à des s@@ ites we@@ b étrangers qui ne sont pas en@@ reg@@ istr@@ és au@@ près du gouvernement est ill@@ égal en B@@ i@@ é@@ lor@@ ussi@@ e@@ .
+«@@ les scientifi@@ ques son@@ t@@ -@@ ils sur le point de rép@@ li@@ quer un être hu@@ main ?@@ » «@@ L@@ oin de l@@ à@@ .@@ »
+"@@ A@@ re scientists close to c@@ lon@@ ing a human be@@ in@@ g@@ ?@@ " "@@ N@@ ot by a long sho@@ t@@ .@@ "
+A@@ c@@ cé@@ der à des s@@ ites we@@ b étr@@ angers qui ne sont pas en@@ reg@@ istr@@ és au@@ près du gouvernement est ill@@ égal en B@@ i@@ é@@ lor@@ ussi@@ e@@ .
 A@@ c@@ c@@ ess@@ ing foreign web@@ s@@ ites that did@@ n@@ '@@ t reg@@ ister with the government is illegal in B@@ el@@ ar@@ us@@ .
-D@@ is à Tom que je ne veux pas lui parl@@ er@@ .
+D@@ is à Tom que je ne veux pas lui par@@ l@@ er@@ .
 T@@ ell Tom that I don@@ '@@ t want to talk to hi@@ m@@ .
 I@@ l a plus d@@ '@@ argent qu@@ '@@ on ne peut en dé@@ pen@@ ser@@ .
 H@@ e has more money than can be sp@@ ent@@ .
 C@@ e sont mes étudi@@ an@@ tes@@ .
 T@@ h@@ ese are my stud@@ ent@@ s@@ .
-F@@ i@@ xe l@@ '@@ hor@@ lo@@ ge sur le mur@@ .
+F@@ i@@ x@@ e l@@ '@@ hor@@ lo@@ ge sur le mur@@ .
 F@@ ix the clock on the w@@ all@@ .
 Qu@@ elle est la plus ha@@ ute montagne d@@ '@@ Europe ?
 W@@ hat is the tallest mountain in Euro@@ pe@@ ?
@@ -1800,22 +1800,22 @@ J@@ e m@@ '@@ en fi@@ che s@@ '@@ il fait un peu fro@@ i@@ d@@ .
 I don@@ '@@ t care if it@@ '@@ s a bit co@@ ld@@ .
 J@@ e ne sais pas conduire un bus@@ .
 I can@@ '@@ t drive a bus@@ .
-J@@ e ne vais pas vous menti@@ r@@ .
+J@@ e ne vais pas vous menti@@ r.
 I@@ '@@ m not going to lie to you@@ .
 J@@ e vais acheter un appareil photo pour ma fil@@ le@@ .
 I@@ '@@ m going to buy a camera for my daugh@@ ter@@ .
 J@@ e veux être avec T@@ om@@ .
 I want to be with T@@ om@@ .
-I@@ l est difficile d@@ '@@ apprendre une langue étrang@@ è@@ re@@ .
+I@@ l est difficile d@@ '@@ apprendre une langue étr@@ ang@@ è@@ re@@ .
 I@@ t@@ '@@ s hard to learn a foreign langu@@ ag@@ e@@ .
 J@@ e ne suis pas in@@ croy@@ an@@ t@@ .
 I@@ '@@ m not a dis@@ beli@@ ever@@ .
 J@@ e me suis toujours demandé ce que ça fer@@ ait d@@ '@@ avoir des frères et s@@ œ@@ ur@@ s@@ .
-I@@ '@@ ve always wondered what it@@ '@@ d be like to have si@@ blin@@ g@@ s@@ .
+I@@ '@@ ve always won@@ dered what it@@ '@@ d be like to have si@@ blin@@ g@@ s@@ .
 V@@ ous devez ob@@ é@@ ir à vos par@@ ent@@ s@@ .
 Y@@ ou must obey your par@@ ent@@ s@@ .
 J@@ e suis vraiment désolé pour la nuit derni@@ è@@ re@@ .
-I@@ '@@ m really sorry about last nigh@@ t@@ .
+I@@ '@@ m really sorry about last ni@@ gh@@ t@@ .
 J@@ '@@ aimerais pouvoir parler français aussi bien que T@@ om@@ .
 I wish that I could speak French as well as T@@ om@@ .
 Alle@@ z@@ , tu peux mieux faire que ça !
@@ -1844,19 +1844,19 @@ T@@ u veux dire que tu ne peux vraiment pas nager ?
 Y@@ ou mean you really can@@ '@@ t swim@@ ?
 L@@ es fon@@ ds sont in@@ suffis@@ ants pour gérer une é@@ pi@@ cer@@ i@@ e@@ .
 The funds are not suf@@ fici@@ ent for running a gro@@ cer@@ y@@ .
-J@@ '@@ ai ra@@ té l@@ '@@ avion de 2@@ h@@ .
+J@@ '@@ ai ra@@ té l@@ '@@ av@@ ion de 2@@ h@@ .
 I missed the two o@@ '@@ clock plan@@ e@@ .
 I@@ l m@@ '@@ a fallu op@@ érer un cho@@ i@@ x@@ .
 I had to make a cho@@ ic@@ e@@ .
-Pen@@ se@@ z@@ -@@ vous cette corde assez ré@@ sis@@ tante ?
+Pen@@ se@@ z@@ -@@ vous cette cor@@ de assez ré@@ sis@@ tante ?
 D@@ o you think this rope is strong en@@ ou@@ gh@@ ?
 La bles@@ sure lui lais@@ sa une ci@@ ca@@ trice sur le bra@@ s@@ .
-The wound left a scar on her ar@@ m@@ .
+The wound left a s@@ car on her ar@@ m@@ .
 Tom t@@ '@@ a@@ -@@ t@@ -@@ il dit où se gar@@ er ?
 D@@ id Tom tell you where to par@@ k@@ ?
 Tom est un can@@ adi@@ en qui vit en Australi@@ e@@ .
 Tom is a Canadi@@ an who lives in Australi@@ a@@ .
-N@@ ous ne p@@ ûmes nous empêcher d@@ '@@ é@@ prou@@ ver de la com@@ passion à son é@@ gard@@ .
+N@@ ous ne p@@ û@@ mes nous empêcher d@@ '@@ é@@ prou@@ ver de la com@@ pas@@ sion à son é@@ gard@@ .
 W@@ e cou@@ ld@@ n@@ '@@ t help feeling sorry for her@@ .
 B@@ ea@@ u@@ coup de gens aiment voy@@ ag@@ er@@ .
 M@@ any people like to travel@@ .
@@ -1874,7 +1874,7 @@ Tom vous prê@@ ter@@ ait de l@@ '@@ argent si vous le lui deman@@ di@@ e@@ z@@ 
 Tom would lend you money if you asked him to@@ .
 E@@ lle m@@ '@@ a ver@@ sé une tasse de thé@@ .
 S@@ he poured a cup of tea for me@@ .
-C@@ ela lui est ég@@ al@@ .
+C@@ el@@ a lui est ég@@ al@@ .
 I@@ t@@ '@@ s all the same to hi@@ m@@ .
 C@@ '@@ était stupi@@ de@@ .
 T@@ hat was stupi@@ d@@ .
@@ -1888,7 +1888,7 @@ D@@ is moi pourquoi tu es éner@@ vé@@ .
 T@@ ell me why you@@ '@@ re up@@ set@@ .
 A@@ ve@@ z@@ -@@ vous constru@@ it tout ça par vou@@ s@@ -@@ même ?
 Y@@ ou built that all by your@@ sel@@ f@@ ?
-E@@ n é@@ té@@ , je nage@@ .
+E@@ n é@@ té@@ , je nag@@ e@@ .
 I swim in the su@@ m@@ mer@@ .
 Qu@@ and es@@ t@@ -@@ ce que j@@ '@@ arriver@@ ai à Tokyo ?
 Wh@@ en will I get to T@@ ok@@ yo@@ ?
@@ -1904,7 +1904,7 @@ Qu@@ '@@ as@@ -@@ tu fait de mon livre ?
 W@@ hat did you do with my book@@ ?
 T@@ om@@ , mon ami@@ , je sais que vous m@@ '@@ avez aim@@ é@@ e@@ , mais je ne pouvais être à vou@@ s@@ .
 T@@ om@@ , my friend@@ , I know that you loved me@@ , but I could not be your@@ s@@ .
-L@@ e G@@ r@@ and D@@ an@@ ois est une race de chiens dom@@ esti@@ ques con@@ nue pour sa taille gigan@@ tes@@ que@@ .
+L@@ e G@@ r@@ and D@@ an@@ ois est une race de chiens dom@@ esti@@ ques con@@ nue pour sa taille gi@@ gan@@ tes@@ que@@ .
 The Gre@@ at D@@ ane is a bre@@ ed of dom@@ es@@ tic dog known for its giant si@@ z@@ e@@ .
 J@@ '@@ aimerais t@@ '@@ inter@@ ro@@ ger au sujet de l@@ '@@ une de tes étudi@@ an@@ tes@@ .
 I@@ '@@ d like to ask you about a student of your@@ s@@ .
@@ -1914,7 +1914,7 @@ L@@ e résul@@ t@@ at ne sera pas vraiment bon@@ .
 The result won@@ '@@ t really be go@@ od@@ .
 L@@ '@@ ennu@@ i@@ , c@@ '@@ est que les lunettes se per@@ dent tou@@ jour@@ s@@ .
 The trouble is that glasses always get lo@@ st@@ .
-J@@ '@@ imagine ce que vous avez dû res@@ senti@@ r@@ .
+J@@ '@@ imagine ce que vous avez dû res@@ senti@@ r.
 I can imagine how you fel@@ t@@ .
 N@@ e laissez pas votre chien à l@@ '@@ intérieur toute la jour@@ né@@ e@@ .
 D@@ on@@ '@@ t leave your dog inside all da@@ y@@ .
@@ -1926,7 +1926,7 @@ S@@ er@@ on@@ s@@ -@@ nous à l@@ '@@ heure au concert ?
 W@@ ill we be in time for the concer@@ t@@ ?
 Ê@@ tes@@ -@@ vous sû@@ rs de ne pas vouloir entrer ?
 A@@ re you sure you don@@ '@@ t want to come in@@ ?
-E@@ st@@ -@@ ce lé@@ gal ?
+E@@ st@@ -@@ ce lé@@ g@@ al ?
 I@@ s this leg@@ al@@ ?
 J@@ e me suis senti men@@ ac@@ é@@ e@@ .
 I felt threa@@ ten@@ ed@@ .
@@ -1944,21 +1944,21 @@ J@@ e veux des enf@@ an@@ ts@@ .
 I want child@@ ren@@ .
 E@@ t le thé n@@ '@@ est pas bon non pl@@ us@@ .
 And the tea is@@ n@@ '@@ t good ei@@ ther@@ .
-T@@ u veux que je me la@@ ve d@@ '@@ abord les ma@@ ins@@ , n@@ '@@ es@@ t@@ -@@ ce pas ?
+T@@ u veux que je me la@@ ve d@@ '@@ ab@@ or@@ d les ma@@ in@@ s@@ , n@@ '@@ es@@ t@@ -@@ ce pas ?
 Y@@ ou want me to wash my hands fir@@ st@@ , don@@ '@@ t you@@ ?
-Mer@@ ci pour tes aima@@ bles par@@ ol@@ es@@ .
+M@@ er@@ ci pour tes aima@@ bles par@@ ol@@ es@@ .
 T@@ h@@ ank you for your kind wor@@ d@@ s@@ .
 Res@@ te@@ -@@ t@@ -@@ il du sel ?
 I@@ s there any salt lef@@ t@@ ?
 J@@ '@@ ai un ami qui sait parler fran@@ ç@@ a@@ is@@ .
 I have a friend who can speak Fren@@ ch@@ .
 Sami peut maintenant dormir la nu@@ it@@ .
-Sami is now able to sleep at nigh@@ t@@ .
+Sami is now able to sleep at ni@@ gh@@ t@@ .
 J@@ e ne fais ri@@ en@@ .
 I don@@ '@@ t do any@@ thin@@ g@@ .
-V@@ eu@@ illez pati@@ enter un instant s@@ '@@ il vous pla@@ it@@ . Ou@@ i@@ , nous avons une ré@@ serv@@ ation pour vou@@ s@@ .
-P@@ lea@@ se wait a mom@@ ent@@ . Y@@ es@@ , we have a res@@ er@@ vation for you@@ .
-U@@ n fond a été éta@@ bl@@ i dans l@@ '@@ op@@ tique de pré@@ server notre planète en danger@@ .
+V@@ eu@@ illez pati@@ enter un instant s@@ '@@ il vous pla@@ it@@ . O@@ u@@ i@@ , nous avons une ré@@ serv@@ ation pour vou@@ s@@ .
+P@@ lea@@ se wait a mom@@ ent@@ . Y@@ es@@ , we have a res@@ er@@ v@@ ation for you@@ .
+U@@ n fond a été éta@@ bl@@ i dans l@@ '@@ op@@ tique de pré@@ ser@@ ver notre planète en danger@@ .
 A fun@@ d was set up with a view to preser@@ ving our end@@ ang@@ e@@ red plan@@ et@@ .
 U@@ ne fête se dé@@ rou@@ le dans la pièce d@@ '@@ à cô@@ té@@ .
 T@@ here@@ '@@ s a party going on in the next ro@@ om@@ .
@@ -1974,14 +1974,14 @@ E@@ lle est une vi@@ o@@ lon@@ iste d@@ '@@ un certain ren@@ om@@ .
 S@@ he@@ '@@ s a viol@@ in@@ ist of some ren@@ ow@@ n@@ .
 J@@ e ne sais pas traduire cette phra@@ se@@ .
 I@@ '@@ m un@@ able to translate this senten@@ ce@@ .
-Tom et Marie s@@ '@@ a@@ donnent à la bo@@ is@@ son@@ .
+Tom et Marie s@@ '@@ a@@ donn@@ ent à la bo@@ is@@ son@@ .
 Tom and Mary are in@@ du@@ l@@ ging in al@@ co@@ hol@@ .
-L@@ es ch@@ ré@@ tiens croient que J@@ é@@ sus est Di@@ eu@@ .
+L@@ es ch@@ ré@@ tiens cro@@ ient que J@@ é@@ sus est Di@@ eu@@ .
 Christi@@ ans believe that J@@ es@@ us is G@@ od@@ .
 J@@ e n@@ '@@ ai pas à t@@ '@@ écou@@ ter@@ .
 I don@@ '@@ t have to listen to you@@ .
 S@@ i vous n@@ '@@ av@@ iez plus qu@@ '@@ une semaine à viv@@ re@@ , à quoi pas@@ ser@@ i@@ e@@ z@@ -@@ vous votre temps ?
-I@@ f you only had one more week to li@@ ve@@ , what would you spend your time do@@ ing@@ ?
+I@@ f you only had one more week to li@@ ve@@ , what would you spend your time do@@ in@@ g@@ ?
 J@@ e pensais que ce bâtiment était abandon@@ né@@ .
 I thought this building was abandon@@ ed@@ .
 J@@ e ne peux plus attendre plus long@@ temp@@ s@@ .

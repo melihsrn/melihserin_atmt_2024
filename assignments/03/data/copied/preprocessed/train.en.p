@@ -2494,8 +2494,8 @@ The policeman visited all the houses .
 The policeman visited all the houses .
 Speak slowly , please .
 Speak slowly , please .
-Dr . Yukawa played an important part in the scientific study .
-Dr . Yukawa played an important part in the scientific study .
+Dr. Yukawa played an important part in the scientific study .
+Dr. Yukawa played an important part in the scientific study .
 Susan is a good cook .
 Susan is a good cook .
 Can one better bear the sins of an atheist ?
@@ -5758,8 +5758,8 @@ We must do it again .
 We must do it again .
 She made a tour of America , stopping in six cities .
 She made a tour of America , stopping in six cities .
-Mr . Young wishes his son would study harder .
-Mr . Young wishes his son would study harder .
+Mr. Young wishes his son would study harder .
+Mr. Young wishes his son would study harder .
 I have no faults .
 I have no faults .
 Please sign here .
@@ -12542,8 +12542,8 @@ She thinks of nothing but making money .
 She thinks of nothing but making money .
 May I sharpen my pencil ?
 May I sharpen my pencil ?
-It seems that Mr . Tanaka has taken his exam .
-It seems that Mr . Tanaka has taken his exam .
+It seems that Mr. Tanaka has taken his exam .
+It seems that Mr. Tanaka has taken his exam .
 Maybe I went a little too far .
 Maybe I went a little too far .
 She advised him to keep his promises .
@@ -13746,8 +13746,8 @@ I am hers and she is mine .
 I am hers and she is mine .
 Are you sure about the cost of that car ?
 Are you sure about the cost of that car ?
-I respect my English teacher , Mr . Taniguchi .
-I respect my English teacher , Mr . Taniguchi .
+I respect my English teacher , Mr. Taniguchi .
+I respect my English teacher , Mr. Taniguchi .
 Are you sure you don &apos;t want something to eat ?
 Are you sure you don &apos;t want something to eat ?
 That &apos;s pretty much all you need to know .
