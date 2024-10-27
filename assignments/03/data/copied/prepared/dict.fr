@@ -1989,6 +1989,7 @@ devenu 11
 sage 11
 gare 11
 should&apos; 11
+hi 11
 whether 11
 lar@@ 11
 œil 11
@@ -2150,6 +2151,7 @@ sentiments 10
 préfère 10
 igno@@ 10
 vis 10
+ic 10
 rest 10
 phrase 10
 finish 10
@@ -2575,7 +2577,6 @@ move 8
 ring 8
 attrapé 8
 cooking 8
-ic 8
 trust 8
 épouser 8
 Sal@@ 8
@@ -2994,4 +2995,3 @@ vide 7
 bite 7
 produire 7
 caus@@ 7
-Linda 7

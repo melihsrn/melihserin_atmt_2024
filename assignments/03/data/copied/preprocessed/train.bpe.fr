@@ -349,7 +349,7 @@ there has been no rain for two weeks .
 aujourd&apos; hui est le premier jour du rest@@ ant de votre vie .
 today is the first day of the rest of your life .
 Sal@@ ut . comment vas @-@ tu ?
-Hi . how are you doing ?
+hi . how are you doing ?
 je me trouve à Kobe depuis 198@@ 0 .
 I have been in Kobe since 198@@ 0 .
 je vais te mettre en prison .
@@ -1157,7 +1157,7 @@ he got very angry , for she refused to follow his advice .
 nous ne sommes pas riches .
 we are not rich .
 l&apos; énergie atom@@ ique peut être utilis@@ ée à des fin@@ s paci@@ fi@@ ques .
-Atomic energy can be used for peaceful ends .
+atom@@ ic energy can be used for peaceful ends .
 j&apos; irai si vous allez .
 I will go if you go .
 Arrêtez de hur@@ ler .
@@ -6233,7 +6233,7 @@ Tom left for Australia .
 mon fils croit au P@@ ère Noël .
 my son believes in Fa@@ ther Christmas .
 bon@@ jour , comment ça va ?
-Hi , how do you do ?
+hi , how do you do ?
 il n&apos; a pas d&apos; enfants .
 he hasn&apos; t any children .
 il ne peut pas se per@@ mettre d&apos; acheter une nouvelle voiture .
@@ -11715,7 +11715,7 @@ that&apos; s exactly what I needed .
 aujourd&apos; hui c&apos; est l&apos; anniversaire de Tom .
 today is Tom&apos; s birthday .
 &quot; Sal@@ ut , Tom ! &quot; &quot; Sal@@ ut , Mary ! &quot;
-&quot; Hi , Tom ! &quot; &quot; Hi , Mary ! &quot;
+&quot; hi , Tom ! &quot; &quot; hi , Mary ! &quot;
 cela doit être fait avec davantage de soin .
 it must be done more carefully .
 n&apos; ayez cra@@ inte de la vie . cro@@ yez qu&apos; elle vaut la peine d&apos; être vé@@ cue et votre foi aider@@ a à cré@@ er le fait .
@@ -11979,7 +11979,7 @@ please keep this information to yourself .
 Tom est dans la salle d&apos; atten@@ te .
 Tom is in the waiting area .
 l&apos; énergie atom@@ ique peut être utilis@@ ée à des fin@@ s paci@@ fi@@ ques .
-Atomic energy can be uti@@ lized for peaceful pur@@ pos@@ es .
+atom@@ ic energy can be uti@@ lized for peaceful pur@@ pos@@ es .
 je peux parler l&apos; espér@@ anto comme un indi@@ g@@ ène .
 I can speak Esperanto like a native .
 tu te dé@@ br@@ ou@@ illes très bien . contin@@ ue .
@@ -19937,7 +19937,7 @@ it is generally hard to adapt to living in a foreign culture .
 les rec@@ ettes aug@@ ment@@ ent mais pas aussi vite que les coû@@ ts .
 R@@ even@@ ues are growing , but not as fast as costs .
 bon@@ jour , Susan . comment vas @-@ tu ?
-Hi , Susan . how are you ?
+hi , Susan . how are you ?
 je me deman@@ dais pourquoi tu n&apos; étais pas ici .
 I was wondering why you weren&apos; t here .
 je te don@@ ner@@ ai ce livre .

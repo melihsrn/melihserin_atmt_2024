@@ -34,7 +34,7 @@ L@@ e cer@@ f cou@@ rait seu@@ l@@ .
 P@@ our lui le divorce est une bonne invention qui a le seul dé@@ sav@@ antage qu@@ '@@ il faut se marier av@@ ant@@ .
 L@@ es recommand@@ ations de la comm@@ is@@ sion bi@@ -@@ parti@@ san@@ e furent ignor@@ é@@ es@@ .
 J@@ e n@@ '@@ ai pas été inform@@ é d@@ '@@ où nous al@@ li@@ on@@ s@@ .
-C@@ e n@@ '@@ est pas sû@@ r@@ .
+C@@ e n@@ '@@ est pas sû@@ r.
 E@@ lle eut l@@ '@@ intention de devenir ac@@ tri@@ ce@@ .
 I@@ l ne montre jamais d@@ '@@ ex@@ pression fac@@ i@@ al@@ e@@ .
 I@@ l a voy@@ ag@@ é autour du monde en quat@@ re@@ -@@ ving@@ ts jours par ses propres mo@@ y@@ en@@ s@@ .
@@ -58,7 +58,7 @@ U@@ n tiens vaut mieux que deux tu l@@ '@@ au@@ ras@@ .
 S@@ i tu es occup@@ é@@ , je t@@ '@@ aider@@ ai@@ .
 T@@ our@@ ne à droite au prochain car@@ re@@ four@@ .
 V@@ ous avez l@@ '@@ air occup@@ é@@ e@@ .
-E@@ lles ont ri de leur erreu@@ r@@ .
+E@@ lles ont ri de leur erreu@@ r.
 Tom n@@ '@@ a pas mangé la pomme que vous lui avez donn@@ é@@ e@@ .
 L@@ es oiseaux ont des ni@@ d@@ s@@ , les ar@@ ai@@ gn@@ ées ont des to@@ iles et les êtres humains ont l@@ '@@ am@@ iti@@ é@@ .
 D@@ ix ans se sont écou@@ lé@@ s@@ .
@@ -259,7 +259,7 @@ Char@@ gez !
 I@@ l aime le thé@@ .
 D@@ e qui es@@ t@@ -@@ il l@@ '@@ ami ?
 C@@ e matin j@@ '@@ ai r@@ até de cinq minutes le train de 8@@ h@@ 3@@ 0@@ .
-C@@ e couver@@ cle est trop serré pour que je puisse l@@ '@@ ouv@@ ri@@ r@@ .
+C@@ e couver@@ cle est trop serré pour que je puisse l@@ '@@ ouv@@ ri@@ r.
 I@@ l me faut retourner au travail@@ .
 Mike et Ken sont am@@ is@@ .
 À t@@ '@@ entend@@ re@@ , tu n@@ '@@ es pas très sû@@ re@@ .
@@ -323,7 +323,7 @@ E@@ lles sont très intelli@@ gent@@ es@@ .
 V@@ ous l@@ '@@ avez accusé d@@ '@@ avoir volé le vé@@ lo@@ .
 P@@ our@@ quoi ne discu@@ ter@@ i@@ on@@ s@@ -@@ nous pas un moment ?
 J@@ '@@ ai ai@@ dé mes parents pour les t@@ â@@ ches mé@@ nag@@ è@@ res@@ .
-I@@ l connaît bien M@@ . D@@ av@@ id@@ son@@ .
+I@@ l connaît bien M. D@@ av@@ id@@ son@@ .
 R@@ et@@ our@@ ne là où tu as commenc@@ é@@ .
 Ç@@ a ne m@@ '@@ est d@@ '@@ aucune uti@@ li@@ té@@ .
 R@@ ap@@ port@@ e@@ -@@ moi toutes les informations que tu peux sur cette affai@@ re@@ .
@@ -385,7 +385,7 @@ E@@ lle ne boit pas@@ .
 J@@ '@@ aimerais te dire quelque chose en priv@@ é@@ .
 N@@ e t@@ '@@ im@@ mis@@ ce pas l@@ à@@ -@@ dedans !
 I@@ l la prit dans ses br@@ as@@ .
-T@@ u es en train de menti@@ r@@ .
+T@@ u es en train de menti@@ r.
 Ê@@ tes@@ -@@ vous certaine que c@@ '@@ est ce que vous voulez ?
 J@@ e ne pense pas arriver à faire encore ç@@ a@@ .
 E@@ lles ont lou@@ pé la date li@@ m@@ it@@ e@@ .
@@ -549,7 +549,7 @@ J@@ e suis cé@@ libat@@ ai@@ re@@ .
 J@@ e vous rend@@ rai heu@@ reu@@ x@@ .
 N@@ ous travaill@@ erons en@@ sem@@ ble@@ .
 Sami est serv@@ eur dans un bar g@@ ay@@ .
-J@@ e connais le garçon qui est en train de cou@@ ri@@ r@@ .
+J@@ e connais le garçon qui est en train de cou@@ ri@@ r.
 U@@ ne p@@ el@@ li@@ cu@@ le de film coul@@ eur@@ , s@@ '@@ il vous plai@@ t@@ .
 P@@ l@@ us la différence entre l@@ '@@ hypothèse nulle et un résul@@ tat est grand@@ e@@ , et plus la taille de l@@ '@@ é@@ chan@@ till@@ on est grand@@ e@@ , plus on peut être sûr que le résul@@ tat est signi@@ fic@@ ati@@ f@@ .
 Vo@@ yons qui peut finir ceci en premi@@ er@@ .
@@ -624,7 +624,7 @@ C@@ om@@ bien coûte un œuf ?
 C@@ '@@ est pourquoi je suis ici@@ .
 Per@@ s@@ onne ne répon@@ dit à la port@@ e@@ .
 C@@ '@@ est difficile de trouver un taxi en dehors de la st@@ ation@@ .
-E@@ lle a comm@@ is erreur sur erreu@@ r@@ .
+E@@ lle a comm@@ is erreur sur erreu@@ r.
 C@@ es mo@@ to@@ s sont du même ty@@ pe@@ .
 D@@ '@@ après le journ@@ al@@ , il y a eu un grand incen@@ die à Bo@@ st@@ on@@ .
 T@@ out le monde a eu l@@ '@@ air soulag@@ é@@ .
@@ -749,7 +749,7 @@ I@@ l vous fau@@ dra vous dé@@ mener davantage pour m@@ '@@ en convain@@ cre@@ 
 D@@ ans une heure mon enfant sort de l@@ '@@ éco@@ le@@ .
 V@@ ous dites que vous voudriez aller voir Tom ? P@@ our quelle raison fer@@ i@@ e@@ z@@ -@@ vous ça ?
 N@@ ous acqu@@ ér@@ ons chaque jour davantage de connaiss@@ anc@@ es@@ .
-I@@ l ne crain@@ t pas de mou@@ ri@@ r@@ .
+I@@ l ne crain@@ t pas de mou@@ ri@@ r.
 I@@ l lui a acheté des cho@@ col@@ at@@ s@@ .
 E@@ lle t@@ '@@ a tra@@ hi@@ .
 J@@ e veux que vous re@@ veniez ici@@ .
@@ -776,7 +776,7 @@ E@@ lle l@@ '@@ a pri@@ é de ne pas quitter son emplo@@ i@@ .
 J@@ '@@ en suis vraiment fi@@ er@@ .
 E@@ st@@ -@@ ce que vous voyez une re@@ ine ?
 T@@ u es vraiment bon@@ .
-T@@ u ne devrais pas te moquer de son erreu@@ r@@ .
+T@@ u ne devrais pas te moquer de son erreu@@ r.
 Tom verrou@@ illa la port@@ e@@ .
 J@@ e parie que vous vous demand@@ ez comment ça fonc@@ tion@@ ne@@ .
 L@@ e lait tour@@ ne fac@@ il@@ em@@ ent@@ .
@@ -833,7 +833,7 @@ J@@ e ne peux pas le pr@@ ouver@@ , vous dev@@ rez me croire sur paro@@ le@@ .
 E@@ st@@ -@@ il difficile d@@ '@@ apprendre le chinois ?
 J@@ e suis une in@@ condi@@ tionn@@ elle de l@@ '@@ opér@@ a all@@ em@@ and@@ .
 J@@ '@@ ai rencontré un ami tandis que j@@ '@@ attendais un bus@@ .
-C@@ ette porte refuse de s@@ '@@ ouv@@ ri@@ r@@ .
+C@@ ette porte refuse de s@@ '@@ ouv@@ ri@@ r.
 N@@ ous ne sommes pas des im@@ b@@ éc@@ il@@ es@@ .
 A@@ ve@@ z@@ -@@ vous re@@ connu la moindre de ces personnes ?
 C@@ '@@ est une proposition intéress@@ an@@ te@@ . J@@ '@@ ai besoin d@@ '@@ y réfléch@@ ir@@ .
@@ -899,7 +899,7 @@ F@@ i@@ x@@ e l@@ '@@ hor@@ loge sur le mur@@ .
 Qu@@ elle est la plus haute montagne d@@ '@@ Europe ?
 J@@ e m@@ '@@ en fi@@ che s@@ '@@ il fait un peu fro@@ id@@ .
 J@@ e ne sais pas conduire un bus@@ .
-J@@ e ne vais pas vous menti@@ r@@ .
+J@@ e ne vais pas vous menti@@ r.
 J@@ e vais acheter un appareil photo pour ma fil@@ le@@ .
 J@@ e veux être avec T@@ om@@ .
 I@@ l est difficile d@@ '@@ apprendre une langue étrang@@ è@@ re@@ .
@@ -956,7 +956,7 @@ J@@ '@@ aimerais t@@ '@@ inter@@ ro@@ ger au sujet de l@@ '@@ une de tes étudi@
 N@@ e cours pas@@ .
 L@@ e résul@@ tat ne sera pas vraiment bon@@ .
 L@@ '@@ ennu@@ i@@ , c@@ '@@ est que les lunettes se per@@ dent tou@@ jour@@ s@@ .
-J@@ '@@ imagine ce que vous avez dû ress@@ enti@@ r@@ .
+J@@ '@@ imagine ce que vous avez dû ress@@ enti@@ r.
 N@@ e laissez pas votre chien à l@@ '@@ intérieur toute la journ@@ é@@ e@@ .
 C@@ '@@ est le tr@@ ain@@ -@@ tr@@ ain@@ .
 L@@ or@@ s@@ que nous arriv@@ â@@ mes@@ , tous les magas@@ ins furent fer@@ mé@@ s@@ .
