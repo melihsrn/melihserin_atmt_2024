@@ -4687,7 +4687,7 @@ J&apos; ai besoin de m&apos; avoir un point je suis allé à la entre entre la p
 Ne sois pas cette chose de l&apos; homme que ça ne va pas être homme à l&apos; homme .
 Je suis en train d&apos; autre l&apos; habitude de l&apos; autre que je suis en train de l&apos; autre comme elle .
 À la peine de la langue de la première fois de temps à deux voir un temps ou à ce qui s&apos; est passé un grand mot @-@ même dans le film .
-Tu as les filles les filles de les filles , je ne sais pas de l&apos; avoir fait mon chapeau . Je mange de l&apos; art . Je serais en train de l&apos; avoir été .
+Tu as les filles les filles de les filles , je ne sais pas de l&apos; avoir fait mon chapeau . Je mange de l&apos; art. Je serais en train de l&apos; avoir été .
 Il y a été allé à l&apos; aise , s&apos; il vous plaît , le monde est allé à l&apos; étranger .
 Une idée ne te a pas idée de lire un film .
 Comprendre de ce que je ne le comprends pas avec moi avec moi , ce n&apos; aime pas de la manger .
@@ -11352,7 +11352,7 @@ Tom a perdu ses lunettes quelque part au jardin .
 Il est allé en France .
 Vous pouvez prendre la route que vous voulez .
 Sally se souvint des jours où sa grand @-@ mère était robuste et en santé .
-Pourquoi ne pas demander à M . White ?
+Pourquoi ne pas demander à M. White ?
 Efforcez @-@ vous d&apos; être plus ponctuelle , désormais .
 Lorsque je cours , je me mets à transpirer .
 Il me faut partir .
@@ -12301,7 +12301,7 @@ Il se cache la tête dans le sable , comme une autruche .
 Je ne pense pas avoir l&apos; expérience nécessaire pour cet emploi .
 Elle reçut un présent de son petit copain .
 Pouvez @-@ vous éteindre la lumière ?
-M . White a fait quelques commentaires sur mon discours .
+M. White a fait quelques commentaires sur mon discours .
 Il compte parmi les plus grands scientifiques mondiaux .
 Pourriez @-@ vous essayer d&apos; être un peu moins égoïste , pour changer ?
 Vous ne serez pas fusillé .
@@ -12878,7 +12878,7 @@ Ces textes furent écrits en hébreu , pas en araméen .
 Vous me semblez familière . Est @-@ ce que je vous connais ?
 Nous devons le refaire .
 Elle a fait un voyage en Amérique , en s&apos; arrêtant dans six grandes villes .
-M . Young aimerait que son fils travaille davantage .
+M. Young aimerait que son fils travaille davantage .
 Je suis dépourvu de défauts .
 Veuillez signer ici .
 J&apos; ai besoin d&apos; un peu d&apos; aide , à ce stade .
@@ -13189,7 +13189,7 @@ Jane avait un ruban jaune dans les cheveux .
 Si un homme avait onze moutons et que tous sauf neuf mourraient , combien de moutons lui resterait @-@ il ?
 Elle est vraiment intelligente .
 Arrêter de fumer a été la chose la plus difficile que j&apos; ai entreprise dans ma vie .
-Un certain M . Jones est venu pendant votre absence .
+Un certain M. Jones est venu pendant votre absence .
 Ce garçon travailleur ne peut qu&apos; avoir du succès .
 Que voulez @-@ vous vraiment dire ?
 Il y a peu de maisons dans le coin .
@@ -13807,7 +13807,7 @@ Je suis désolé si je t&apos; ai embarrassée .
 Je ne veux pas que vous soyez blessé , un point c&apos; est tout .
 Cette perte et ses conséquences auront un impact non seulement sur les gens qui parlent ces langues , mais sur nous tous .
 Jouons à colin @-@ maillard .
-L&apos; homme que nous avons vu ce matin était M . Green .
+L&apos; homme que nous avons vu ce matin était M. Green .
 Ce qui est passé est mort .
 J&apos; aime les chansons qui traitent de relations .
 Attrape ce livre pour moi .
@@ -14205,7 +14205,7 @@ Sami connaît ce quartier comme sa poche .
 Les risques sont trop élevés .
 Stephen Colbert est un type plutôt délirant .
 Rendez @-@ le @-@ moi !
-M . Smith m&apos; apprend l&apos; anglais .
+M. Smith m&apos; apprend l&apos; anglais .
 L&apos; ascenseur semble être en panne .
 J&apos; ai parfois du mal à choisir entre suivre ma raison ou mes sentiments .
 Voulez @-@ vous quelques minutes de plus ?
@@ -14246,7 +14246,7 @@ Il est dans le garage .
 Tu parles vraiment vite .
 Ce n&apos; est pas vraiment une solution .
 Il se cache .
-M . Brown est notre conseiller financier .
+M. Brown est notre conseiller financier .
 Je suis un artiste .
 Tu devrais lui acheter de nouveaux jouets .
 J&apos; ai eu le pressentiment que vous feriez cela .
@@ -15864,7 +15864,7 @@ Est @-@ ce de l&apos; amour ?
 Les pyramides furent bâties en des temps anciens .
 Je suis très en colère .
 Tom ! Apporte @-@ moi un sandwich .
-M . Ito est un homme très éduqué .
+M. Ito est un homme très éduqué .
 Ce fut un énorme soulagement .
 La cérémonie était impressionnante .
 Je lui enverrai un message personnel .
@@ -16313,7 +16313,7 @@ Est @-@ ce que ce que c&apos; est ce que Tom a dit ?
 Il a appelé à l&apos; aide .
 Je travaille dans le domaine de l&apos; art .
 Vous devriez le voir comme une opportunité .
-&quot; Puis @-@ je parler à M . Nakagawa ? &quot; &quot; C&apos; est moi &quot; .
+&quot; Puis @-@ je parler à M. Nakagawa ? &quot; &quot; C&apos; est moi &quot; .
 Il n&apos; y a que peu de fautes , voire pas du tout .
 Tom et Mary ont rejoint le groupe .
 Il me demanda de revenir ici cet après @-@ midi .
@@ -16629,7 +16629,7 @@ Le volcan entre en éruption .
 Elle a peur du tonnerre .
 Je ne vous connaissais pas , alors .
 Je connais les statistiques .
-Nous avons élu M . Jordan à la place de président .
+Nous avons élu M. Jordan à la place de président .
 Elle se mît à apprécier le nouvel instituteur .
 Pouvons @-@ nous faire ouvrir ce portail ?
 Tu as trop confiance en toi .
@@ -16813,7 +16813,7 @@ Où étiez @-@ vous avant de venir ici ?
 Nos vies sont déterminées par notre environnement .
 Ne possèdes @-@ tu pas de vélo ?
 Tu as beaucoup de courage .
-Laissez @-@ moi vous présenter M . Tanaka .
+Laissez @-@ moi vous présenter M. Tanaka .
 On ne peut jamais projeter le futur à partir du passé .
 Mon jeans a rétréci au lavage .
 Il lui a demandé de sortir avec lui .
@@ -16872,14 +16872,14 @@ La neige fondit quand arriva le printemps .
 Je n&apos; ai aucune idée de qui c&apos; est .
 Je suis sienne et elle est mienne .
 Connais @-@ tu pour sûr le prix de cette voiture ?
-Je respecte mon professeur d&apos; anglais , M . Taniguchi .
+Je respecte mon professeur d&apos; anglais , M. Taniguchi .
 Êtes @-@ vous sûre de ne pas vouloir manger quelque chose ?
 C&apos; est à peu près tout ce qu&apos; il te faut savoir .
 As @-@ tu de la bière blonde ?
 J&apos; ai dû retourner chez moi .
 La dernière chose que je veuille faire est vous causer le moindre mal supplémentaire .
 Pensais @-@ tu que tu avais raison ?
-M . Ito a dénoué sa cravate parce qu&apos; il avait chaud dans son bureau .
+M. Ito a dénoué sa cravate parce qu&apos; il avait chaud dans son bureau .
 Allez embrasser quelqu&apos; un d&apos; autre !
 Je ne dis pas que nous ne pouvons pas l&apos; emporter . Je dis simplement que ce n&apos; est pas probable .
 Ils étaient faits de cuir rugueux marron .
@@ -17909,7 +17909,7 @@ C&apos; est son seul enfant .
 J&apos; arrive toujours un peu en avance .
 Cent dollars devraient couvrir tous les coûts du voyage .
 J&apos; ai toujours payé le loyer .
-La chambre de M . Johnson était une grande chambre .
+La chambre de M. Johnson était une grande chambre .
 C&apos; est la raison pour laquelle nous sommes ici .
 Tom aurait pu me parler .
 La libre circulation de l&apos; information est le seul garde @-@ fou contre la tyrannie .
