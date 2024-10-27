@@ -481,7 +481,11 @@ nous fer@@ mi@@ ons le magasin .
 je vous rend@@ rai fi@@ ers de moi .
 ce soir , tu vas voir pourquoi je mé@@ prise cette femme .
 qui t&apos; a forc@@ ée à faire cela ?
+<<<<<<< HEAD
 j &quot; étais en train de penser exactement à la même chose .
+=======
+J &quot; étais en train de penser exactement à la même chose .
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 je retour@@ ne avec mon e@@ x petite copine .
 Tom nous a laissé partir .
 P@@ répar@@ ez @-@ vous à baiser .
@@ -1352,7 +1356,11 @@ Tom a perdu ses lunettes quelque part au jardin .
 il est allé en France .
 vous pouvez prendre la route que vous voulez .
 S@@ ally se souv@@ int des jours où sa grand @-@ mère était ro@@ bus@@ te et en santé .
+<<<<<<< HEAD
 pourquoi ne pas demander à M@@ . White ?
+=======
+pourquoi ne pas demander à M . White ?
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 E@@ ff@@ orc@@ ez @-@ vous d&apos; être plus ponctu@@ elle , désormais .
 lorsque je cours , je me mets à tran@@ spir@@ er .
 il me faut partir .
@@ -2878,7 +2886,11 @@ ces tex@@ tes furent écri@@ ts en hé@@ bre@@ u , pas en ar@@ amé@@ en .
 vous me semblez famili@@ ère . est @-@ ce que je vous connais ?
 nous devons le refaire .
 elle a fait un voyage en Amérique , en s&apos; arrê@@ tant dans six grandes v@@ illes .
+<<<<<<< HEAD
 M@@ . Y@@ oun@@ g aimerait que son fils travaille davantage .
+=======
+M . Y@@ oun@@ g aimerait que son fils travaille davantage .
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 je suis dépourvu de dé@@ fau@@ ts .
 veuillez sig@@ ner ici .
 j&apos; ai besoin d&apos; un peu d&apos; aide , à ce st@@ ade .
@@ -3807,7 +3819,11 @@ je suis désolé si je t&apos; ai embarrass@@ ée .
 je ne veux pas que vous soyez blessé , un point c&apos; est tout .
 cette perte et ses conséquences au@@ ront un impact non seulement sur les gens qui parlent ces langues , mais sur nous tous .
 Jouons à co@@ lin @-@ mai@@ ll@@ ard .
+<<<<<<< HEAD
 l&apos; homme que nous avons vu ce matin était M@@ . Green .
+=======
+l&apos; homme que nous avons vu ce matin était M . Green .
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 ce qui est passé est mort .
 j&apos; aime les chansons qui trai@@ tent de rel@@ ations .
 attrape ce livre pour moi .
@@ -4205,7 +4221,11 @@ Sami connaît ce quartier comme sa poche .
 les risques sont trop élevés .
 S@@ te@@ ph@@ en Col@@ ber@@ t est un type plutôt déli@@ rant .
 rendez @-@ le @-@ moi !
+<<<<<<< HEAD
 M@@ . Smith m&apos; apprend l&apos; anglais .
+=======
+M . Smith m&apos; apprend l&apos; anglais .
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 l&apos; as@@ cen@@ s@@ eur semble être en pan@@ ne .
 j&apos; ai parfois du mal à choisir entre suivre ma raison ou mes sentiments .
 voulez @-@ vous quelques minutes de plus ?
@@ -4246,7 +4266,11 @@ il est dans le garage .
 tu parles vraiment vite .
 ce n&apos; est pas vraiment une solution .
 il se cache .
+<<<<<<< HEAD
 M@@ . B@@ ro@@ wn est notre conse@@ iller fin@@ an@@ cier .
+=======
+M . B@@ ro@@ wn est notre conse@@ iller fin@@ an@@ cier .
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 je suis un arti@@ ste .
 tu devrais lui acheter de nouveaux jouets .
 j&apos; ai eu le press@@ enti@@ ment que vous feriez cela .
@@ -5864,7 +5888,11 @@ est @-@ ce de l&apos; amour ?
 les pyram@@ ides furent bâ@@ ties en des temps anci@@ ens .
 je suis très en colère .
 Tom ! apporte @-@ moi un sandwich .
+<<<<<<< HEAD
 M@@ . Ito est un homme très é@@ du@@ qué .
+=======
+M . Ito est un homme très é@@ du@@ qué .
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 ce fut un énorme soulag@@ ement .
 la cérémonie était impressionn@@ ante .
 je lui enverrai un message personnel .
@@ -6629,7 +6657,11 @@ le vol@@ can entre en ér@@ up@@ tion .
 elle a peur du t@@ onn@@ erre .
 je ne vous connaissais pas , alors .
 je connais les st@@ ati@@ sti@@ ques .
+<<<<<<< HEAD
 nous avons élu M@@ . J@@ or@@ d@@ an à la place de président .
+=======
+nous avons élu M . J@@ or@@ d@@ an à la place de président .
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 elle se m@@ ît à appréci@@ er le nouvel instituteur .
 pouvons @-@ nous faire ouvrir ce port@@ ail ?
 tu as trop confiance en toi .
@@ -7597,7 +7629,11 @@ j&apos; ai besoin de plus d&apos; information sur cette affaire .
 Tom a dit qu&apos; il les voulait .
 le costume me va bien .
 j&apos; habite dans une grande ville .
+<<<<<<< HEAD
 la Cor@@ ée a reçu une in@@ spec@@ tion de l&apos; A@@ g@@ ence Intern@@ ation@@ ale de l&apos; É@@ ner@@ g@@ ie Atom@@ ique .
+=======
+la Cor@@ ée a reçu une in@@ spec@@ tion de l&apos; A@@ g@@ ence Intern@@ ation@@ ale de l&apos; É@@ ner@@ g@@ ie A@@ tom@@ ique .
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 je suis invité à une fête ce soir .
 pourquoi ne nous l&apos; as @-@ tu pas dit ?
 veuillez changer la ponctu@@ ation .
@@ -7909,7 +7945,11 @@ c&apos; est son seul enfant .
 j&apos; arrive toujours un peu en avance .
 cent dollars devraient couv@@ rir tous les coûts du voyage .
 j&apos; ai toujours payé le loyer .
+<<<<<<< HEAD
 la chambre de M@@ . Joh@@ n@@ son était une grande chambre .
+=======
+la chambre de M . Joh@@ n@@ son était une grande chambre .
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 c&apos; est la raison pour laquelle nous sommes ici .
 Tom aurait pu me parler .
 la libre circulation de l&apos; information est le seul garde @-@ fou contre la ty@@ r@@ anni@@ e .

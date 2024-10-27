@@ -234,7 +234,10 @@ children 43
 seen 43
 t@@ 43
 S@@ 42
+<<<<<<< HEAD
 r@@ 42
+=======
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 sorry 42
 door 42
 name 42
@@ -264,6 +267,7 @@ doing 39
 ous 39
 st@@ 39
 came 39
+r@@ 38
 even 38
 ers 38
 ated 38
@@ -306,6 +310,10 @@ at@@ 32
 a@@ 32
 its 32
 mine 32
+<<<<<<< HEAD
+=======
+young 32
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 wrong 32
 few 32
 married 32
@@ -314,6 +322,10 @@ early 32
 truth 32
 small 31
 as@@ 31
+<<<<<<< HEAD
+=======
+A@@ 31
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 stay 31
 hear 31
 al@@ 31
@@ -335,7 +347,10 @@ aren 30
 ded 30
 year 30
 o 30
+<<<<<<< HEAD
 A@@ 30
+=======
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 kind 30
 everybody 30
 ting 30
@@ -370,7 +385,10 @@ or@@ 28
 t 28
 nice 28
 m 27
+<<<<<<< HEAD
 M@@ 27
+=======
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 en@@ 27
 couldn 27
 age 27
@@ -413,6 +431,10 @@ cat 25
 language 25
 sing 24
 bought 24
+<<<<<<< HEAD
+=======
+M@@ 24
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 D@@ 24
 plan 24
 rain 24
@@ -456,7 +478,10 @@ meeting 22
 heard 22
 boy 22
 sick 22
+<<<<<<< HEAD
 g 22
+=======
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 king 22
 ro@@ 22
 rich 22
@@ -475,6 +500,7 @@ con@@ 21
 Boston 21
 accident 21
 finished 21
+g 21
 question 21
 food 21
 eyes 21
@@ -762,7 +788,10 @@ sts 13
 forgot 13
 opened 13
 cake 13
+<<<<<<< HEAD
 oun@@ 13
+=======
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 per@@ 13
 minutes 13
 ag@@ 13
@@ -785,7 +814,10 @@ different 13
 ered 13
 men 13
 learned 13
+<<<<<<< HEAD
 Mr 13
+=======
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 team 13
 mistake 13
 whose 13
@@ -822,6 +854,10 @@ police 12
 real 12
 stupid 12
 ating 12
+<<<<<<< HEAD
+=======
+oun@@ 12
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 secret 12
 ic 12
 women 12
@@ -1089,6 +1125,7 @@ gives 9
 tly 9
 ies 9
 respect 9
+r 9
 dictionary 9
 sooner 9
 solve 9
@@ -1204,7 +1241,10 @@ bet 8
 missed 8
 ea@@ 8
 ashamed 8
+<<<<<<< HEAD
 r 8
+=======
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 sub@@ 8
 ours 8
 danger 8
@@ -1445,7 +1485,6 @@ eight 6
 movies 6
 als 6
 weeks 6
-hi 6
 wore 6
 under@@ 6
 keeps 6
@@ -1687,6 +1726,7 @@ harder 5
 button 5
 far@@ 5
 mer 5
+Hi 5
 throw 5
 returned 5
 fac@@ 5
@@ -1712,7 +1752,10 @@ happ@@ 5
 expec@@ 5
 decide 5
 apped 5
+<<<<<<< HEAD
 Y@@ 5
+=======
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 willing 5
 mean@@ 5
 push 5
@@ -2034,6 +2077,10 @@ weird 4
 ital 4
 wr@@ 4
 China 4
+<<<<<<< HEAD
+=======
+Y@@ 4
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 sons 4
 hell 4
 among 4
@@ -2604,7 +2651,11 @@ mem@@ 3
 sac@@ 3
 repair 3
 slip 3
+<<<<<<< HEAD
 Atom@@ 3
+=======
+atom@@ 3
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 yel@@ 3
 recently 3
 absur@@ 3
@@ -2967,6 +3018,7 @@ text 3
 itting 3
 stuff 3
 ordered 3
+tom@@ 3
 suicide 3
 urin@@ 3
 forbidden 3
@@ -2994,4 +3046,7 @@ Thomas 3
 crashed 3
 laugh@@ 3
 advis@@ 3
+<<<<<<< HEAD
 pay@@ 3
+=======
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6

@@ -9,7 +9,11 @@ la 1464
 ? 1456
 le 1423
 que 1376
+<<<<<<< HEAD
 à 1350
+=======
+Ã 1350
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 vous 1252
 , 1177
 ne 1176
@@ -40,7 +44,11 @@ dans 383
 y 333
 qui 325
 du 320
+<<<<<<< HEAD
 ça 317
+=======
+Ã§a 317
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 plus 313
 s&apos; 298
 te 293
@@ -49,12 +57,20 @@ faire 288
 au 288
 moi 286
 m&apos; 281
+<<<<<<< HEAD
 était 277
+=======
+Ã©tait 277
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 tout 264
 avec 264
 fait 252
 mon 244
+<<<<<<< HEAD
 être 231
+=======
+Ãªtre 231
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 sont 226
 si 226
 son 224
@@ -68,20 +84,34 @@ lui 184
 très 180
 temps 178
 cette 175
+<<<<<<< HEAD
 êtes 169
 sa 169
 é 168
 ont 166
 été 163
+=======
+Ãªtes 169
+sa 169
+Ã© 168
+ont 166
+Ã©tÃ© 163
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 on 163
 ma 161
 avez 159
 votre 158
 par 151
 dit 148
+<<<<<<< HEAD
 où 147
 pourquoi 140
 ée 140
+=======
+oÃ¹ 147
+pourquoi 140
+Ã©e 140
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 mais 139
 peux 136
 ici 136
@@ -111,7 +141,11 @@ avait 104
 re@@ 104
 elles 104
 trop 102
+<<<<<<< HEAD
 même 99
+=======
+mÃªme 99
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 mes 99
 quelque 99
 ons 98
@@ -129,11 +163,19 @@ encore 90
 besoin 89
 parler 89
 ta 86
+<<<<<<< HEAD
 là 86
 aller 85
 sommes 85
 personne 85
 étais 84
+=======
+lÃ 86
+aller 85
+sommes 85
+personne 85
+Ã©tais 84
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 ait 83
 homme 83
 in@@ 83
@@ -145,10 +187,17 @@ dois 77
 argent 77
 chez 77
 train 76
+<<<<<<< HEAD
 é@@ 75
 aussi 75
 maison 74
 és 74
+=======
+Ã©@@ 75
+aussi 75
+maison 74
+Ã©s 74
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 bon 73
 soit 72
 avais 72
@@ -170,19 +219,32 @@ vais 66
 eu 66
 ou 65
 sans 65
+<<<<<<< HEAD
 déjà 64
 père 63
+=======
+dÃ©jÃ 64
+pÃ¨re 63
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 ch@@ 63
 aujourd&apos; 62
 hui 62
 en@@ 62
 faut 61
 s@@ 61
+<<<<<<< HEAD
 ées 60
 quelle 59
 porte 59
 combien 59
 plaît 58
+=======
+Ã©es 60
+quelle 59
+porte 59
+combien 59
+plaÃ®t 58
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 ces 57
 heures 57
 toutes 56
@@ -190,18 +252,32 @@ grand 56
 aide 56
 enfants 55
 b@@ 55
+<<<<<<< HEAD
 école 54
 jour 54
 ré@@ 54
+=======
+Ã©cole 54
+jour 54
+rÃ©@@ 54
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 c@@ 53
 livre 53
 air 53
 aimerais 53
+<<<<<<< HEAD
 té 53
 seul 53
 toute 52
 v@@ 52
 après 51
+=======
+tÃ© 53
+seul 53
+toute 52
+v@@ 52
+aprÃ¨s 51
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 hier 51
 venir 51
 bonne 51
@@ -261,7 +337,11 @@ savoir 40
 ceci 40
 voulais 40
 lire 40
+<<<<<<< HEAD
 idée 40
+=======
+idÃ©e 40
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 heure 40
 quelques 40
 li@@ 40
@@ -275,12 +355,19 @@ ation 39
 ais 39
 manger 39
 aurais 38
+<<<<<<< HEAD
 M@@ 38
+=======
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 trouve 38
 heureux 38
 ai@@ 38
 simplement 37
+<<<<<<< HEAD
 demandé 37
+=======
+demandÃ© 37
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 nom 37
 t@@ 37
 crois 37
@@ -296,14 +383,22 @@ souvent 35
 faites 35
 C@@ 35
 aire 35
+<<<<<<< HEAD
 allé 35
+=======
+allÃ© 35
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 n@@ 35
 acheter 35
 ag@@ 34
 vrai 34
 entre 34
 ou@@ 34
+<<<<<<< HEAD
 problème 34
+=======
+problÃ¨me 34
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 pu 34
 is 33
 ante 33
@@ -314,9 +409,15 @@ lit 33
 an@@ 33
 aient 33
 savais 33
+<<<<<<< HEAD
 ité 33
 sens 33
 dernière 33
+=======
+itÃ© 33
+sens 33
+derniÃ¨re 33
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 av@@ 32
 retard 32
 ques 32
@@ -327,7 +428,11 @@ devons 32
 lettre 32
 mort 32
 f@@ 32
+<<<<<<< HEAD
 étaient 32
+=======
+Ã©taient 32
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 au@@ 32
 re 32
 petite 31
@@ -338,7 +443,11 @@ i 31
 perdu 31
 sortir 31
 famille 31
+<<<<<<< HEAD
 pré@@ 31
+=======
+prÃ©@@ 31
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 or@@ 31
 nos 30
 is@@ 30
@@ -349,17 +458,31 @@ it 30
 ami 30
 ville 30
 es@@ 30
+<<<<<<< HEAD
 èrent 30
 che 30
 tôt 30
 trouvé 30
+=======
+Ã¨rent 30
+che 30
+tÃ´t 30
+trouvÃ© 30
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 trouver 29
 parents 29
 aucun 29
 mer 29
+<<<<<<< HEAD
 ét@@ 29
 ir@@ 29
 vérité 29
+=======
+Ã©t@@ 29
+ir@@ 29
+vÃ©ritÃ© 29
+A@@ 29
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 raison 29
 tard 29
 an 28
@@ -375,9 +498,14 @@ ale 28
 pl@@ 28
 allez 28
 sera 28
+<<<<<<< HEAD
 A@@ 28
 ement 28
 arrivé 27
+=======
+ement 28
+arrivÃ© 27
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 penses 27
 ci@@ 27
 vue 27
@@ -388,11 +516,19 @@ vivre 27
 qu@@ 27
 donne 27
 yeux 27
+<<<<<<< HEAD
 près 27
 o@@ 27
 sous 27
 passe 27
 ère 27
+=======
+prÃ¨s 27
+o@@ 27
+sous 27
+passe 27
+Ã¨re 27
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 difficile 27
 pourrais 27
 loin 27
@@ -404,6 +540,7 @@ bou@@ 26
 pourrait 26
 laisse 26
 aucune 26
+<<<<<<< HEAD
 pièce 26
 ad@@ 26
 livres 26
@@ -411,6 +548,15 @@ journée 26
 u@@ 26
 sois 26
 garçon 26
+=======
+piÃ¨ce 26
+ad@@ 26
+livres 26
+journÃ©e 26
+u@@ 26
+sois 26
+garÃ§on 26
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 era 26
 dont 26
 croire 26
@@ -420,19 +566,32 @@ on@@ 26
 as@@ 26
 S@@ 26
 langue 26
+<<<<<<< HEAD
 donné 26
 filles 25
 mo@@ 25
 vite 25
 acheté 25
+=======
+donnÃ© 26
+filles 25
+mo@@ 25
+vite 25
+achetÃ© 25
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 point 25
 connais 25
 voyage 25
 erai 25
 celui 25
 em@@ 25
+<<<<<<< HEAD
 tête 25
 fête 25
+=======
+tÃªte 25
+fÃªte 25
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 er@@ 25
 mot 25
 parce 25
@@ -441,19 +600,32 @@ com@@ 25
 a@@ 25
 onn@@ 25
 travaille 25
+<<<<<<< HEAD
 arrêter 25
+=======
+arrÃªter 25
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 ins 25
 autant 25
 im@@ 25
 cours 24
 vient 24
+<<<<<<< HEAD
 désolé 24
+=======
+dÃ©solÃ© 24
+M@@ 24
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 matin 24
 nouvelle 24
 vas 24
 chaque 24
 adore 24
+<<<<<<< HEAD
 sûr 24
+=======
+sÃ»r 24
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 pro@@ 24
 ts 24
 ap@@ 24
@@ -481,13 +653,21 @@ déjeuner 23
 téléphone 23
 premier 23
 soyez 23
+<<<<<<< HEAD
 écrit 23
+=======
+Ã©crit 23
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 ri@@ 23
 viens 23
 prie 23
 nourriture 23
 devrait 23
+<<<<<<< HEAD
 frère 23
+=======
+frÃ¨re 23
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 ler 23
 sou@@ 23
 dites 23
@@ -496,22 +676,35 @@ peine 23
 beau 23
 fort 23
 chat 23
+<<<<<<< HEAD
 médecin 23
+=======
+mÃ©decin 23
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 bl@@ 22
 savez 22
 travailler 22
 rez 22
 joue 22
 al@@ 22
+<<<<<<< HEAD
 déteste 22
+=======
+dÃ©teste 22
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 u 22
 gu@@ 22
 grande 22
 habitude 22
 accident 22
 mal@@ 22
+<<<<<<< HEAD
 colère 22
 première 22
+=======
+colÃ¨re 22
+premiÃ¨re 22
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 presque 22
 pouvons 22
 photo 22
@@ -520,7 +713,11 @@ questions 22
 bri@@ 22
 essayer 22
 ette 21
+<<<<<<< HEAD
 pensé 21
+=======
+pensÃ© 21
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 si@@ 21
 cr@@ 21
 bureau 21
@@ -532,6 +729,7 @@ cheveux 21
 amie 21
 ren@@ 21
 lieu 21
+<<<<<<< HEAD
 plutôt 21
 meilleur 21
 sœur 21
@@ -540,6 +738,16 @@ mois 21
 ens 21
 café 21
 dîner 21
+=======
+plutÃ´t 21
+meilleur 21
+sÅ“ur 21
+allons 21
+mois 21
+ens 21
+cafÃ© 21
+dÃ®ner 21
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 venu 21
 sujet 21
 jouer 21
@@ -547,8 +755,13 @@ co@@ 21
 ten@@ 21
 nager 20
 ages 20
+<<<<<<< HEAD
 occupé 20
 espère 20
+=======
+occupÃ© 20
+espÃ¨re 20
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 rouge 20
 chance 20
 contre 20
@@ -565,6 +778,7 @@ tr@@ 20
 chemin 19
 partie 19
 fils 19
+<<<<<<< HEAD
 cœur 19
 vi@@ 19
 lo@@ 19
@@ -573,6 +787,16 @@ appelle 19
 rend 19
 dehors 19
 ré 19
+=======
+cÅ“ur 19
+vi@@ 19
+lo@@ 19
+appelle 19
+Ã©crire 19
+rend 19
+dehors 19
+rÃ© 19
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 malade 19
 d 19
 regarde 19
@@ -580,18 +804,30 @@ ill@@ 19
 oui 19
 ge 19
 noir 19
+<<<<<<< HEAD
 mé@@ 19
 compte 19
 fin 19
 oublié 19
+=======
+mÃ©@@ 19
+compte 19
+fin 19
+oubliÃ© 19
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 tion 19
 pouvoir 19
 regarder 19
 tellement 19
 possible 19
 cro@@ 19
+<<<<<<< HEAD
 né 19
 santé 19
+=======
+nÃ© 19
+santÃ© 19
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 fumer 19
 dur 18
 année 18
@@ -613,10 +849,17 @@ prix 18
 vieux 18
 vélo 18
 amour 18
+<<<<<<< HEAD
 laissé 18
 problèmes 18
 in 18
 manière 18
+=======
+laissÃ© 18
+problÃ¨mes 18
+in 18
+maniÃ¨re 18
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 ver@@ 18
 langues 18
 France 18
@@ -631,7 +874,11 @@ importe 18
 jou@@ 18
 R@@ 18
 alors 18
+<<<<<<< HEAD
 è@@ 18
+=======
+Ã¨@@ 18
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 rendre 18
 ainsi 18
 dormir 18
@@ -641,7 +888,11 @@ devez 18
 br@@ 18
 f 18
 font 17
+<<<<<<< HEAD
 É@@ 17
+=======
+Ã‰@@ 17
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 marche 17
 fer@@ 17
 ions 17
@@ -663,7 +914,11 @@ quatre 17
 ence 17
 envie 17
 po@@ 17
+<<<<<<< HEAD
 dé 17
+=======
+dÃ© 17
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 pourriez 17
 vit 17
 derrière 17
@@ -680,36 +935,60 @@ aimes 17
 attendre 17
 L@@ 17
 cinq 17
+<<<<<<< HEAD
 mangé 17
+=======
+mangÃ© 17
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 entendre 17
 devriez 17
 tre 17
 at@@ 17
 ations 17
 serais 16
+<<<<<<< HEAD
 tés 16
 â@@ 16
+=======
+tÃ©s 16
+Ã¢@@ 16
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 ers 16
 appar@@ 16
 su@@ 16
 prochain 16
 G@@ 16
+<<<<<<< HEAD
 immédiatement 16
+=======
+immÃ©diatement 16
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 faim 16
 pouvait 16
 it@@ 16
 musique 16
+<<<<<<< HEAD
 fatigué 16
 D@@ 16
 midi 16
 façon 16
+=======
+fatiguÃ© 16
+D@@ 16
+midi 16
+faÃ§on 16
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 exactement 16
 ro@@ 16
 voudrais 16
 ignore 16
 fi@@ 16
 magasin 16
+<<<<<<< HEAD
 apprécie 16
+=======
+apprÃ©cie 16
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 mange 16
 ve 16
 illes 16
@@ -720,11 +999,19 @@ professeur 16
 boulot 16
 al 16
 bas 16
+<<<<<<< HEAD
 fenêtre 16
 pos@@ 16
 for@@ 16
 laissez 16
 sé 16
+=======
+fenÃªtre 16
+pos@@ 16
+for@@ 16
+laissez 16
+sÃ© 16
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 ance 16
 coup 16
 bière 16
@@ -738,6 +1025,7 @@ mauvais 15
 Tatoeba 15
 pou@@ 15
 devrions 15
+<<<<<<< HEAD
 ères 15
 leurs 15
 âge 15
@@ -745,6 +1033,15 @@ ser@@ 15
 mains 15
 mi@@ 15
 parlé 15
+=======
+Ã¨res 15
+leurs 15
+Ã¢ge 15
+ser@@ 15
+mains 15
+mi@@ 15
+parlÃ© 15
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 tour@@ 15
 montre 15
 télévision 15
@@ -756,13 +1053,18 @@ ferai 15
 ceux 15
 ettes 15
 ir 15
+<<<<<<< HEAD
 appréci@@ 15
+=======
+apprÃ©ci@@ 15
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 rent 15
 gr@@ 15
 donnez 15
 police 15
 merci 15
 endroit 15
+<<<<<<< HEAD
 tée 15
 st@@ 15
 étiez 15
@@ -777,6 +1079,23 @@ tri@@ 15
 tres 15
 mar@@ 15
 sûre 15
+=======
+tÃ©e 15
+st@@ 15
+Ã©tiez 15
+ni@@ 15
+Ã©ri@@ 15
+sent 15
+Ã©g@@ 15
+commencÃ© 15
+important 15
+nÃ©cessaire 15
+tri@@ 15
+tres 15
+mar@@ 15
+M 15
+sÃ»re 15
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 ue 15
 erreur 15
 vacances 15
@@ -785,13 +1104,22 @@ cour@@ 14
 capable 14
 tement 14
 intention 14
+<<<<<<< HEAD
 réunion 14
+=======
+rÃ©union 14
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 venus 14
 Dieu 14
 gi@@ 14
 compris 14
+<<<<<<< HEAD
 sécurité 14
 ér@@ 14
+=======
+sÃ©curitÃ© 14
+Ã©r@@ 14
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 essaie 14
 pass@@ 14
 cuisine 14
@@ -804,10 +1132,17 @@ sucre 14
 voici 14
 qué 14
 choix 14
+<<<<<<< HEAD
 gé 14
 se@@ 14
 ; 14
 marché 14
+=======
+gÃ© 14
+se@@ 14
+; 14
+marchÃ© 14
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 T@@ 14
 personnes 14
 mu@@ 14
@@ -816,18 +1151,32 @@ devant 14
 utiliser 14
 route 14
 pi@@ 14
+<<<<<<< HEAD
 connaît 14
 boire 14
 expérience 14
+=======
+connaÃ®t 14
+boire 14
+expÃ©rience 14
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 pri@@ 14
 chemise 14
 mon@@ 14
 voulons 14
+<<<<<<< HEAD
 essayé 14
 hommes 14
 Terre 14
 arriver 14
 bébé 14
+=======
+essayÃ© 14
+hommes 14
+Terre 14
+arriver 14
+bÃ©bÃ© 14
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 h@@ 14
 libre 14
 situation 14
@@ -837,7 +1186,11 @@ rencontré 13
 ess@@ 13
 pour@@ 13
 confiance 13
+<<<<<<< HEAD
 ï@@ 13
+=======
+Ã¯@@ 13
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 be 13
 H@@ 13
 il@@ 13
@@ -854,7 +1207,11 @@ savait 13
 passer 13
 char@@ 13
 parfois 13
+<<<<<<< HEAD
 numéro 13
+=======
+numÃ©ro 13
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 courant 13
 droit 13
 garçons 13
@@ -866,17 +1223,28 @@ N@@ 13
 ique 13
 minutes 13
 do@@ 13
+<<<<<<< HEAD
 télé 13
 ç@@ 13
+=======
+tÃ©lÃ© 13
+Ã§@@ 13
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 el 13
 restaurant 13
 r 13
 vo@@ 13
 ent@@ 13
 tient 13
+<<<<<<< HEAD
 bientôt 13
 enne 13
 boîte 13
+=======
+bientÃ´t 13
+enne 13
+boÃ®te 13
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 ob@@ 13
 sau@@ 13
 celle 13
@@ -884,15 +1252,26 @@ aurait 13
 tour 13
 mets 13
 : 13
+<<<<<<< HEAD
 âmes 13
+=======
+Ã¢mes 13
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 perdre 13
 équipe 13
 propre 13
 ressemble 13
+<<<<<<< HEAD
 hôtel 13
 décidé 13
 cause 13
 sé@@ 13
+=======
+hÃ´tel 13
+dÃ©cidÃ© 13
+cause 13
+sÃ©@@ 13
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 poser 13
 ser 12
 poste 12
@@ -900,12 +1279,21 @@ poisson 12
 furent 12
 ille 12
 allait 12
+<<<<<<< HEAD
 tées 12
 ais@@ 12
 hôpital 12
 faisons 12
 ite 12
 intéress@@ 12
+=======
+tÃ©es 12
+ais@@ 12
+hÃ´pital 12
+faisons 12
+ite 12
+intÃ©ress@@ 12
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 voy@@ 12
 ven@@ 12
 dev@@ 12
@@ -920,7 +1308,11 @@ comprends 12
 fleurs 12
 aine 12
 reste 12
+<<<<<<< HEAD
 étudiants 12
+=======
+Ã©tudiants 12
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 gros 12
 dispose 12
 mor@@ 12
@@ -942,6 +1334,7 @@ donner 12
 dis@@ 12
 grosse 12
 table 12
+<<<<<<< HEAD
 appelé 12
 agent 12
 cré@@ 12
@@ -951,6 +1344,17 @@ occupée 12
 end@@ 12
 ard 12
 onné 12
+=======
+appelÃ© 12
+agent 12
+crÃ©@@ 12
+aff@@ 12
+suite 12
+occupÃ©e 12
+end@@ 12
+ard 12
+onnÃ© 12
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 tez 12
 espagnol 12
 esprit 12
@@ -989,21 +1393,34 @@ prise 11
 chi@@ 11
 vol@@ 11
 plusieurs 11
+<<<<<<< HEAD
 prête 11
 ements 11
 discuter 11
 fasse 11
 ô@@ 11
+=======
+prÃªte 11
+ements 11
+discuter 11
+fasse 11
+Ã´@@ 11
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 attend 11
 tennis 11
 ues 11
 opinion 11
+<<<<<<< HEAD
 Noël 11
+=======
+NoÃ«l 11
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 J@@ 11
 alis@@ 11
 fin@@ 11
 fou@@ 11
 tionn@@ 11
+<<<<<<< HEAD
 gâteau 11
 secret 11
 femmes 11
@@ -1013,17 +1430,37 @@ moitié 11
 côté 11
 cam@@ 11
 terminé 11
+=======
+gÃ¢teau 11
+secret 11
+femmes 11
+Ã©galement 11
+cent 11
+moitiÃ© 11
+cÃ´tÃ© 11
+cam@@ 11
+terminÃ© 11
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 marier 11
 type 11
 long 11
 agit 11
 produit 11
+<<<<<<< HEAD
 lé@@ 11
 ture 11
 blessé 11
 clés 11
 10 11
 dée 11
+=======
+lÃ©@@ 11
+ture 11
+blessÃ© 11
+clÃ©s 11
+10 11
+dÃ©e 11
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 ents 11
 sol 11
 arme 11
@@ -1053,7 +1490,11 @@ F@@ 11
 dessus 11
 taille 11
 ur@@ 11
+<<<<<<< HEAD
 bibliothèque 10
+=======
+bibliothÃ¨que 10
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 manque 10
 fou 10
 In@@ 10
@@ -1061,13 +1502,21 @@ end 10
 dangereux 10
 répondre 10
 jeu 10
+<<<<<<< HEAD
 étudier 10
+=======
+Ã©tudier 10
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 ouv@@ 10
 enseignant 10
 dor@@ 10
 sentiments 10
 and@@ 10
+<<<<<<< HEAD
 préfère 10
+=======
+prÃ©fÃ¨re 10
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 ach@@ 10
 ignor@@ 10
 vis 10
@@ -1079,7 +1528,11 @@ dollars 10
 ... 10
 Layla 10
 iste 10
+<<<<<<< HEAD
 née 10
+=======
+nÃ©e 10
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 venue 10
 vouloir 10
 mou@@ 10
@@ -1106,12 +1559,21 @@ pluie 10
 ru@@ 10
 bi@@ 10
 autori@@ 10
+<<<<<<< HEAD
 clé 10
 commencer 10
 ê@@ 10
 cu@@ 10
 comm@@ 10
 théorie 10
+=======
+clÃ© 10
+commencer 10
+Ãª@@ 10
+cu@@ 10
+comm@@ 10
+thÃ©orie 10
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 om@@ 10
 portait 10
 chaussures 10
@@ -1120,7 +1582,11 @@ essay@@ 10
 ferais 10
 att@@ 10
 ayez 10
+<<<<<<< HEAD
 préférée 10
+=======
+prÃ©fÃ©rÃ©e 10
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 ds 10
 chante 10
 bons 10
@@ -1134,7 +1600,11 @@ ble 10
 voitures 10
 attend@@ 10
 op@@ 10
+<<<<<<< HEAD
 États 10
+=======
+Ã‰tats 10
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 Unis 10
 port@@ 10
 plan@@ 10
@@ -1143,7 +1613,11 @@ ager 10
 bout 10
 pleut 10
 appr@@ 10
+<<<<<<< HEAD
 désormais 10
+=======
+dÃ©sormais 10
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 rait 10
 pr@@ 10
 iez 10
@@ -1154,16 +1628,28 @@ information 10
 stes 10
 pauvre 10
 vieil 10
+<<<<<<< HEAD
 rivière 10
 ger 10
 mari 10
 refus@@ 10
 théâtre 10
+=======
+riviÃ¨re 10
+ger 10
+mari 10
+refus@@ 10
+thÃ©Ã¢tre 10
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 changer 10
 to@@ 10
 entend@@ 10
 arriver@@ 10
+<<<<<<< HEAD
 ép@@ 10
+=======
+Ã©p@@ 10
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 aiss@@ 10
 discours 10
 rou@@ 10
@@ -1173,6 +1659,7 @@ affaire 10
 bois 10
 tuer 10
 sommeil 10
+<<<<<<< HEAD
 étions 10
 succès 10
 écouter 10
@@ -1183,6 +1670,18 @@ certain 9
 rappeler 9
 connu 9
 intérieur 9
+=======
+Ã©tions 10
+succÃ¨s 10
+Ã©couter 10
+us@@ 10
+press@@ 9
+hÃ©@@ 9
+certain 9
+rappeler 9
+connu 9
+intÃ©rieur 9
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 avenir 9
 papier 9
 fallu 9
@@ -1202,7 +1701,11 @@ tor@@ 9
 prochaine 9
 pu@@ 9
 bag@@ 9
+<<<<<<< HEAD
 société 9
+=======
+sociÃ©tÃ© 9
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 lis@@ 9
 autour 9
 erais 9
@@ -1213,7 +1716,11 @@ app@@ 9
 reti@@ 9
 rend@@ 9
 z@@ 9
+<<<<<<< HEAD
 regardé 9
+=======
+regardÃ© 9
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 5 9
 art 9
 bor@@ 9
@@ -1222,7 +1729,11 @@ ennes 9
 vingt 9
 poids 9
 guerre 9
+<<<<<<< HEAD
 Dé@@ 9
+=======
+DÃ©@@ 9
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 efforts 9
 cadeau 9
 fai@@ 9
@@ -1234,8 +1745,13 @@ parapluie 9
 rencontre 9
 montrer 9
 rendez 9
+<<<<<<< HEAD
 lé 9
 entrée 9
+=======
+lÃ© 9
+entrÃ©e 9
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 suffisamment 9
 prit 9
 asse 9
@@ -1246,7 +1762,11 @@ dictionnaire 9
 ise 9
 demander 9
 riez 9
+<<<<<<< HEAD
 résoudre 9
+=======
+rÃ©soudre 9
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 quelconque 9
 allés 9
 our@@ 9
@@ -1258,14 +1778,22 @@ bu 9
 inter@@ 9
 viendra 9
 plein 9
+<<<<<<< HEAD
 cé@@ 9
+=======
+cÃ©@@ 9
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 avance 9
 réussi 9
 oncle 9
 ron@@ 9
 2@@ 9
 irs 9
+<<<<<<< HEAD
 levé 9
+=======
+levÃ© 9
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 met@@ 9
 fon@@ 9
 dimanche 9
@@ -1284,7 +1812,11 @@ cach@@ 9
 meilleure 9
 face 9
 groupe 9
+<<<<<<< HEAD
 tombé 8
+=======
+tombÃ© 8
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 vivent 8
 nu@@ 8
 viendrai 8
@@ -1294,16 +1826,25 @@ ic@@ 8
 fus@@ 8
 aimait 8
 dr@@ 8
+<<<<<<< HEAD
 attrapé 8
 én@@ 8
 écri@@ 8
 épouser 8
 porté 8
+=======
+attrapÃ© 8
+Ã©n@@ 8
+Ã©cri@@ 8
+Ã©pouser 8
+portÃ© 8
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 lar@@ 8
 chang@@ 8
 anc@@ 8
 mourir 8
 serv@@ 8
+<<<<<<< HEAD
 travaillé 8
 préféré 8
 ites 8
@@ -1314,16 +1855,36 @@ jeunes 8
 étrange 8
 vécu 8
 président 8
+=======
+travaillÃ© 8
+prÃ©fÃ©rÃ© 8
+ites 8
+dÃ©couvert 8
+quer 8
+jardin 8
+jeunes 8
+Ã©trange 8
+vÃ©cu 8
+prÃ©sident 8
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 lac 8
 intéressant 8
 resté 8
 croit 8
 ici@@ 8
+<<<<<<< HEAD
 étoiles 8
 impossible 8
 robe 8
 coupe 8
 décision 8
+=======
+Ã©toiles 8
+impossible 8
+robe 8
+coupe 8
+dÃ©cision 8
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 bour@@ 8
 baiser 8
 met 8
@@ -1334,9 +1895,15 @@ coin 8
 envoyé 8
 der 8
 E@@ 8
+<<<<<<< HEAD
 reçu 8
 ma@@ 8
 répar@@ 8
+=======
+reÃ§u 8
+ma@@ 8
+rÃ©par@@ 8
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 dou@@ 8
 existe 8
 proposition 8
@@ -1346,6 +1913,7 @@ gauche 8
 quit@@ 8
 sal@@ 8
 erreurs 8
+<<<<<<< HEAD
 tué 8
 suivre 8
 conseil 8
@@ -1358,17 +1926,39 @@ cents 8
 années 8
 ul@@ 8
 vêtements 8
+=======
+tuÃ© 8
+suivre 8
+conseil 8
+utilis@@ 8
+ArrÃªtez 8
+leÃ§on 8
+ri 8
+quiconque 8
+cents 8
+annÃ©es 8
+ul@@ 8
+vÃªtements 8
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 pommes 8
 ables 8
 dem@@ 8
 ferme 8
 rons 8
 rire 8
+<<<<<<< HEAD
 aimé 8
 its 8
 voudriez 8
 oublie 8
 prépar@@ 8
+=======
+aimÃ© 8
+its 8
+voudriez 8
+oublie 8
+prÃ©par@@ 8
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 sommet 8
 animaux 8
 ati@@ 8
@@ -1382,7 +1972,11 @@ piscine 8
 ut 8
 seront 8
 signe 8
+<<<<<<< HEAD
 voilà 8
+=======
+voilÃ 8
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 ph@@ 8
 sang 8
 réponse 8
@@ -1400,51 +1994,86 @@ finalement 8
 part@@ 8
 1@@ 8
 docteur 8
+<<<<<<< HEAD
 présent 8
 bâtiment 8
+=======
+prÃ©sent 8
+bÃ¢timent 8
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 moyen 8
 cal@@ 8
 portes 8
 actu@@ 8
 nes 8
+<<<<<<< HEAD
 œufs 8
+=======
+Å“ufs 8
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 Al@@ 8
 honte 8
 acti@@ 8
 por@@ 8
 lundi 8
 propres 8
+<<<<<<< HEAD
 û@@ 8
+=======
+Ã»@@ 8
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 soin 8
 proche 8
 dure 8
 idiot 8
+<<<<<<< HEAD
 arrête 8
+=======
+arrÃªte 8
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 ss@@ 8
 week 8
 pleuvoir 8
 payé 8
 hab@@ 8
 bateau 8
+<<<<<<< HEAD
 bé@@ 8
 ju@@ 8
 O@@ 8
 manquer 8
 prêter 8
 illé 8
+=======
+bÃ©@@ 8
+ju@@ 8
+O@@ 8
+manquer 8
+prÃªter 8
+illÃ© 8
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 fri@@ 8
 cap@@ 8
 pause 8
 jeux 8
+<<<<<<< HEAD
 vidéo 8
+=======
+vidÃ©o 8
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 ales 8
 mettez 8
 ouvert 8
 rappelle 8
 parlent 8
 tromp@@ 8
+<<<<<<< HEAD
 dépend 8
 état 8
+=======
+dÃ©pend 8
+Ã©tat 8
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 attends 8
 esti@@ 7
 explo@@ 7
@@ -1455,7 +2084,11 @@ devint 7
 vendre 7
 cru 7
 larmes 7
+<<<<<<< HEAD
 mée 7
+=======
+mÃ©e 7
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 scientifique 7
 té@@ 7
 article 7
@@ -1476,7 +2109,11 @@ John 7
 effet 7
 frapp@@ 7
 semaines 7
+<<<<<<< HEAD
 différent 7
+=======
+diffÃ©rent 7
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 touche 7
 mille 7
 sembles 7
@@ -1493,7 +2130,11 @@ bizarre 7
 cass@@ 7
 marre 7
 V@@ 7
+<<<<<<< HEAD
 inconvénient 7
+=======
+inconvÃ©nient 7
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 occasion 7
 aill@@ 7
 bouteille 7
@@ -1538,18 +2179,30 @@ lav@@ 7
 pes 7
 tran@@ 7
 ection 7
+<<<<<<< HEAD
 étudiant 7
 sept 7
 dés@@ 7
+=======
+Ã©tudiant 7
+sept 7
+dÃ©s@@ 7
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 parl@@ 7
 vide 7
 bat@@ 7
 produire 7
 rue 7
 tranquille 7
+<<<<<<< HEAD
 découvrir 7
 mat@@ 7
 étage 7
+=======
+dÃ©couvrir 7
+mat@@ 7
+Ã©tage 7
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 espace 7
 radio 7
 fermer 7
@@ -1557,7 +2210,11 @@ antes 7
 responsable 7
 expliquer 7
 hasard 7
+<<<<<<< HEAD
 ché 7
+=======
+chÃ© 7
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 entr@@ 7
 considér@@ 7
 Tokyo 7
@@ -1588,6 +2245,7 @@ repas 7
 plage 7
 Ah 7
 site 7
+<<<<<<< HEAD
 joué 7
 quée 7
 fenêtres 7
@@ -1603,11 +2261,32 @@ ira 7
 sors 7
 simple 7
 sépar@@ 7
+=======
+jouÃ© 7
+quÃ©e 7
+fenÃªtres 7
+aimer 7
+sav@@ 7
+Ã¨te 7
+bres 7
+rÃ©s 7
+Internet 7
+vement 7
+AmÃ©rique 7
+ira 7
+sors 7
+simple 7
+sÃ©par@@ 7
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 espoir 7
 tâche 7
 maman 7
 parlait 7
+<<<<<<< HEAD
 cassé 7
+=======
+cassÃ© 7
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 can@@ 7
 appartient 7
 iller 7
@@ -1628,6 +2307,7 @@ glis@@ 7
 atti@@ 7
 isme 7
 croy@@ 7
+<<<<<<< HEAD
 pé@@ 7
 présenter 7
 lev@@ 7
@@ -1636,6 +2316,16 @@ cher@@ 7
 laver 7
 bonnes 7
 départ 7
+=======
+pÃ©@@ 7
+prÃ©senter 7
+lev@@ 7
+Ã©tudi@@ 7
+cher@@ 7
+laver 7
+bonnes 7
+dÃ©part 7
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 enn@@ 7
 cri@@ 7
 suiv@@ 7
@@ -1647,22 +2337,38 @@ retourner 7
 faite 7
 timide 7
 aiment 7
+<<<<<<< HEAD
 réfléchir 7
 début 7
 service 7
 rement 7
 dési@@ 7
+=======
+rÃ©flÃ©chir 7
+dÃ©but 7
+service 7
+rement 7
+dÃ©si@@ 7
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 cherche 7
 eaux 7
 aque 7
 football 7
 pan@@ 7
 demanda 7
+<<<<<<< HEAD
 sérieux 7
 gagne 7
 demi 7
 nerveux 6
 réjouis 6
+=======
+sÃ©rieux 7
+gagne 7
+demi 7
+nerveux 6
+rÃ©jouis 6
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 tons 6
 arbres 6
 feuilles 6
@@ -1692,6 +2398,7 @@ veu@@ 6
 cuisiner 6
 sage 6
 els 6
+<<<<<<< HEAD
 décida 6
 couple 6
 mesure 6
@@ -1703,6 +2410,19 @@ alent@@ 6
 méri@@ 6
 conduis@@ 6
 musée 6
+=======
+dÃ©cida 6
+couple 6
+mesure 6
+nombreuses 6
+difficultÃ©s 6
+ats 6
+alent@@ 6
+00 6
+mÃ©ri@@ 6
+conduis@@ 6
+musÃ©e 6
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 sour@@ 6
 os 6
 arti@@ 6
@@ -1711,41 +2431,70 @@ tait 6
 Espagne 6
 ente 6
 change 6
+<<<<<<< HEAD
 î@@ 6
+=======
+Ã®@@ 6
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 tif 6
 direction 6
 tenu 6
 visiter 6
 chiens 6
 liste 6
+<<<<<<< HEAD
 accusé 6
 univers 6
 nettoyer 6
 ancé 6
+=======
+accusÃ© 6
+univers 6
+nettoyer 6
+ancÃ© 6
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 message 6
 courage 6
 blanc 6
 thé 6
 lent 6
 rends 6
+<<<<<<< HEAD
 intéressé 6
 traver@@ 6
 lie 6
 voyez 6
 écras@@ 6
+=======
+intÃ©ressÃ© 6
+traver@@ 6
+lie 6
+voyez 6
+Ã©cras@@ 6
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 nulle 6
 alcool 6
 seuls 6
 gérer 6
 courir 6
+<<<<<<< HEAD
 spéci@@ 6
 grandes 6
 coût 6
+=======
+spÃ©ci@@ 6
+grandes 6
+coÃ»t 6
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 ho@@ 6
 p 6
 viv@@ 6
 papa 6
+<<<<<<< HEAD
 énergie 6
+=======
+Ã©nergie 6
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 rac@@ 6
 ner 6
 petites 6
@@ -1761,7 +2510,11 @@ sub@@ 6
 ateur 6
 certaine 6
 pai@@ 6
+<<<<<<< HEAD
 église 6
+=======
+Ã©glise 6
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 aie 6
 rarement 6
 ras 6
@@ -1776,7 +2529,11 @@ accepter 6
 vers@@ 6
 dess@@ 6
 compter 6
+<<<<<<< HEAD
 étudie 6
+=======
+Ã©tudie 6
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 imagine 6
 parles 6
 ennu@@ 6
@@ -1786,13 +2543,22 @@ ences 6
 imaginer 6
 moutons 6
 accus@@ 6
+<<<<<<< HEAD
 lè@@ 6
+=======
+lÃ¨@@ 6
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 asseoir 6
 politique 6
 m 6
 soixante 6
+<<<<<<< HEAD
 réveillé 6
 inquiète 6
+=======
+rÃ©veillÃ© 6
+inquiÃ¨te 6
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 ll@@ 6
 semblez 6
 assi@@ 6
@@ -1807,7 +2573,11 @@ ains 6
 pein@@ 6
 aises 6
 terais 6
+<<<<<<< HEAD
 préparer 6
+=======
+prÃ©parer 6
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 fo@@ 6
 aî@@ 6
 calme 6
@@ -1819,11 +2589,19 @@ cherch@@ 6
 entends 6
 contrat 6
 sions 6
+<<<<<<< HEAD
 détermin@@ 6
 pla@@ 6
 admire 6
 poli 6
 rôle 6
+=======
+dÃ©termin@@ 6
+pla@@ 6
+admire 6
+poli 6
+rÃ´le 6
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 ath@@ 6
 maladie 6
 poin@@ 6
@@ -1832,23 +2610,40 @@ souvenir 6
 refaire 6
 rant 6
 eus 6
+<<<<<<< HEAD
 rencontrée 6
+=======
+rencontrÃ©e 6
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 jet@@ 6
 prendrai 6
 frères 6
 fruits 6
 jug@@ 6
+<<<<<<< HEAD
 invité 6
 disait 6
 règles 6
+=======
+invitÃ© 6
+disait 6
+rÃ¨gles 6
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 ecte 6
 loi 6
 lle 6
 or 6
+<<<<<<< HEAD
 écl@@ 6
 cinéma 6
 rencontr@@ 6
 mé 6
+=======
+Ã©cl@@ 6
+cinÃ©ma 6
+rencontr@@ 6
+mÃ© 6
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 tra 6
 personn@@ 6
 coucher 6
@@ -1862,9 +2657,15 @@ tar@@ 6
 charge 6
 trans@@ 6
 montrez 6
+<<<<<<< HEAD
 vité 6
 Mon@@ 6
 pêcher 6
+=======
+vitÃ© 6
+Mon@@ 6
+pÃªcher 6
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 garder 6
 exc@@ 6
 douche 6
@@ -1873,7 +2674,11 @@ chanceux 6
 éviter 6
 corriger 6
 iter 6
+<<<<<<< HEAD
 fréqu@@ 6
+=======
+frÃ©qu@@ 6
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 gentil 6
 consac@@ 6
 malheureusement 6
@@ -1891,20 +2696,34 @@ honnête 6
 enfance 6
 poule 6
 occuper 6
+<<<<<<< HEAD
 commença 6
 Allemagne 6
 arrê@@ 6
+=======
+commenÃ§a 6
+Allemagne 6
+arrÃª@@ 6
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 ines 6
 soi 6
 université 6
 esse 6
+<<<<<<< HEAD
 réparer 6
+=======
+rÃ©parer 6
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 ign@@ 6
 tel 6
 rel@@ 6
 princip@@ 6
 amus@@ 6
+<<<<<<< HEAD
 bâ@@ 6
+=======
+bÃ¢@@ 6
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 ak@@ 6
 nag@@ 6
 ion 6
@@ -1928,7 +2747,11 @@ importantes 6
 gag@@ 6
 alité 6
 public 6
+<<<<<<< HEAD
 considé@@ 6
+=======
+considÃ©@@ 6
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 respec@@ 6
 oul@@ 6
 ban@@ 6
@@ -1958,8 +2781,13 @@ voulu 5
 réfléchi 5
 Devine 5
 gros@@ 5
+<<<<<<< HEAD
 espéranto 5
 indé@@ 5
+=======
+espÃ©ranto 5
+indÃ©@@ 5
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 vions 5
 New 5
 York 5
@@ -1988,6 +2816,7 @@ folle 5
 nent 5
 retour 5
 quement 5
+<<<<<<< HEAD
 occupés 5
 remède 5
 évi@@ 5
@@ -1997,13 +2826,30 @@ arrêt 5
 nel 5
 fié 5
 décider 5
+=======
+occupÃ©s 5
+remÃ¨de 5
+Ã©vi@@ 5
+pique 5
+Ã©lu 5
+arrÃªt 5
+nel 5
+fiÃ© 5
+dÃ©cider 5
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 command@@ 5
 futur 5
 bonjour 5
 connaisse 5
+<<<<<<< HEAD
 prévenu 5
 Di@@ 5
 quitté 5
+=======
+prÃ©venu 5
+Di@@ 5
+quittÃ© 5
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 populaire 5
 parla 5
 soirée 5
@@ -2016,28 +2862,51 @@ souhaite 5
 croient 5
 lettres 5
 cor@@ 5
+<<<<<<< HEAD
 èvre 5
 élo@@ 5
+=======
+Ã¨vre 5
+Ã©lo@@ 5
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 pul@@ 5
 Soleil 5
 géni@@ 5
 cul@@ 5
+<<<<<<< HEAD
 rép@@ 5
 éter 5
 proch@@ 5
 fix@@ 5
 sons 5
 réaliser 5
+=======
+rÃ©p@@ 5
+Ã©ter 5
+proch@@ 5
+fix@@ 5
+sons 5
+rÃ©aliser 5
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 bles 5
 Italie 5
 enfu@@ 5
 ris 5
+<<<<<<< HEAD
 possibilité 5
 rées 5
 véri@@ 5
 ème 5
 déc@@ 5
 différence 5
+=======
+possibilitÃ© 5
+rÃ©es 5
+vÃ©ri@@ 5
+Ã¨me 5
+dÃ©c@@ 5
+diffÃ©rence 5
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 aurai 5
 bien@@ 5
 ouvrit 5
@@ -2054,7 +2923,11 @@ frais 5
 beurre 5
 vaches 5
 Cor@@ 5
+<<<<<<< HEAD
 échapp@@ 5
+=======
+Ã©chapp@@ 5
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 traduire 5
 dirai 5
 riches 5
@@ -2078,13 +2951,18 @@ enseigner 5
 éveillé 5
 matière 5
 neuf 5
+<<<<<<< HEAD
 coûts 5
+=======
+coÃ»ts 5
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 mag@@ 5
 douleur 5
 commande 5
 impression 5
 voudrait 5
 connaissait 5
+<<<<<<< HEAD
 portée 5
 rir 5
 crise 5
@@ -2092,20 +2970,39 @@ crise 5
 b 5
 servi 5
 héros 5
+=======
+portÃ©e 5
+rir 5
+crise 5
+Ã©tang 5
+b 5
+servi 5
+hÃ©ros 5
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 chaude 5
 meubles 5
 cha 5
 champ 5
 population 5
 importante 5
+<<<<<<< HEAD
 amélior@@ 5
 prêts 5
 élèves 5
+=======
+amÃ©lior@@ 5
+prÃªts 5
+Ã©lÃ¨ves 5
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 croyez 5
 poster 5
 innocent 5
 objectif 5
+<<<<<<< HEAD
 étoile 5
+=======
+Ã©toile 5
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 addi@@ 5
 af@@ 5
 position 5
@@ -2124,7 +3021,11 @@ enfin 5
 diri@@ 5
 gea 5
 chacun 5
+<<<<<<< HEAD
 ès 5
+=======
+Ã¨s 5
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 trom@@ 5
 fac@@ 5
 ador@@ 5
@@ -2133,7 +3034,11 @@ bras 5
 silencieux 5
 froide 5
 acide 5
+<<<<<<< HEAD
 hâte 5
+=======
+hÃ¢te 5
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 fie 5
 petits 5
 rom@@ 5
@@ -2144,7 +3049,11 @@ unique 5
 admi@@ 5
 ore 5
 secr@@ 5
+<<<<<<< HEAD
 tombée 5
+=======
+tombÃ©e 5
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 fro@@ 5
 appelez 5
 envoyer 5
@@ -2156,11 +3065,19 @@ compos@@ 5
 inte 5
 faits 5
 Europe 5
+<<<<<<< HEAD
 mathématiques 5
 sortie 5
 cherches 5
 log@@ 5
 écris 5
+=======
+mathÃ©matiques 5
+sortie 5
+cherches 5
+log@@ 5
+Ã©cris 5
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 date 5
 vali@@ 5
 salaire 5
@@ -2172,6 +3089,7 @@ lég@@ 5
 populaires 5
 foi 5
 lier 5
+<<<<<<< HEAD
 restée 5
 répondu 5
 regard@@ 5
@@ -2184,6 +3102,20 @@ allu@@ 5
 enseign@@ 5
 condu@@ 5
 posé 5
+=======
+restÃ©e 5
+rÃ©pondu 5
+regard@@ 5
+prom@@ 5
+Ã©rer 5
+sel 5
+feriez 5
+rÃ©ellement 5
+allu@@ 5
+enseign@@ 5
+condu@@ 5
+posÃ© 5
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 emplo@@ 5
 mis@@ 5
 onner 5
@@ -2193,7 +3125,11 @@ grands 5
 chant@@ 5
 dér@@ 5
 sentez 5
+<<<<<<< HEAD
 coupé 5
+=======
+coupÃ© 5
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 attendu 5
 sort 5
 signifie 5
@@ -2203,20 +3139,36 @@ form@@ 5
 conscience 5
 le@@ 5
 correspond@@ 5
+<<<<<<< HEAD
 déçu 5
 éré 5
 médic@@ 5
 ours 5
 tionné 5
+=======
+dÃ©Ã§u 5
+Ã©rÃ© 5
+mÃ©dic@@ 5
+ours 5
+tionnÃ© 5
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 cer 5
 voisins 5
 niveau 5
 sport 5
+<<<<<<< HEAD
 félic@@ 5
 résultats 5
 ram@@ 5
 vê@@ 5
 détruit 5
+=======
+fÃ©lic@@ 5
+rÃ©sultats 5
+ram@@ 5
+vÃª@@ 5
+dÃ©truit 5
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 soldats 5
 dispu@@ 5
 bre 5
@@ -2232,7 +3184,11 @@ bandes 5
 he 5
 couteau 5
 trembl@@ 5
+<<<<<<< HEAD
 ût 5
+=======
+Ã»t 5
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 promettre 5
 ennent 5
 cen@@ 5
@@ -2254,6 +3210,7 @@ rejoindre 5
 achet@@ 5
 parie 5
 magazine 5
+<<<<<<< HEAD
 év@@ 5
 animal 5
 sse 5
@@ -2261,6 +3218,15 @@ sse 5
 cartes 5
 gars 5
 pê@@ 5
+=======
+Ã©v@@ 5
+animal 5
+sse 5
+Ã©cou@@ 5
+cartes 5
+gars 5
+pÃª@@ 5
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 pronon@@ 5
 mour@@ 5
 jambe 5
@@ -2281,36 +3247,61 @@ time 5
 venez 5
 foule 5
 ber@@ 5
+<<<<<<< HEAD
 rédu@@ 5
 grâce 5
 comp@@ 5
 cravate 5
 génération 5
 eté 5
+=======
+rÃ©du@@ 5
+grÃ¢ce 5
+comp@@ 5
+cravate 5
+gÃ©nÃ©ration 5
+etÃ© 5
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 quelles 5
 interdit 5
 cou 5
 existence 5
 traité 5
 promesses 5
+<<<<<<< HEAD
 dérange 5
+=======
+dÃ©range 5
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 attrape 5
 plait 5
 conseillé 5
 trouver@@ 5
 suivi 5
+<<<<<<< HEAD
 résolu 5
 assist@@ 5
 emment 5
 gnée 5
+=======
+rÃ©solu 5
+assist@@ 5
+emment 5
+gnÃ©e 5
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 page 5
 tiens 5
 asp@@ 5
 bleu 5
 stylo 5
 ouvrez 5
+<<<<<<< HEAD
 lève 5
 mariés 5
+=======
+lÃ¨ve 5
+mariÃ©s 5
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 corde 5
 soup@@ 5
 tra@@ 5
@@ -2328,9 +3319,15 @@ Mo@@ 5
 gratu@@ 5
 parfait 5
 soutien 5
+<<<<<<< HEAD
 médi@@ 5
 te@@ 5
 réus@@ 5
+=======
+mÃ©di@@ 5
+te@@ 5
+rÃ©us@@ 5
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 terie 5
 capit@@ 5
 clair 5
@@ -2383,8 +3380,13 @@ avions 4
 let 4
 cle 4
 USA 4
+<<<<<<< HEAD
 ço@@ 4
 démé@@ 4
+=======
+Ã§o@@ 4
+dÃ©mÃ©@@ 4
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 moder@@ 4
 films 4
 horreur 4
@@ -2404,12 +3406,18 @@ aca@@ 4
 folie 4
 protéger 4
 sauver 4
+<<<<<<< HEAD
 décl@@ 4
 ête 4
+=======
+dÃ©cl@@ 4
+Ãªte 4
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 ides 4
 seriez 4
 consom@@ 4
 Promettez 4
+<<<<<<< HEAD
 génie 4
 regard 4
 opér@@ 4
@@ -2422,6 +3430,20 @@ prévu 4
 pli@@ 4
 exem@@ 4
 bén@@ 4
+=======
+gÃ©nie 4
+regard 4
+opÃ©r@@ 4
+bruit 4
+recev@@ 4
+sive 4
+Ã®mes 4
+condi@@ 4
+prÃ©vu 4
+pli@@ 4
+exem@@ 4
+bÃ©n@@ 4
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 sent@@ 4
 endre 4
 nul 4
@@ -2433,12 +3455,20 @@ bes 4
 dro@@ 4
 aimée 4
 garage 4
+<<<<<<< HEAD
 réalis@@ 4
+=======
+rÃ©alis@@ 4
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 eront 4
 veuilles 4
 fleur 4
 four@@ 4
+<<<<<<< HEAD
 préférerais 4
+=======
+prÃ©fÃ©rerais 4
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 riel 4
 agir 4
 gâ@@ 4
@@ -2461,14 +3491,22 @@ toit 4
 Bob 4
 Par@@ 4
 couverture 4
+<<<<<<< HEAD
 représent@@ 4
+=======
+reprÃ©sent@@ 4
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 ar 4
 exac@@ 4
 illa 4
 I@@ 4
 dises 4
 lignes 4
+<<<<<<< HEAD
 préoccup@@ 4
+=======
+prÃ©occup@@ 4
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 confec@@ 4
 sac@@ 4
 Inde 4
@@ -2476,12 +3514,20 @@ hur@@ 4
 compag@@ 4
 eille 4
 absur@@ 4
+<<<<<<< HEAD
 beauté 4
+=======
+beautÃ© 4
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 adoles@@ 4
 perdue 4
 avion 4
 billet 4
+<<<<<<< HEAD
 achète 4
+=======
+achÃ¨te 4
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 musicien 4
 attendons 4
 tes@@ 4
@@ -2493,7 +3539,11 @@ prendra 4
 seconde 4
 cure 4
 propri@@ 4
+<<<<<<< HEAD
 pêche 4
+=======
+pÃªche 4
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 crain@@ 4
 cin@@ 4
 terminer 4
@@ -2518,6 +3568,7 @@ permettre 4
 veniez 4
 tenait 4
 rappelez 4
+<<<<<<< HEAD
 ène 4
 raient 4
 inf@@ 4
@@ -2528,6 +3579,18 @@ puni 4
 utilisé 4
 évit@@ 4
 enté 4
+=======
+Ã¨ne 4
+raient 4
+inf@@ 4
+Ã©l@@ 4
+augmentÃ© 4
+prof 4
+puni 4
+utilisÃ© 4
+Ã©vit@@ 4
+entÃ© 4
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 ol@@ 4
 anne 4
 brillante 4
@@ -2537,6 +3600,7 @@ peinture 4
 dira 4
 lement 4
 reuse 4
+<<<<<<< HEAD
 répon@@ 4
 die 4
 brû@@ 4
@@ -2544,6 +3608,15 @@ trice 4
 riz 4
 entré 4
 éclata 4
+=======
+rÃ©pon@@ 4
+die 4
+brÃ»@@ 4
+trice 4
+riz 4
+entrÃ© 4
+Ã©clata 4
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 ang@@ 4
 intelligente 4
 ordres 4
@@ -2554,9 +3627,15 @@ promets 4
 iner 4
 nue 4
 maient 4
+<<<<<<< HEAD
 suggère 4
 impliqué 4
 différences 4
+=======
+suggÃ¨re 4
+impliquÃ© 4
+diffÃ©rences 4
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 atteint 4
 out 4
 trouveras 4
@@ -2576,20 +3655,35 @@ dipl@@ 4
 ôme 4
 volé 4
 mez 4
+<<<<<<< HEAD
 tenté 4
 mè@@ 4
 forêt 4
 traductions 4
 connaissais 4
 étab@@ 4
+=======
+tentÃ© 4
+mÃ¨@@ 4
+forÃªt 4
+traductions 4
+connaissais 4
+Ã©tab@@ 4
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 humaine 4
 sensé 4
 anti@@ 4
 lentement 4
 mauvaises 4
+<<<<<<< HEAD
 habitué 4
 préf@@ 4
 érence 4
+=======
+habituÃ© 4
+prÃ©f@@ 4
+Ã©rence 4
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 fic@@ 4
 sure 4
 assu@@ 4
@@ -2614,8 +3708,13 @@ doute 4
 comportement 4
 invitées 4
 fil@@ 4
+<<<<<<< HEAD
 espèce 4
 précis@@ 4
+=======
+espÃ¨ce 4
+prÃ©cis@@ 4
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 endur@@ 4
 pap@@ 4
 mentir 4
@@ -2629,7 +3728,11 @@ plaisante 4
 utilise 4
 permission 4
 Japonais 4
+<<<<<<< HEAD
 données 4
+=======
+donnÃ©es 4
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 gasp@@ 4
 nav@@ 4
 chons 4
@@ -2641,14 +3744,22 @@ vase 4
 écar@@ 4
 salade 4
 verrou@@ 4
+<<<<<<< HEAD
 aisé 4
+=======
+aisÃ© 4
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 baleine 4
 carrière 4
 série 4
 debout 4
 éte@@ 4
 ticket 4
+<<<<<<< HEAD
 épin@@ 4
+=======
+Ã©pin@@ 4
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 triste 4
 hi 4
 usion 4
@@ -2659,6 +3770,7 @@ océan 4
 risque 4
 contributeur 4
 amical 4
+<<<<<<< HEAD
 acé 4
 propos@@ 4
 rejo@@ 4
@@ -2667,6 +3779,16 @@ spor@@ 4
 produits 4
 Uni@@ 4
 espér@@ 4
+=======
+acÃ© 4
+propos@@ 4
+rejo@@ 4
+piÃ¨ces 4
+spor@@ 4
+produits 4
+Uni@@ 4
+espÃ©r@@ 4
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 Tr@@ 4
 fer 4
 auto@@ 4
@@ -2683,6 +3805,7 @@ inv@@ 4
 crit 4
 parfaitement 4
 restez 4
+<<<<<<< HEAD
 bœuf 4
 sieur 4
 réponds 4
@@ -2694,6 +3817,19 @@ lâche 4
 risques 4
 illard 4
 congé 4
+=======
+bÅ“uf 4
+sieur 4
+rÃ©ponds 4
+meu@@ 4
+expri@@ 4
+photo@@ 4
+lÃ¢che 4
+Ã©chou@@ 4
+risques 4
+illard 4
+congÃ© 4
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 insul@@ 4
 yait 4
 terriblement 4
@@ -2702,8 +3838,13 @@ profonde 4
 forcer 4
 traduction 4
 manqu@@ 4
+<<<<<<< HEAD
 étude 4
 coûté 4
+=======
+Ã©tude 4
+coÃ»tÃ© 4
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 tal@@ 4
 hon@@ 4
 prononcer 4
@@ -2721,9 +3862,15 @@ suivant 4
 épou@@ 4
 tien 4
 pas@@ 4
+<<<<<<< HEAD
 êtres 4
 terai 4
 noyé 4
+=======
+Ãªtres 4
+terai 4
+noyÃ© 4
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 devi@@ 4
 ards 4
 ivent 4
@@ -2761,16 +3908,28 @@ ingénieurs 4
 nier 4
 tru@@ 4
 attaqu@@ 4
+<<<<<<< HEAD
 gér@@ 4
 véritable 4
+=======
+gÃ©r@@ 4
+vÃ©ritable 4
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 sister 4
 pression 4
 coupable 4
 Londres 4
+<<<<<<< HEAD
 présent@@ 4
 mêmes 4
 empêché 4
 économ@@ 4
+=======
+prÃ©sent@@ 4
+mÃªmes 4
+empÃªchÃ© 4
+Ã©conom@@ 4
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 expliqu@@ 4
 objets 4
 marron 4
@@ -2778,7 +3937,11 @@ hau@@ 4
 chinois 4
 bas@@ 4
 satis@@ 4
+<<<<<<< HEAD
 rê@@ 4
+=======
+rÃª@@ 4
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 bles@@ 4
 cir@@ 4
 cancer 4
@@ -2787,21 +3950,35 @@ monte 4
 poème 4
 rapide 4
 Per@@ 4
+<<<<<<< HEAD
 âme 4
 deuxième 4
 dégoû@@ 4
+=======
+Ã¢me 4
+deuxiÃ¨me 4
+dÃ©goÃ»@@ 4
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 bordel 4
 prennent 4
 orange 4
 mise 4
 sen@@ 4
+<<<<<<< HEAD
 sûrement 4
+=======
+sÃ»rement 4
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 faible 4
 séché 4
 casser 4
 hu@@ 4
 plais@@ 4
+<<<<<<< HEAD
 Américains 4
+=======
+AmÃ©ricains 4
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 gri@@ 4
 guim@@ 4
 sortez 4
@@ -2811,15 +3988,22 @@ ayant 4
 out@@ 4
 puissance 4
 culture 4
+<<<<<<< HEAD
 touché 4
 mémoire 4
 canapé 4
+=======
+touchÃ© 4
+mÃ©moire 4
+canapÃ© 4
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 aimerait 4
 fautes 4
 étant 4
 ep@@ 4
 Contin@@ 4
 remar@@ 4
+<<<<<<< HEAD
 fidèle 4
 image 4
 ges 4
@@ -2832,17 +4016,40 @@ peint 4
 pleure 4
 piè@@ 4
 détec@@ 4
+=======
+fidÃ¨le 4
+image 4
+ges 4
+trez 4
+mÃ©tro 4
+tante 4
+note 4
+rÃ©gi@@ 4
+peint 4
+pleure 4
+piÃ¨@@ 4
+dÃ©tec@@ 4
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 prudent 4
 som@@ 4
 ze 4
 matins 4
 sourire 4
+<<<<<<< HEAD
 rési@@ 4
 lien 4
 exig@@ 4
 server 4
 causé 4
 légumes 4
+=======
+rÃ©si@@ 4
+lien 4
+exig@@ 4
+server 4
+causÃ© 4
+lÃ©gumes 4
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 Kate 4
 naturel 4
 ari@@ 4
@@ -2869,7 +4076,11 @@ effec@@ 4
 conversation 4
 princesse 4
 soulag@@ 4
+<<<<<<< HEAD
 étaire 4
+=======
+Ã©taire 4
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 concentrer 4
 attendais 4
 connue 4
@@ -2889,7 +4100,11 @@ forts 4
 derni@@ 4
 tim@@ 4
 jo@@ 4
+<<<<<<< HEAD
 possède 4
+=======
+possÃ¨de 4
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 tur@@ 4
 entier 4
 reux 4
@@ -2897,10 +4112,17 @@ paro@@ 4
 contact 4
 semblait 4
 quitte 4
+<<<<<<< HEAD
 déli@@ 4
 conférence 4
 célibataire 4
 phénomène 4
+=======
+dÃ©li@@ 4
+confÃ©rence 4
+cÃ©libataire 4
+phÃ©nomÃ¨ne 4
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 bizar@@ 4
 ball 4
 éti@@ 4
@@ -2908,7 +4130,11 @@ convainc@@ 4
 souri@@ 4
 to 4
 impatience 4
+<<<<<<< HEAD
 troisième 4
+=======
+troisiÃ¨me 4
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 van@@ 4
 angle 4
 esp@@ 4
@@ -2924,6 +4150,7 @@ mecs 4
 da 4
 remettre 4
 traite 4
+<<<<<<< HEAD
 ténu@@ 4
 rec@@ 4
 ame 4
@@ -2932,6 +4159,16 @@ commun 4
 erre 4
 appelée 4
 invités 4
+=======
+tÃ©nu@@ 4
+rec@@ 4
+ame 4
+chÃ©e 4
+commun 4
+erre 4
+appelÃ©e 4
+invitÃ©s 4
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 erons 4
 enc@@ 4
 ands 4
@@ -2949,9 +4186,15 @@ semblant 4
 nôtre 4
 fran@@ 4
 onnes 4
+<<<<<<< HEAD
 aéroport 4
 sain 4
 époque 4
+=======
+aÃ©roport 4
+sain 4
+Ã©poque 4
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 longs 4
 chanceuse 4
 connaissance 4
@@ -2960,7 +4203,11 @@ pous@@ 4
 agressi@@ 4
 pars 4
 blo@@ 4
+<<<<<<< HEAD
 até 4
+=======
+atÃ© 4
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 emprunter 4
 rique 4
 cath@@ 4
@@ -2972,9 +4219,15 @@ caf@@ 3
 gueule 3
 absent 3
 cis@@ 3
+<<<<<<< HEAD
 rédi@@ 3
 quasiment 3
 dépasser 3
+=======
+rÃ©di@@ 3
+quasiment 3
+dÃ©passer 3
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
 ends 3
 ligne 3
 rier 3
@@ -2984,6 +4237,7 @@ monter 3
 fallut 3
 dent@@ 3
 mangent 3
+<<<<<<< HEAD
 ône 3
 discuté 3
 tent@@ 3
@@ -2995,3 +4249,15 @@ rions 3
 Pro@@ 3
 gez 3
 197@@ 3
+=======
+Ã´ne 3
+discutÃ© 3
+tent@@ 3
+atives 3
+rage 3
+dÃ©barrass@@ 3
+dÃ©couverte 3
+rions 3
+Pro@@ 3
+gez 3
+>>>>>>> d7ad85684929c2d53c2b2d2584fa38b868d52cd6
