@@ -30,7 +30,7 @@ cat $data/preprocessed/train.$src.p | perl moses_scripts/truecase.perl --model $
 cat $data/preprocessed/train.$tgt.p | perl moses_scripts/truecase.perl --model $data/preprocessed/tm.$tgt > $data/preprocessed/train.$tgt 
 
 # train BPE tokenizer with tokenizers library
-cat $data/preprocessed/train.$tgt $data/preprocessed/train.$src | subword-nmt learn-bpe -s 10000 -o $data/preprocessed/bpe.codes
+cat $data/preprocessed/train.$tgt $data/preprocessed/train.$src | subword-nmt learn-bpe -s 8000 -o $data/preprocessed/bpe.codes
 # python $pwd/bpe_tokenizer.py $data/preprocessed/train.$src $data/preprocessed/train.$tgt $data/preprocessed/vocab.json
 
 # Apply BPE tokenizer to splits
@@ -47,6 +47,6 @@ do
 done
 
 # preprocess all files for model training
-python preprocess.py --target-lang $tgt --source-lang $src --dest-dir $data/prepared/ --train-prefix $data/preprocessed/train.bpe --valid-prefix $data/preprocessed/valid.bpe --test-prefix $data/preprocessed/test.bpe --tiny-train-prefix $data/preprocessed/tiny_train.bpe --threshold-src 3 --threshold-tgt 3 --num-words-src 5000 --num-words-tgt 5000
+python preprocess.py --target-lang $tgt --source-lang $src --dest-dir $data/prepared/ --train-prefix $data/preprocessed/train.bpe --valid-prefix $data/preprocessed/valid.bpe --test-prefix $data/preprocessed/test.bpe --tiny-train-prefix $data/preprocessed/tiny_train.bpe --threshold-src 1 --threshold-tgt 1 --num-words-src 3000 --num-words-tgt 3000
 
 echo "done!"
