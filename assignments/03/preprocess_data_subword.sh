@@ -30,39 +30,23 @@ cat $data/preprocessed/train.$src.p | perl moses_scripts/truecase.perl --model $
 cat $data/preprocessed/train.$tgt.p | perl moses_scripts/truecase.perl --model $data/preprocessed/tm.$tgt > $data/preprocessed/train.$tgt 
 
 # train BPE tokenizer with tokenizers library
-<<<<<<< HEAD
 cat $data/preprocessed/train.$tgt $data/preprocessed/train.$src | subword-nmt learn-bpe -s 10000 -o $data/preprocessed/bpe.codes
 # python $pwd/bpe_tokenizer.py $data/preprocessed/train.$src $data/preprocessed/train.$tgt $data/preprocessed/vocab.json
 
 # Apply BPE tokenizer to splits
 for split in train valid test tiny_train
 do 
-=======
-cat $data/preprocessed/train.$tgt $data/preprocessed/train.$src | subword-nmt learn-bpe -s 8000 -o $data/preprocessed/bpe.codes
-# python $pwd/bpe_tokenizer.py $data/preprocessed/train.$src $data/preprocessed/train.$tgt $data/preprocessed/vocab.json
-
-# Apply BPE tokenizer to splits
-for split in train valid test tiny_train 
-do
->>>>>>> 4e9ffb7aa4977c3f2d84a188aa62862e8ebc14ee
     for lang in $src $tgt
     do
         # subword-nmt apply-bpe -c $data/preprocessed/bpe.codes < $data/preprocessed/$split.$lang | subword-nmt get-vocab > $data/preprocessed/$split.vocab.$lang
         # subword-nmt apply-bpe -c $data/preprocessed/bpe.codes < $data/preprocessed/$split.$lang | subword-nmt get-vocab > $data/preprocessed/$split.vocab.$lang
-<<<<<<< HEAD
         # subword-nmt apply-bpe -c $data/preprocessed/bpe.codes --vocabulary $data/preprocessed/$split.vocab.$lang --vocabulary-threshold 10 < $data/preprocessed/$split.$lang > $data/preprocessed/$split.bpe.$lang
-=======
->>>>>>> 4e9ffb7aa4977c3f2d84a188aa62862e8ebc14ee
         subword-nmt apply-bpe -c $data/preprocessed/bpe.codes < $data/preprocessed/$split.$lang > $data/preprocessed/$split.bpe.$lang
         # python $pwd/bpe_tokenizer_apply.py $data/preprocessed/vocab.json $data/preprocessed/$split.$lang $data/preprocessed/$split.bpe.$lang
     done
 done
 
 # preprocess all files for model training
-<<<<<<< HEAD
 python preprocess.py --target-lang $tgt --source-lang $src --dest-dir $data/prepared/ --train-prefix $data/preprocessed/train.bpe --valid-prefix $data/preprocessed/valid.bpe --test-prefix $data/preprocessed/test.bpe --tiny-train-prefix $data/preprocessed/tiny_train.bpe --threshold-src 3 --threshold-tgt 3 --num-words-src 5000 --num-words-tgt 5000
-=======
-python preprocess.py --target-lang $tgt --source-lang $src --dest-dir $data/prepared/ --train-prefix $data/preprocessed/train.bpe --valid-prefix $data/preprocessed/valid.bpe --test-prefix $data/preprocessed/test.bpe --tiny-train-prefix $data/preprocessed/tiny_train.bpe --threshold-src 10 --threshold-tgt 10 --num-words-src 5000 --num-words-tgt 5000
->>>>>>> 4e9ffb7aa4977c3f2d84a188aa62862e8ebc14ee
 
 echo "done!"
