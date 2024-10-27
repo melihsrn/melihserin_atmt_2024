@@ -11246,7 +11246,7 @@ The apple does not fall far from the trunk .
 They told me they wanted to leave .
 The policeman visited all the houses .
 Speak slowly , please .
-Dr . Yukawa played an important part in the scientific study .
+Dr. Yukawa played an important part in the scientific study .
 Susan is a good cook .
 Can one better bear the sins of an atheist ?
 He found the door closed .
@@ -12878,7 +12878,7 @@ These texts were written in Hebrew , not in Aramaic .
 You look familiar . Do I know you ?
 We must do it again .
 She made a tour of America , stopping in six cities .
-Mr . Young wishes his son would study harder .
+Mr. Young wishes his son would study harder .
 I have no faults .
 Please sign here .
 I need a little help here .
@@ -16270,7 +16270,7 @@ The children slid down the bank .
 Do you believe in a god ?
 She thinks of nothing but making money .
 May I sharpen my pencil ?
-It seems that Mr . Tanaka has taken his exam .
+It seems that Mr. Tanaka has taken his exam .
 Maybe I went a little too far .
 She advised him to keep his promises .
 I warned you ; now do as you wish .
@@ -16872,7 +16872,7 @@ The snow melted away when spring came .
 I have no idea who he is .
 I am hers and she is mine .
 Are you sure about the cost of that car ?
-I respect my English teacher , Mr . Taniguchi .
+I respect my English teacher , Mr. Taniguchi .
 Are you sure you don &apos;t want something to eat ?
 That &apos;s pretty much all you need to know .
 Do you have any light beer ?
