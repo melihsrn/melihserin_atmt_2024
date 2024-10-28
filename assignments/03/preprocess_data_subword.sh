@@ -47,7 +47,7 @@ do
             # subword-nmt apply-bpe -c $data/preprocessed/bpe.codes < $data/preprocessed/$split.$lang | subword-nmt get-vocab > $data/preprocessed/$split.vocab.$lang
             # subword-nmt apply-bpe -c $data/preprocessed/bpe.codes < $data/preprocessed/$split.$lang | subword-nmt get-vocab > $data/preprocessed/$split.vocab.$lang
             # subword-nmt apply-bpe -c $data/preprocessed/bpe.codes --vocabulary $data/preprocessed/$split.vocab.$lang --vocabulary-threshold 10 < $data/preprocessed/$split.$lang > $data/preprocessed/$split.bpe.$lang
-            subword-nmt apply-bpe -c $data/preprocessed/bpe.codes < $data/preprocessed/$split.$lang > $data/preprocessed/$split.bpe.$lang
+            subword-nmt apply-bpe -c $pwd/data/parallel/preprocessed/bpe.codes < $data/preprocessed/$split.$lang > $data/preprocessed/$split.bpe.$lang
             # python $pwd/bpe_tokenizer_apply.py $data/preprocessed/vocab.json $data/preprocessed/$split.$lang $data/preprocessed/$split.bpe.$lang
         done
     done

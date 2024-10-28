@@ -1157,7 +1157,7 @@ he got very angry , for she refused to follow his advice .
 nous ne sommes pas riches .
 we are not rich .
 l&apos; énergie atomique peut être utilisée à des fins pacifiques .
-atomic energy can be used for peaceful ends .
+Atomic energy can be used for peaceful ends .
 j&apos; irai si vous allez .
 I will go if you go .
 Arrêtez de hurler .
@@ -11979,7 +11979,7 @@ please keep this information to yourself .
 Tom est dans la salle d&apos; attente .
 Tom is in the waiting area .
 l&apos; énergie atomique peut être utilisée à des fins pacifiques .
-atomic energy can be utilized for peaceful purposes .
+Atomic energy can be utilized for peaceful purposes .
 je peux parler l&apos; espéranto comme un indigène .
 I can speak Esperanto like a native .
 tu te débrouilles très bien . continue .
