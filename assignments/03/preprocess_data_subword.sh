@@ -15,7 +15,7 @@ cd $base
 # train BPE tokenizer with subword-nmt library
 cat $pwd/data/parallel/preprocessed/train.$tgt $pwd/data/parallel/preprocessed/train.$src | subword-nmt learn-bpe -s 8000 -o $pwd/data/parallel/preprocessed/bpe.codes
 
-for model in parallel copied translated back-translated
+for model in parallel copied translated back-translated back-translated+copied back-translated+translated
 do
     # change into base directory to ensure paths are valid
     data=$pwd/data/$model/
