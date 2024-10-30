@@ -11,12 +11,12 @@ base=$pwd/../..
 cd $base
 
 # train BPE tokenizer with subword-nmt library
-cat $pwd/data/parallel/preprocessed/train.$tgt $pwd/data/parallel/preprocessed/train.$src | subword-nmt learn-bpe -s 8000 -o $pwd/data/parallel/preprocessed/bpe.codes
+cat $pwd/data-on-pre-trained/parallel/preprocessed/train.$tgt $pwd/data-on-pre-trained/parallel/preprocessed/train.$src | subword-nmt learn-bpe -s 12000 -o $pwd/data-on-pre-trained/parallel/preprocessed/bpe.codes
 
 for model in parallel copied translated back-translated back-translated+copied back-translated+translated
 do
     # change into base directory to ensure paths are valid
-    data=$pwd/data/$model/
+    data=$pwd/data-on-pre-trained/$model/
 
     # create preprocessed directory
     mkdir -p $data/preprocessed/
@@ -38,11 +38,11 @@ do
     do 
         for lang in $src $tgt
         do
-            subword-nmt apply-bpe -c $pwd/data/parallel/preprocessed/bpe.codes < $data/preprocessed/$split.$lang > $data/preprocessed/$split.bpe.$lang
+            subword-nmt apply-bpe -c $pwd/data-on-pre-trained/parallel/preprocessed/bpe.codes < $data/preprocessed/$split.$lang > $data/preprocessed/$split.bpe.$lang
         done
     done
 
     # preprocess all files for model training
-    python preprocess.py --target-lang $tgt --source-lang $src --dest-dir $data/prepared/ --train-prefix $data/preprocessed/train.bpe --valid-prefix $data/preprocessed/valid.bpe --test-prefix $data/preprocessed/test.bpe --tiny-train-prefix $data/preprocessed/tiny_train.bpe --threshold-src 1 --threshold-tgt 1 --num-words-src 3000 --num-words-tgt 3000
+    python preprocess.py --target-lang $tgt --source-lang $src --dest-dir $data/prepared/ --train-prefix $data/preprocessed/train.bpe --valid-prefix $data/preprocessed/valid.bpe --test-prefix $data/preprocessed/test.bpe --tiny-train-prefix $data/preprocessed/tiny_train.bpe --threshold-src 1 --threshold-tgt 1 --num-words-src 4000 --num-words-tgt 4000
 done
 echo "done!"
