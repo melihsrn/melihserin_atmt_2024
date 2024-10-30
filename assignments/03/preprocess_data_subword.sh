@@ -3,8 +3,6 @@
 
 set -e
 
-# source C:/Users/User/Desktop/MT/atmt311/Scripts/activate
-
 pwd=`dirname "$(readlink -f "$0")"`
 src=fr
 tgt=en
@@ -35,20 +33,12 @@ do
     cat $data/preprocessed/train.$src.p | perl moses_scripts/truecase.perl --model $data/preprocessed/tm.$src > $data/preprocessed/train.$src 
     cat $data/preprocessed/train.$tgt.p | perl moses_scripts/truecase.perl --model $data/preprocessed/tm.$tgt > $data/preprocessed/train.$tgt 
 
-    # train BPE tokenizer with tokenizers library
-    # cat $data/preprocessed/train.$tgt $data/preprocessed/train.$src | subword-nmt learn-bpe -s 8000 -o $data/preprocessed/bpe.codes
-    # python $pwd/bpe_tokenizer.py $data/preprocessed/train.$src $data/preprocessed/train.$tgt $data/preprocessed/vocab.json
-
     # Apply BPE tokenizer to splits
     for split in train valid test tiny_train
     do 
         for lang in $src $tgt
         do
-            # subword-nmt apply-bpe -c $data/preprocessed/bpe.codes < $data/preprocessed/$split.$lang | subword-nmt get-vocab > $data/preprocessed/$split.vocab.$lang
-            # subword-nmt apply-bpe -c $data/preprocessed/bpe.codes < $data/preprocessed/$split.$lang | subword-nmt get-vocab > $data/preprocessed/$split.vocab.$lang
-            # subword-nmt apply-bpe -c $data/preprocessed/bpe.codes --vocabulary $data/preprocessed/$split.vocab.$lang --vocabulary-threshold 10 < $data/preprocessed/$split.$lang > $data/preprocessed/$split.bpe.$lang
             subword-nmt apply-bpe -c $pwd/data/parallel/preprocessed/bpe.codes < $data/preprocessed/$split.$lang > $data/preprocessed/$split.bpe.$lang
-            # python $pwd/bpe_tokenizer_apply.py $data/preprocessed/vocab.json $data/preprocessed/$split.$lang $data/preprocessed/$split.bpe.$lang
         done
     done
 
