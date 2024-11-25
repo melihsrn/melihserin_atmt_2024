@@ -120,17 +120,29 @@ def main(args):
                 node = BeamSearchNode(searches[i], emb, lstm_out, final_hidden, final_cell,
                                       mask, torch.cat((go_slice[i], next_word)), log_p, 1)
                 # __QUESTION 3: Why do we add the node with a negative score?
-                searches[i].add(-node.eval(args.alpha), node)
-
+                searches[i].add_constant(-node.eval(args.alpha), node)
         #import pdb;pdb.set_trace()
         # Start generating further tokens until max sentence length reached
         for _ in range(args.max_len-1):
 
             # Get the current nodes to expand
-            nodes = [n[1] for s in searches for n in s.get_current_beams()]
+            nodes = [(n[1],n[2]) for s in searches for n in s.get_current_beams_constant()]
+            eos_info = [node[1] for node in nodes]
+            nodes = [node[0] for node in nodes]
 
-            if nodes == []:
-                break # All beams ended in EOS
+            if True:
+                print((_,sum(eos_info),len(nodes)))
+            
+            # stop criterion
+            if sum(eos_info) == args.beam_size * batch_size:
+                break # all nodes are finished
+
+            # equalize sequence length by unk tokens
+            length = max([len(node.sequence) for node in nodes])
+            for node in nodes:
+                if len(node.sequence) < length:
+                    node.sequence = torch.cat((node.sequence.cpu(), torch.tensor([tgt_dict.unk_idx]*(length - len(node.sequence))).long()))
+
             
             # Reconstruct prev_words, encoder_out from current beam search nodes
             prev_words = torch.stack([node.sequence for node in nodes])
@@ -172,32 +184,40 @@ def main(args):
                     # What would happen if we did not make this distinction?
 
                     # Store the node as final if EOS is generated
-                    if next_word[-1] == tgt_dict.eos_idx:
+                    is_completed = eos_info[i]
+                    if is_completed:
+                        search.add_constant_final(-node.eval(args.alpha), node)
+                    elif next_word[-1] == tgt_dict.eos_idx:
                         node = BeamSearchNode(
                             search, node.emb, node.lstm_out, node.final_hidden,
                             node.final_cell, node.mask, torch.cat((prev_words[i][0].view([1]),
                             next_word)), node.logp, node.length
                             )
-                        search.add_final(-node.eval(args.alpha), node)
-
-                    # Add the node to current nodes for next iteration
+                        # mark finished sentences by adding them to "final" but do not remove them from the current nodes
+                        search.add_constant_final(-node.eval(args.alpha), node)
                     else:
                         node = BeamSearchNode(
                             search, node.emb, node.lstm_out, node.final_hidden,
                             node.final_cell, node.mask, torch.cat((prev_words[i][0].view([1]),
                             next_word)), node.logp + log_p, node.length + 1
-                            )
-                        search.add(-node.eval(args.alpha), node)
+                            )                
+                        search.add_constant(-node.eval(args.alpha), node)
 
             # #import pdb;pdb.set_trace()
             # __QUESTION 5: What happens internally when we prune our beams?
             # How do we know we always maintain the best sequences?
             for search in searches:
-                search.prune()
+                search.prune_pruning_based()
             
 
         # Segment into sentences
-        best_sents = torch.stack([search.get_best()[1].sequence[1:].cpu() for search in searches])
+        sents = [search.get_best_constant()[1].sequence[1:].cpu() for search in searches]
+        # equalize sequence length by unk tokens
+        length = max([len(sent) for sent in sents])
+        for i,sent in enumerate(sents):
+            if len(sent) < length:
+                sents[i] = torch.cat((sent, torch.tensor([tgt_dict.unk_idx]*(length - len(sent))).long()))        
+        best_sents = torch.stack(sents)
 
 
         decoded_batch = best_sents.numpy()

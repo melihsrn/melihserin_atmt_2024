@@ -121,6 +121,36 @@ class BeamSearch(object):
 
         self.nodes = nodes
 
+    def prune_pruning_based(self):
+        """Removes all nodes but the beam_size best ones (lowest neg log prob)."""
+        finished_nodes = PriorityQueue()
+        unfinished_nodes = PriorityQueue()
+        nodes = PriorityQueue()
+
+        while not self.nodes.empty():
+            node = self.nodes.get()
+            if node[3]:
+                finished_nodes.put(node)
+            else:
+                unfinished_nodes.put(node)
+
+        num_finished = finished_nodes.qsize()
+        highest_prob= 0
+        for _ in range(num_finished):
+            if not finished_nodes.empty():
+                node = finished_nodes.get()
+                if node[0] > highest_prob:
+                    highest_prob = node[0]
+                nodes.put(node)
+
+        for _ in range(self.beam_size - num_finished):
+            if not unfinished_nodes.empty():
+                node = unfinished_nodes.get()
+                if node[0]>= highest_prob:
+                    nodes.put(node)
+
+        self.nodes = nodes
+
 
 class BeamSearchNode(object):
     """ Defines a search node and stores values important for computation of beam search path"""
