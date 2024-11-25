@@ -21,6 +21,16 @@ class BeamSearch(object):
         """ Adds a new beam search node to the queue of current nodes """
         self.nodes.put((score, next(self._counter), node))
 
+    def add_constant(self, score, node):
+        """ Adds a new beam search node to the queue of current nodes """
+        self.nodes.put((score, next(self._counter), node,False))
+
+    def add_constant_final(self, score, node):
+        """ Adds a beam search path that ended in EOS (= finished sentence) """
+        # ensure all node paths have the same length for batch ops
+        # node.sequence = torch.cat((node.sequence.cpu(), torch.tensor([self.pad]).long()))
+        self.nodes.put((score, next(self._counter), node,True))
+
     def add_final(self, score, node):
         """ Adds a beam search path that ended in EOS (= finished sentence) """
         # ensure all node paths have the same length for batch ops
@@ -34,6 +44,16 @@ class BeamSearch(object):
         while not self.nodes.empty() and len(nodes) < self.beam_size:
             node = self.nodes.get()
             nodes.append((node[0], node[2]))
+        return nodes
+    
+    def get_current_beams_constant(self):
+        """ Returns beam_size current nodes with the lowest negative log probability """
+        nodes = []
+        while not self.nodes.empty() and len(nodes) < self.beam_size:
+            node = self.nodes.get()
+            # if node[3]:
+            #     continue
+            nodes.append((node[0], node[2],node[3]))
         return nodes
 
     def get_best(self):
@@ -53,6 +73,20 @@ class BeamSearch(object):
         node = (node[0], node[2])
 
         return node
+    
+    def get_best_constant(self):
+        """ Returns final node with the lowest negative log probability """
+        # Merge EOS paths and those that were stopped by
+        # max sequence length (still in nodes)
+        # merged = PriorityQueue()
+        # for _ in range(self.nodes.qsize()):
+        #     node = self.nodes.get()
+        #     merged.put(node)
+
+        node = self.nodes.get()
+        node = (node[0], node[2])
+
+        return node
 
     def prune(self):
         """ Removes all nodes but the beam_size best ones (lowest neg log prob) """
@@ -62,6 +96,29 @@ class BeamSearch(object):
         for _ in range(self.beam_size-finished):
             node = self.nodes.get()
             nodes.put(node)
+        self.nodes = nodes
+
+    def prune_constant(self):
+        """Removes all nodes but the beam_size best ones (lowest neg log prob)."""
+        finished_nodes = PriorityQueue()
+        unfinished_nodes = PriorityQueue()
+        nodes = PriorityQueue()
+
+        while not self.nodes.empty():
+            node = self.nodes.get()
+            if node[3]:
+                finished_nodes.put(node)
+            else:
+                unfinished_nodes.put(node)
+
+        num_finished = finished_nodes.qsize()
+        for _ in range(num_finished):
+            nodes.put(finished_nodes.get())
+
+        for _ in range(self.beam_size - num_finished):
+            if not unfinished_nodes.empty():
+                nodes.put(unfinished_nodes.get())
+
         self.nodes = nodes
 
 
@@ -82,6 +139,8 @@ class BeamSearchNode(object):
         self.length = length
 
         self.search = search
+
+        # self.is_done = is_done
 
     def eval(self, alpha=0.0):
         """ Returns score of sequence up to this node 
