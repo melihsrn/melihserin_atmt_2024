@@ -135,18 +135,18 @@ class BeamSearch(object):
                 unfinished_nodes.put(node)
 
         num_finished = finished_nodes.qsize()
-        highest_prob= 0
+        highest_prob= float("inf")
         for _ in range(num_finished):
             if not finished_nodes.empty():
                 node = finished_nodes.get()
-                if node[0] > highest_prob:
+                if node[0] < highest_prob:
                     highest_prob = node[0]
                 nodes.put(node)
 
         for _ in range(self.beam_size - num_finished):
             if not unfinished_nodes.empty():
                 node = unfinished_nodes.get()
-                if node[0]>= highest_prob:
+                if node[0]<= highest_prob:
                     nodes.put(node)
 
         self.nodes = nodes
