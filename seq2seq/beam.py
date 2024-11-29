@@ -135,18 +135,18 @@ class BeamSearch(object):
                 unfinished_nodes.put(node)
 
         num_finished = finished_nodes.qsize()
-        highest_prob= float("inf")
+        highest_prob= float("inf")  # -float("inf") when Log Probability is assumed to be metric
         for _ in range(num_finished):
             if not finished_nodes.empty():
                 node = finished_nodes.get()
-                if node[0] < highest_prob:
+                if node[0] < highest_prob: # node[0] > highest_prob when Log Probability is assumed to be metric
                     highest_prob = node[0]
                 nodes.put(node)
 
         for _ in range(self.beam_size - num_finished):
             if not unfinished_nodes.empty():
                 node = unfinished_nodes.get()
-                if node[0]<= highest_prob:
+                if node[0]<= highest_prob: # node[0] >= highest_prob when Log Probability is assumed to be metric
                     nodes.put(node)
 
         self.nodes = nodes
@@ -169,8 +169,6 @@ class BeamSearchNode(object):
         self.length = length
 
         self.search = search
-
-        # self.is_done = is_done
 
     def eval(self, alpha=0.0):
         """ Returns score of sequence up to this node 
